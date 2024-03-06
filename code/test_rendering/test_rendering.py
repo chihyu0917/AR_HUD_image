@@ -68,6 +68,24 @@ if __name__ == '__main__':
     pat22_img,pat22_img_width,pat22_img_height=jetson.utils.loadImageRGBA("./png/N_B1_S_2.png")
     pat23_img,pat23_img_width,pat23_img_height=jetson.utils.loadImageRGBA("./png/N_B1_S_3.png")
     pat24_img,pat24_img_width,pat24_img_height=jetson.utils.loadImageRGBA("./png/N_B1_S_4.png")
+    pat25_img,pat25_img_width,pat25_img_height=jetson.utils.loadImageRGBA("./png/N_B1_FTR.png")
+    pat26_img,pat26_img_width,pat26_img_height=jetson.utils.loadImageRGBA("./png/N_B1_NTR_2.png")
+    pat27_img,pat27_img_width,pat27_img_height=jetson.utils.loadImageRGBA("./png/N_B1_NTR_4.png")
+    pat28_img,pat28_img_width,pat28_img_height=jetson.utils.loadImageRGBA("./png/N_B1_NTR_3.png")
+    pat29_img,pat29_img_width,pat29_img_height=jetson.utils.loadImageRGBA("./png/N_B1_NTR_1.png")
+    pat30_img,pat30_img_width,pat30_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_1.png")
+    pat31_img,pat31_img_width,pat31_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_2_a.png")
+    pat32_img,pat32_img_width,pat32_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_2_b.png")
+    pat33_img,pat33_img_width,pat33_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_2_c.png")
+    pat34_img,pat34_img_width,pat34_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_2.png")
+    pat35_img,pat35_img_width,pat35_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_3_a.png")
+    pat36_img,pat36_img_width,pat36_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_3_b.png")
+    pat37_img,pat37_img_width,pat37_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_3_c.png")
+    pat38_img,pat38_img_width,pat38_img_height=jetson.utils.loadImageRGBA("./png/N_B2_TRI_3_d.png")
+    pat39_img,pat39_img_width,pat39_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_B.png")
+    pat40_img,pat40_img_width,pat40_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_BA.png")
+    pat41_img,pat41_img_width,pat41_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_R.png")
+
 
     # image position
 
@@ -85,90 +103,86 @@ if __name__ == '__main__':
 
     pat2_alpha=0
     pat2_img_x=265
-    pat2_img_y=387
+    pat2_img_y=390
     pat2_img_width=240
     pat2_img_height=145
 
     pat3_alpha=0
     pat3_img_x=265
-    pat3_img_y=387
+    pat3_img_y=390
     pat3_img_width=240
     pat3_img_height=145
 
     pat4_alpha=0
     pat4_img_x=265
-    pat4_img_y=387
+    pat4_img_y=390
     pat4_img_width=240
     pat4_img_height=145
     
-    test_txt_x=330
-    test_txt_y=480
-    test_txt_size=150
-    test_txt_R,test_txt_G,test_txt_B,test_txt_A=(255,0,0,255)
 
     pat5_alpha=0
-    pat5_img_x=571
-    pat5_img_y=422
+    pat5_img_x=560
+    pat5_img_y=417
     pat5_img_width=160
     pat5_img_height=90
 
     pat6_alpha=0
-    pat6_img_x=571
-    pat6_img_y=407
+    pat6_img_x=560
+    pat6_img_y=403
     pat6_img_width=160
     pat6_img_height=118
 
     pat7_alpha=0
-    pat7_img_x=571
-    pat7_img_y=407
+    pat7_img_x=560
+    pat7_img_y=401
     pat7_img_width=160
     pat7_img_height=123
 
     pat8_alpha=0
-    pat8_img_x=571
+    pat8_img_x=560
     pat8_img_y=422
     pat8_img_width=160
     pat8_img_height=80
 
     pat9_alpha=0
-    pat9_img_x=571
-    pat9_img_y=407
+    pat9_img_x=560
+    pat9_img_y=398
     pat9_img_width=160
     pat9_img_height=128
 
     pat10_alpha=0
-    pat10_img_x=785
-    pat10_img_y=407
+    pat10_img_x=782
+    pat10_img_y=404
     pat10_img_width=219
     pat10_img_height=120
 
     pat11_alpha=0
-    pat11_img_x=780
-    pat11_img_y=407
+    pat11_img_x=770
+    pat11_img_y=404
     pat11_img_width=231
     pat11_img_height=120
 
     pat12_alpha=0
-    pat12_img_x=780
-    pat12_img_y=407
+    pat12_img_x=770
+    pat12_img_y=404
     pat12_img_width=230
     pat12_img_height=120
 
     pat13_alpha=0
-    pat13_img_x=787
-    pat13_img_y=409
+    pat13_img_x=770
+    pat13_img_y=404
     pat13_img_width=215
     pat13_img_height=115
 
     pat14_alpha=0
-    pat14_img_x=787
-    pat14_img_y=409
+    pat14_img_x=770
+    pat14_img_y=404
     pat14_img_width=215
     pat14_img_height=115
 
     pat15_alpha=0
-    pat15_img_x=780
-    pat15_img_y=419
+    pat15_img_x=776
+    pat15_img_y=404
     pat15_img_width=230
     pat15_img_height=95
 
@@ -198,33 +212,141 @@ if __name__ == '__main__':
 
     pat20_alpha=0
     pat20_img_x=585
-    pat20_img_y=175
+    pat20_img_y=260
     pat20_img_width=110
     pat20_img_height=285
 
     pat21_alpha=0
     pat21_img_x=585
-    pat21_img_y=175
+    pat21_img_y=260
     pat21_img_width=110
     pat21_img_height=285
 
     pat22_alpha=0
     pat22_img_x=585
-    pat22_img_y=175
+    pat22_img_y=260
     pat22_img_width=110
     pat22_img_height=285
 
     pat23_alpha=0
     pat23_img_x=585
-    pat23_img_y=175
+    pat23_img_y=260
     pat23_img_width=110
     pat23_img_height=285
 
     pat24_alpha=0
     pat24_img_x=585
-    pat24_img_y=175
+    pat24_img_y=260
     pat24_img_width=110
     pat24_img_height=285
+
+    pat25_alpha=0
+    pat25_img_x=585
+    pat25_img_y=175
+    pat25_img_width=183
+    pat25_img_height=370
+
+    pat26_alpha=0
+    pat26_img_x=550
+    pat26_img_y=415
+    pat26_img_width=180
+    pat26_img_height=130
+
+    pat27_alpha=0
+    pat27_img_x=580
+    pat27_img_y=315
+    pat27_img_width=126
+    pat27_img_height=91
+
+    pat28_alpha=0
+    pat28_img_x=610
+    pat28_img_y=235
+    pat28_img_width=113
+    pat28_img_height=82
+
+    pat29_alpha=0
+    pat29_img_x=640
+    pat29_img_y=175
+    pat29_img_width=80
+    pat29_img_height=57
+
+    pat30_alpha=0
+    pat30_img_x=560
+    pat30_img_y=232
+    pat30_img_width=160
+    pat30_img_height=50
+
+    pat31_alpha=0
+    pat31_img_x=520
+    pat31_img_y=220
+    pat31_img_width=240
+    pat31_img_height=75
+
+    pat32_alpha=0
+    pat32_img_x=480
+    pat32_img_y=207
+    pat32_img_width=320
+    pat32_img_height=100
+
+    pat33_alpha=0
+    pat33_img_x=440
+    pat33_img_y=195
+    pat33_img_width=400
+    pat33_img_height=125
+
+    pat34_alpha=0
+    pat34_img_x=400
+    pat34_img_y=182
+    pat34_img_width=480
+    pat34_img_height=150
+
+    pat35_alpha=0
+    pat35_img_x=400
+    pat35_img_y=182
+    pat35_img_width=480
+    pat35_img_height=150
+
+    pat36_alpha=0
+    pat36_img_x=400
+    pat36_img_y=182
+    pat36_img_width=480
+    pat36_img_height=150
+
+    pat37_alpha=0
+    pat37_img_x=400
+    pat37_img_y=182
+    pat37_img_width=480
+    pat37_img_height=150
+
+    pat38_alpha=0
+    pat38_img_x=400
+    pat38_img_y=182
+    pat38_img_width=480
+    pat38_img_height=150
+
+    pat39_alpha=0
+    pat39_img_x=310
+    pat39_img_y=175
+    pat39_img_width=660
+    pat39_img_height=159
+
+    pat40_alpha=0
+    pat40_img_x=310
+    pat40_img_y=175
+    pat40_img_width=660
+    pat40_img_height=159
+
+    pat41_alpha=0
+    pat41_img_x=310
+    pat41_img_y=175
+    pat41_img_width=660
+    pat41_img_height=159
+
+    # text position
+    test_txt_x=100
+    test_txt_y=435
+    test_txt_size=250
+    test_txt_R,test_txt_G,test_txt_B,test_txt_A=(255,0,0,255)
 
     count=0
     while display.IsOpen():
@@ -287,43 +409,43 @@ if __name__ == '__main__':
                 pat9_alpha=max(pat9_alpha-47,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat10_img, pat10_img_x, pat10_img_y, pat10_img_width, pat10_img_height,pat10_alpha)
-        if(count//15)%7==0:
+        if(count//15)%7==0 and count < 120:
             pat10_alpha=min(pat10_alpha+17,255)
         else:
             pat10_alpha=max(pat10_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat11_img, pat11_img_x, pat11_img_y, pat11_img_width, pat11_img_height,pat11_alpha)
-        if(count//15)%7==1:
+        if(count//15)%7==1 or count >= 120:
             pat11_alpha=min(pat11_alpha+17,255)
         else:
             pat11_alpha=max(pat11_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat12_img, pat12_img_x, pat12_img_y, pat12_img_width, pat12_img_height,pat12_alpha)
-        if(count//15)%7==2:
+        if(count//15)%7==2 and count < 120:
             pat12_alpha=min(pat12_alpha+17,255)
         else:
             pat12_alpha=max(pat12_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat13_img, pat13_img_x, pat13_img_y, pat13_img_width, pat13_img_height,pat13_alpha)
-        if(count//15)%7==3:
+        if(count//15)%7==3 and count < 120:
             pat13_alpha=min(pat13_alpha+17,255)
         else:
             pat13_alpha=max(pat13_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat14_img, pat14_img_x, pat14_img_y, pat14_img_width, pat14_img_height,pat14_alpha)
-        if(count//15)%7==4:
+        if(count//15)%7==4 and count < 120:
             pat14_alpha=min(pat14_alpha+17,255)
         else:
             pat14_alpha=max(pat14_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat15_img, pat15_img_x, pat15_img_y, pat15_img_width, pat15_img_height,pat15_alpha)
-        if(count//15)%7==5:
+        if(count//15)%7==5 and count < 120:
             pat15_alpha=min(pat15_alpha+17,255)
         else:
             pat15_alpha=max(pat15_alpha-17,0)
 
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat16_img, pat16_img_x, pat16_img_y, pat16_img_width, pat16_img_height,pat16_alpha)
-        if(count//15)%7==6:
+        if(count//15)%7==6 and count < 120:
             pat16_alpha=min(pat16_alpha+17,255)
         else:
             pat16_alpha=max(pat16_alpha-17,0)
@@ -349,7 +471,7 @@ if __name__ == '__main__':
         # else:
         #     pat20_alpha=max(pat20_alpha-17,0)
 
-        if count > 120:
+        if count > 120 and count < 240:
             jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat21_img, pat21_img_x, pat21_img_y, pat21_img_width, pat21_img_height,pat21_alpha)
             if (count//7)%4==0:
                 pat21_alpha=min(pat21_alpha+36,255)
@@ -374,13 +496,136 @@ if __name__ == '__main__':
             else:
                 pat24_alpha=max(pat24_alpha-36,50)
 
-        # print(count)
+        if count > 180 and count < 240:
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat25_img, pat25_img_x, pat25_img_y, pat25_img_width, pat25_img_height,pat25_alpha)
+            if (count//15)%2==0:
+                pat25_alpha=min(pat25_alpha+17,255)
+            else:
+                pat25_alpha=max(pat25_alpha-17,0)
 
+        if count > 240 and count < 280:
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height,pat26_alpha)
+            if count > 240 and count < 250:
+                pat26_alpha=255
+            else:
+                pat26_alpha=max(pat26_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height,pat27_alpha)
+            if count >= 250 and count < 260:
+                pat27_alpha=255
+            else:
+                pat27_alpha=max(pat27_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat28_img, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height,pat28_alpha)
+            if count >= 260 and count < 270:
+                pat28_alpha=255
+            else:
+                pat28_alpha=max(pat28_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat29_img, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height,pat29_alpha)
+            if count >= 270 and count < 280:
+                pat29_alpha=255
+            else:
+                pat29_alpha=max(pat29_alpha-15,0)
+        
+        if count > 280 and count < 380:
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat30_img, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height,pat30_alpha)
+            if count > 280 and count < 290:
+                pat30_alpha=255
+            else:
+                pat30_alpha=max(pat30_alpha-30,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat31_img, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height,pat31_alpha)
+            if count > 290 and count < 300:
+                pat31_alpha=255
+            else:
+                pat31_alpha=max(pat31_alpha-30,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat32_img, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height,pat32_alpha)
+            if count > 300 and count < 310:
+                pat32_alpha=255
+            else:
+                pat32_alpha=max(pat32_alpha-30,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat33_img, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height,pat33_alpha)
+            if count > 310 and count < 320:
+                pat33_alpha=255
+            else:
+                pat33_alpha=max(pat33_alpha-30,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat34_img, pat34_img_x, pat34_img_y, pat34_img_width, pat34_img_height,pat34_alpha)
+            if count > 320 and count < 330:
+                pat34_alpha=255
+            else:
+                pat34_alpha=max(pat34_alpha-30,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
+            if count > 330 and count < 340:
+                pat35_alpha=255
+            else:
+                pat35_alpha=max(pat35_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
+            if count > 340 and count < 350:
+                pat35_alpha=255
+            else:
+                pat35_alpha=max(pat35_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height,pat36_alpha)
+            if count > 350 and count < 360:
+                pat36_alpha=255
+            else:
+                pat36_alpha=max(pat36_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat37_img, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height,pat37_alpha)
+            if count > 360 and count < 370:
+                pat37_alpha=255
+            else:
+                pat37_alpha=max(pat37_alpha-15,0)
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat38_img, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height,pat38_alpha)
+            if count > 370 and count < 380:
+                pat38_alpha=255
+            else:
+                pat38_alpha=max(pat38_alpha-15,0)  
+
+        if count < 120:
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat39_img, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height,pat39_alpha)
+            pat39_alpha=255
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height,pat40_alpha)
+            pat40_alpha=255
+
+            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height,pat41_alpha)
+            if (count//15)%2==0:
+                pat41_alpha=min(pat41_alpha+17,255)
+            else:
+                pat41_alpha=max(pat41_alpha-17,0)
+
+
+        # print(count)
 
         # if (count//150)%2==0:
         #     jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, "60", test_txt_x,test_txt_y,test_txt_size,test_txt_R,test_txt_G,test_txt_B,test_txt_A)
-        # test_number=80-(count//30)
-        # jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(test_number), test_txt_x+200,test_txt_y,250,0,255,255,255)
+        a1_number=110-(count//20)
+        if a1_number >= 100:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x,test_txt_y,80,0,255,255,255)
+        else:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x+18,test_txt_y,80,0,255,255,255)
+
+        if (count//15)%3==0:
+            a2_number=80-(count//20)
+        if a2_number >= 100:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+230,test_txt_y-37,80,0,255,255,255)
+        else:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+248,test_txt_y-37,80,0,255,255,255)
+
+        a3_number=100-(count//5)
+        if a3_number >= 100:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number), test_txt_x+740,test_txt_y+40,80,0,255,255,255)
+        else:
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+'m', test_txt_x+758,test_txt_y+40,80,0,255,255,255)
+    
         display.RenderOnce(bg_img, bg_img_width, bg_img_height,img_start_x,img_start_y)
 
         count=count+1
