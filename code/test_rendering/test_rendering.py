@@ -37,6 +37,7 @@ except:
 	parser.print_help()
 	sys.exit(0)
 
+
 if __name__ == '__main__':
     display = jetson.utils.glDisplay(win_x,win_y,width,height,if_no_title)
     img_start_x=0
@@ -85,6 +86,10 @@ if __name__ == '__main__':
     pat39_img,pat39_img_width,pat39_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_B.png")
     pat40_img,pat40_img_width,pat40_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_BA.png")
     pat41_img,pat41_img_width,pat41_img_height=jetson.utils.loadImageRGBA("./png/A_B3_FCW_R.png")
+    pat42_img,pat42_img_width,pat42_img_height=jetson.utils.loadImageRGBA("./png/A_B3_PDW_1.png")
+    pat43_img,pat43_img_width,pat43_img_height=jetson.utils.loadImageRGBA("./png/A_B3_PDW_2.png")
+    pat44_img,pat44_img_width,pat44_img_height=jetson.utils.loadImageRGBA("./png/A_B3_PDW_3.png")
+    pat45_img,pat45_img_width,pat45_img_height=jetson.utils.loadImageRGBA("./png/A_B3_PDW_4.png")
 
 
     # image position
@@ -342,6 +347,30 @@ if __name__ == '__main__':
     pat41_img_width=660
     pat41_img_height=159
 
+    pat42_alpha=0
+    pat42_img_x=310
+    pat42_img_y=175
+    pat42_img_width=660
+    pat42_img_height=159
+
+    pat43_alpha=0
+    pat43_img_x=310
+    pat43_img_y=175
+    pat43_img_width=660
+    pat43_img_height=159
+
+    pat44_alpha=0
+    pat44_img_x=310
+    pat44_img_y=175
+    pat44_img_width=660
+    pat44_img_height=159
+
+    pat45_alpha=0
+    pat45_img_x=310
+    pat45_img_y=175
+    pat45_img_width=660
+    pat45_img_height=159
+
     # text position
     test_txt_x=100
     test_txt_y=435
@@ -589,18 +618,45 @@ if __name__ == '__main__':
             else:
                 pat38_alpha=max(pat38_alpha-15,0)  
 
+
+
         if count < 120:
             jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat39_img, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height,pat39_alpha)
             pat39_alpha=255
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height,pat40_alpha)
-            pat40_alpha=255
+            if count < 40:
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height,pat40_alpha)
+                pat40_alpha=255
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height,pat41_alpha)
-            if (count//15)%2==0:
-                pat41_alpha=min(pat41_alpha+17,255)
-            else:
-                pat41_alpha=max(pat41_alpha-17,0)
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height,pat41_alpha)
+                if (count//15)%2==0:
+                    pat41_alpha=min(pat41_alpha+17,255)
+                else:
+                    pat41_alpha=max(pat41_alpha-17,0)
+            if count > 40 and count < 120:
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat42_img, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height,pat42_alpha)
+                if (count//7)%4==0:
+                    pat42_alpha=min(pat42_alpha+36,255)
+                else:
+                    pat42_alpha=max(pat42_alpha-36,0)
+
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat43_img, pat43_img_x, pat43_img_y, pat43_img_width, pat43_img_height,pat43_alpha)
+                if (count//7)%4==1:
+                    pat43_alpha=min(pat43_alpha+36,255)
+                else:
+                    pat43_alpha=max(pat43_alpha-36,0)
+
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat44_img, pat44_img_x, pat44_img_y, pat44_img_width, pat44_img_height,pat44_alpha)
+                if (count//7)%4==2:
+                    pat44_alpha=min(pat44_alpha+36,255)
+                else:
+                    pat44_alpha=max(pat44_alpha-36,0)
+
+                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat45_img, pat45_img_x, pat45_img_y, pat45_img_width, pat45_img_height,pat45_alpha)
+                if (count//7)%4==3:
+                    pat45_alpha=min(pat45_alpha+36,255)
+                else:
+                    pat45_alpha=max(pat45_alpha-36,0)
 
 
         # print(count)
