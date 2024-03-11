@@ -125,161 +125,38 @@ if __name__ == '__main__':
     pat18_alpha, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height = 0, 70, 155, 82, 164
     pat19_alpha, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height = 0, 1128, 155, 82, 164
 
-    pat20_alpha=0
-    pat20_img_x=585
-    pat20_img_y=260
-    pat20_img_width=110
-    pat20_img_height=285
+    pat20_alpha, pat20_img_x, pat20_img_y, pat20_img_width, pat20_img_height = 0, 585, 260, 110, 285
+    pat21_alpha, pat21_img_x, pat21_img_y, pat21_img_width, pat21_img_height = 0, 585, 260, 110, 285
+    pat22_alpha, pat22_img_x, pat22_img_y, pat22_img_width, pat22_img_height = 0, 585, 260, 110, 285
+    pat23_alpha, pat23_img_x, pat23_img_y, pat23_img_width, pat23_img_height = 0, 585, 260, 110, 285
+    pat24_alpha, pat24_img_x, pat24_img_y, pat24_img_width, pat24_img_height = 0, 585, 260, 110, 285
+    
+    pat25_alpha, pat25_img_x, pat25_img_y, pat25_img_width, pat25_img_height = 0, 585, 175, 183, 370
+    
+    pat26_alpha, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height = 0, 550, 415, 180, 130
+    pat27_alpha, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height = 0, 580, 315, 126, 91
+    pat28_alpha, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height = 0, 610, 235, 113, 82
+    pat29_alpha, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height = 0, 640, 175, 80, 57
 
-    pat21_alpha=0
-    pat21_img_x=585
-    pat21_img_y=260
-    pat21_img_width=110
-    pat21_img_height=285
+    pat30_alpha, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height = 0, 560, 232, 160, 50
+    pat31_alpha, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height = 0, 520, 220, 240, 75
+    pat32_alpha, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height = 0, 480, 207, 320, 100
+    pat33_alpha, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height = 0, 440, 195, 400, 125
 
-    pat22_alpha=0
-    pat22_img_x=585
-    pat22_img_y=260
-    pat22_img_width=110
-    pat22_img_height=285
+    pat34_alpha, pat34_img_x, pat34_img_y, pat34_img_width, pat34_img_height = 0, 400, 182, 480, 150
+    pat35_alpha, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height = 0, 400, 182, 480, 150
+    pat36_alpha, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height = 0, 400, 182, 480, 150
+    pat37_alpha, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height = 0, 400, 182, 480, 150
+    pat38_alpha, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height = 0, 400, 182, 480, 150
+    
+    pat39_alpha, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height = 0, 310, 175, 660, 159
+    pat40_alpha, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height = 0, 310, 175, 660, 159
+    pat41_alpha, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height = 0, 310, 175, 660, 159
+    pat42_alpha, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height = 0, 310, 175, 660, 159
+    pat43_alpha, pat43_img_x, pat43_img_y, pat43_img_width, pat43_img_height = 0, 310, 175, 660, 159
+    pat44_alpha, pat44_img_x, pat44_img_y, pat44_img_width, pat44_img_height = 0, 310, 175, 660, 159
+    pat45_alpha, pat45_img_x, pat45_img_y, pat45_img_width, pat45_img_height = 0, 310, 175, 660, 159
 
-    pat23_alpha=0
-    pat23_img_x=585
-    pat23_img_y=260
-    pat23_img_width=110
-    pat23_img_height=285
-
-    pat24_alpha=0
-    pat24_img_x=585
-    pat24_img_y=260
-    pat24_img_width=110
-    pat24_img_height=285
-
-    pat25_alpha=0
-    pat25_img_x=585
-    pat25_img_y=175
-    pat25_img_width=183
-    pat25_img_height=370
-
-    pat26_alpha=0
-    pat26_img_x=550
-    pat26_img_y=415
-    pat26_img_width=180
-    pat26_img_height=130
-
-    pat27_alpha=0
-    pat27_img_x=580
-    pat27_img_y=315
-    pat27_img_width=126
-    pat27_img_height=91
-
-    pat28_alpha=0
-    pat28_img_x=610
-    pat28_img_y=235
-    pat28_img_width=113
-    pat28_img_height=82
-
-    pat29_alpha=0
-    pat29_img_x=640
-    pat29_img_y=175
-    pat29_img_width=80
-    pat29_img_height=57
-
-    pat30_alpha=0
-    pat30_img_x=560
-    pat30_img_y=232
-    pat30_img_width=160
-    pat30_img_height=50
-
-    pat31_alpha=0
-    pat31_img_x=520
-    pat31_img_y=220
-    pat31_img_width=240
-    pat31_img_height=75
-
-    pat32_alpha=0
-    pat32_img_x=480
-    pat32_img_y=207
-    pat32_img_width=320
-    pat32_img_height=100
-
-    pat33_alpha=0
-    pat33_img_x=440
-    pat33_img_y=195
-    pat33_img_width=400
-    pat33_img_height=125
-
-    pat34_alpha=0
-    pat34_img_x=400
-    pat34_img_y=182
-    pat34_img_width=480
-    pat34_img_height=150
-
-    pat35_alpha=0
-    pat35_img_x=400
-    pat35_img_y=182
-    pat35_img_width=480
-    pat35_img_height=150
-
-    pat36_alpha=0
-    pat36_img_x=400
-    pat36_img_y=182
-    pat36_img_width=480
-    pat36_img_height=150
-
-    pat37_alpha=0
-    pat37_img_x=400
-    pat37_img_y=182
-    pat37_img_width=480
-    pat37_img_height=150
-
-    pat38_alpha=0
-    pat38_img_x=400
-    pat38_img_y=182
-    pat38_img_width=480
-    pat38_img_height=150
-
-    pat39_alpha=0
-    pat39_img_x=310
-    pat39_img_y=175
-    pat39_img_width=660
-    pat39_img_height=159
-
-    pat40_alpha=0
-    pat40_img_x=310
-    pat40_img_y=175
-    pat40_img_width=660
-    pat40_img_height=159
-
-    pat41_alpha=0
-    pat41_img_x=310
-    pat41_img_y=175
-    pat41_img_width=660
-    pat41_img_height=159
-
-    pat42_alpha=0
-    pat42_img_x=310
-    pat42_img_y=175
-    pat42_img_width=660
-    pat42_img_height=159
-
-    pat43_alpha=0
-    pat43_img_x=310
-    pat43_img_y=175
-    pat43_img_width=660
-    pat43_img_height=159
-
-    pat44_alpha=0
-    pat44_img_x=310
-    pat44_img_y=175
-    pat44_img_width=660
-    pat44_img_height=159
-
-    pat45_alpha=0
-    pat45_img_x=310
-    pat45_img_y=175
-    pat45_img_width=660
-    pat45_img_height=159
 
     # text position
     test_txt_x=100
