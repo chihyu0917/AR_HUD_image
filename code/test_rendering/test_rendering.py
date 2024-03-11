@@ -100,120 +100,30 @@ if __name__ == '__main__':
     # pat1_img_width=268
     # pat1_img_height=268
 
-    pat1_alpha=0
-    pat1_img_x=80
-    pat1_img_y=387
-    pat1_img_width=150
-    pat1_img_height=150
+    pat1_alpha, pat1_img_x, pat1_img_y, pat1_img_width, pat1_img_height = 0, 80, 387, 150, 150
 
-    pat2_alpha=0
-    pat2_img_x=265
-    pat2_img_y=390
-    pat2_img_width=240
-    pat2_img_height=145
-
-    pat3_alpha=0
-    pat3_img_x=265
-    pat3_img_y=390
-    pat3_img_width=240
-    pat3_img_height=145
-
-    pat4_alpha=0
-    pat4_img_x=265
-    pat4_img_y=390
-    pat4_img_width=240
-    pat4_img_height=145
+    pat2_alpha, pat2_img_x, pat2_img_y, pat2_img_width, pat2_img_height = 0, 265, 390, 240, 145
+    pat3_alpha, pat3_img_x, pat3_img_y, pat3_img_width, pat3_img_height = 0, 265, 390, 240, 145
+    pat4_alpha, pat4_img_x, pat4_img_y, pat4_img_width, pat4_img_height = 0, 265, 390, 240, 145
     
+    pat5_alpha, pat5_img_x, pat5_img_y, pat5_img_width, pat5_img_height = 0, 560, 417, 160, 90
+    pat6_alpha, pat6_img_x, pat6_img_y, pat6_img_width, pat6_img_height = 0, 560, 403, 160, 118
+    pat7_alpha, pat7_img_x, pat7_img_y, pat7_img_width, pat7_img_height = 0, 560, 401, 160, 123
+    pat8_alpha, pat8_img_x, pat8_img_y, pat8_img_width, pat8_img_height = 0, 560, 422, 160, 80
+    pat9_alpha, pat9_img_x, pat9_img_y, pat9_img_width, pat9_img_height = 0, 560, 398, 160, 128
 
-    pat5_alpha=0
-    pat5_img_x=560
-    pat5_img_y=417
-    pat5_img_width=160
-    pat5_img_height=90
+    pat10_alpha, pat10_img_x, pat10_img_y, pat10_img_width, pat10_img_height = 0, 782, 404, 219, 120
+    pat11_alpha, pat11_img_x, pat11_img_y, pat11_img_width, pat11_img_height = 0, 770, 404, 231, 120
+    pat12_alpha, pat12_img_x, pat12_img_y, pat12_img_width, pat12_img_height = 0, 770, 404, 230,120
+    pat13_alpha, pat13_img_x, pat13_img_y, pat13_img_width, pat13_img_height = 0, 770, 404, 215, 115
+    pat14_alpha, pat14_img_x, pat14_img_y, pat14_img_width, pat14_img_height = 0, 770, 404, 215, 115
+    pat15_alpha, pat15_img_x, pat15_img_y, pat15_img_width, pat15_img_height = 0, 776, 404, 230, 95
+    pat16_alpha, pat16_img_x, pat16_img_y, pat16_img_width, pat16_img_height = 0, 785, 419, 221, 96
 
-    pat6_alpha=0
-    pat6_img_x=560
-    pat6_img_y=403
-    pat6_img_width=160
-    pat6_img_height=118
+    pat17_alpha, pat17_img_x, pat17_img_y, pat17_img_width, pat17_img_height = 0, 1045, 407, 160, 122
 
-    pat7_alpha=0
-    pat7_img_x=560
-    pat7_img_y=401
-    pat7_img_width=160
-    pat7_img_height=123
-
-    pat8_alpha=0
-    pat8_img_x=560
-    pat8_img_y=422
-    pat8_img_width=160
-    pat8_img_height=80
-
-    pat9_alpha=0
-    pat9_img_x=560
-    pat9_img_y=398
-    pat9_img_width=160
-    pat9_img_height=128
-
-    pat10_alpha=0
-    pat10_img_x=782
-    pat10_img_y=404
-    pat10_img_width=219
-    pat10_img_height=120
-
-    pat11_alpha=0
-    pat11_img_x=770
-    pat11_img_y=404
-    pat11_img_width=231
-    pat11_img_height=120
-
-    pat12_alpha=0
-    pat12_img_x=770
-    pat12_img_y=404
-    pat12_img_width=230
-    pat12_img_height=120
-
-    pat13_alpha=0
-    pat13_img_x=770
-    pat13_img_y=404
-    pat13_img_width=215
-    pat13_img_height=115
-
-    pat14_alpha=0
-    pat14_img_x=770
-    pat14_img_y=404
-    pat14_img_width=215
-    pat14_img_height=115
-
-    pat15_alpha=0
-    pat15_img_x=776
-    pat15_img_y=404
-    pat15_img_width=230
-    pat15_img_height=95
-
-    pat16_alpha=0
-    pat16_img_x=785
-    pat16_img_y=419
-    pat16_img_width=221
-    pat16_img_height=96
-
-    pat17_alpha=0
-    pat17_img_x=1045
-    pat17_img_y=407
-    pat17_img_width=160
-    pat17_img_height=122
-
-    pat18_alpha=0
-    pat18_img_x=70
-    pat18_img_y=155
-    pat18_img_width=82
-    pat18_img_height=164
-
-    pat19_alpha=0
-    pat19_img_x=1128
-    pat19_img_y=155
-    pat19_img_width=82
-    pat19_img_height=164
+    pat18_alpha, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height = 0, 70, 155, 82, 164
+    pat19_alpha, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height = 0, 1128, 155, 82, 164
 
     pat20_alpha=0
     pat20_img_x=585
