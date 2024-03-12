@@ -185,9 +185,12 @@ if __name__ == '__main__':
         #     pat1_alpha=max(pat1_alpha-17,0)
 
         # A2
-        pat2_alpha = renderPattern(pat2_img, pat2_img_x, pat2_img_y, pat2_img_width, pat2_img_height,pat2_alpha, 0, 255, 15, 17, 3, 0, count)
-        pat3_alpha = renderPattern(pat3_img, pat3_img_x, pat3_img_y, pat3_img_width, pat3_img_height,pat3_alpha, 0, 255, 15, 17, 3, 1, count)
-        pat4_alpha = renderPattern(pat4_img, pat4_img_x, pat4_img_y, pat4_img_width, pat4_img_height,pat4_alpha, 0, 255, 15, 17, 3, 2, count)
+        if count < 120:
+            pat2_alpha = renderPattern(pat2_img, pat2_img_x, pat2_img_y, pat2_img_width, pat2_img_height,pat2_alpha, 0, 255, 10, 25, 2, 0, count) # 1 Hz
+        if count > 120 and count < 240:
+            pat3_alpha = renderPattern(pat3_img, pat3_img_x, pat3_img_y, pat3_img_width, pat3_img_height,pat3_alpha, 0, 255, 10, 25, 2, 0, count)
+        if count > 240 and count < 360:
+            pat4_alpha = renderPattern(pat4_img, pat4_img_x, pat4_img_y, pat4_img_width, pat4_img_height,pat4_alpha, 0, 255, 10, 25, 2, 0, count)
 
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat3_img, pat3_img_x, pat3_img_y, pat3_img_width, pat3_img_height,pat3_alpha)
         # if (count//15)%3==1:
@@ -204,15 +207,15 @@ if __name__ == '__main__':
         # A3
         if count < 120:
             if count < 24:
-                pat5_alpha = renderPattern(pat5_img, pat5_img_x, pat5_img_y, pat5_img_width, pat5_img_height,pat5_alpha, 0, 255, 6, 47, 2, 0, count)
+                pat5_alpha = renderPattern(pat5_img, pat5_img_x, pat5_img_y, pat5_img_width, pat5_img_height,pat5_alpha, 0, 255, 10, 25, 2, 0, count)
             if count > 24 and count < 48:
-                pat6_alpha = renderPattern(pat6_img, pat6_img_x, pat6_img_y, pat6_img_width, pat6_img_height,pat6_alpha, 0, 255, 6, 47, 2, 0, count)
+                pat6_alpha = renderPattern(pat6_img, pat6_img_x, pat6_img_y, pat6_img_width, pat6_img_height,pat6_alpha, 0, 255, 10, 25, 2, 0, count)
             if count > 48 and count < 72:
-                pat7_alpha = renderPattern(pat7_img, pat7_img_x, pat7_img_y, pat7_img_width, pat7_img_height,pat7_alpha, 0, 255, 6, 47, 2, 0, count)
+                pat7_alpha = renderPattern(pat7_img, pat7_img_x, pat7_img_y, pat7_img_width, pat7_img_height,pat7_alpha, 0, 255, 10, 25, 2, 0, count)
             if count > 72 and count < 96:
-                pat8_alpha = renderPattern(pat8_img, pat8_img_x, pat8_img_y, pat8_img_width, pat8_img_height,pat8_alpha, 0, 255, 6, 47, 2, 0, count)
+                pat8_alpha = renderPattern(pat8_img, pat8_img_x, pat8_img_y, pat8_img_width, pat8_img_height,pat8_alpha, 0, 255, 10, 25, 2, 0, count)
             if count > 96 and count < 120:
-                pat9_alpha = renderPattern(pat9_img, pat9_img_x, pat9_img_y, pat9_img_width, pat9_img_height,pat9_alpha, 0, 255, 6, 47, 2, 0, count)
+                pat9_alpha = renderPattern(pat9_img, pat9_img_x, pat9_img_y, pat9_img_width, pat9_img_height,pat9_alpha, 0, 255, 10, 25, 2, 0, count)
 
 
         # if count < 120:
@@ -310,7 +313,8 @@ if __name__ == '__main__':
         # pat17_alpha = 255
 
         # B5
-        pat18_alpha = renderPattern(pat18_img, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height,pat18_alpha, 0, 255, 15, 17, 2, 0, count)
+        if count < 120:
+            pat18_alpha = renderPattern(pat18_img, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height,pat18_alpha, 0, 255, 15, 17, 2, 0, count)
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat18_img, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height,pat18_alpha)
         # if (count//15)%2==0:
         #     pat18_alpha=min(pat18_alpha+17,255)
@@ -318,7 +322,8 @@ if __name__ == '__main__':
         #     pat18_alpha=max(pat18_alpha-17,0)
 
         # B6
-        pat19_alpha = renderPattern(pat19_img, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height,pat19_alpha, 0, 255, 15, 17, 2, 0, count)
+        if count > 120:
+            pat19_alpha = renderPattern(pat19_img, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height,pat19_alpha, 0, 255, 15, 17, 2, 0, count)
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat19_img, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height,pat19_alpha)
         # if (count//15)%2==0:
         #     pat19_alpha=min(pat19_alpha+17,255)
@@ -369,131 +374,191 @@ if __name__ == '__main__':
             # else:
             #     pat25_alpha=max(pat25_alpha-17,0)
 
-        if count > 240 and count < 280:
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height,pat26_alpha)
-            if count > 240 and count < 250:
-                pat26_alpha=255
-            else:
-                pat26_alpha=max(pat26_alpha-15,0)
-
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height,pat27_alpha)
-            if count >= 250 and count < 260:
-                pat27_alpha=255
-            else:
-                pat27_alpha=max(pat27_alpha-15,0)
-
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat28_img, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height,pat28_alpha)
-            if count >= 260 and count < 270:
-                pat28_alpha=255
-            else:
-                pat28_alpha=max(pat28_alpha-15,0)
-
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat29_img, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height,pat29_alpha)
-            if count >= 270 and count < 280:
-                pat29_alpha=255
-            else:
-                pat29_alpha=max(pat29_alpha-15,0)
         
+
+        if count > 240 and count < 280:
+            if count > 240 and count < 250:
+                pat26_alpha = renderPattern(pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height, pat26_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 250 and count < 260:
+                pat26_alpha = renderPattern(pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height, pat26_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat27_alpha = renderPattern(pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height, pat27_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 260 and count < 270:
+                pat26_alpha = renderPattern(pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height, pat26_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat27_alpha = renderPattern(pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height, pat27_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat28_alpha = renderPattern(pat28_img, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height, pat28_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 270 and count < 280:
+                pat27_alpha = renderPattern(pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height, pat27_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat28_alpha = renderPattern(pat28_img, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height, pat28_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat29_alpha = renderPattern(pat29_img, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height, pat29_alpha, 255, 255, 1, 255, 1, 0, count)
+
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat26_img, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height,pat26_alpha)
+            # if count > 240 and count < 250:
+            #     pat26_alpha=255
+            # else:
+            #     pat26_alpha=max(pat26_alpha-15,0)
+
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat27_img, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height,pat27_alpha)
+            # if count >= 250 and count < 260:
+            #     pat27_alpha=255
+            # else:
+            #     pat27_alpha=max(pat27_alpha-15,0)
+
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat28_img, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height,pat28_alpha)
+            # if count >= 260 and count < 270:
+            #     pat28_alpha=255
+            # else:
+            #     pat28_alpha=max(pat28_alpha-15,0)
+
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat29_img, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height,pat29_alpha)
+            # if count >= 270 and count < 280:
+            #     pat29_alpha=255
+            # else:
+            #     pat29_alpha=max(pat29_alpha-15,0)
+        
+        # B2    
         if count > 280 and count < 380:
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat30_img, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height,pat30_alpha)
-            if count > 280 and count < 290:
-                pat30_alpha=255
-            else:
-                pat30_alpha=max(pat30_alpha-30,0)
+            if count > 280 and count < 285:
+                pat30_alpha = renderPattern(pat30_img, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height, pat30_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 285 and count < 290:
+                pat30_alpha = renderPattern(pat30_img, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height, pat30_alpha, 0, 255, 100, 17, 2, 50, count)
+            if count >= 290 and count < 295:
+                pat31_alpha = renderPattern(pat31_img, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height, pat31_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 295 and count < 300:
+                pat31_alpha = renderPattern(pat31_img, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height, pat31_alpha, 0, 255, 100, 17, 2, 50, count)
+            if count >= 300 and count < 305:
+                pat32_alpha = renderPattern(pat32_img, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height, pat32_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 305 and count < 310:
+                pat32_alpha = renderPattern(pat32_img, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height, pat32_alpha, 0, 255, 100, 17, 2, 50, count) 
+            if count >= 310 and count < 315:
+                pat33_alpha = renderPattern(pat33_img, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height, pat33_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 315 and count < 320:
+                pat33_alpha = renderPattern(pat33_img, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height, pat33_alpha, 0, 255, 100, 17, 2, 50, count)
+            if count >= 320 and count < 325:
+                pat34_alpha = renderPattern(pat34_img, pat34_img_x, pat34_img_y, pat34_img_width, pat34_img_height, pat34_alpha, 255, 255, 1, 255, 1, 0, count)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat30_img, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height,pat30_alpha)
+            # if count > 280 and count < 290:
+            #     pat30_alpha=255
+            # else:
+            #     pat30_alpha=max(pat30_alpha-30,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat31_img, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height,pat31_alpha)
-            if count > 290 and count < 300:
-                pat31_alpha=255
-            else:
-                pat31_alpha=max(pat31_alpha-30,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat31_img, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height,pat31_alpha)
+            # if count > 290 and count < 300:
+            #     pat31_alpha=255
+            # else:
+            #     pat31_alpha=max(pat31_alpha-30,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat32_img, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height,pat32_alpha)
-            if count > 300 and count < 310:
-                pat32_alpha=255
-            else:
-                pat32_alpha=max(pat32_alpha-30,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat32_img, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height,pat32_alpha)
+            # if count > 300 and count < 310:
+            #     pat32_alpha=255
+            # else:
+            #     pat32_alpha=max(pat32_alpha-30,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat33_img, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height,pat33_alpha)
-            if count > 310 and count < 320:
-                pat33_alpha=255
-            else:
-                pat33_alpha=max(pat33_alpha-30,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat33_img, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height,pat33_alpha)
+            # if count > 310 and count < 320:
+            #     pat33_alpha=255
+            # else:
+            #     pat33_alpha=max(pat33_alpha-30,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat34_img, pat34_img_x, pat34_img_y, pat34_img_width, pat34_img_height,pat34_alpha)
-            if count > 320 and count < 330:
-                pat34_alpha=255
-            else:
-                pat34_alpha=max(pat34_alpha-30,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat34_img, pat34_img_x, pat34_img_y, pat34_img_width, pat34_img_height,pat34_alpha)
+            # if count > 320 and count < 330:
+            #     pat34_alpha=255
+            # else:
+            #     pat34_alpha=max(pat34_alpha-30,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
-            if count > 330 and count < 340:
-                pat35_alpha=255
-            else:
-                pat35_alpha=max(pat35_alpha-15,0)
+            if count > 330 and count < 350:
+                pat35_alpha = renderPattern(pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height, pat35_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 350 and count < 360:
+                pat35_alpha = renderPattern(pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height, pat35_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat36_alpha = renderPattern(pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height, pat36_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 360 and count < 370:
+                pat35_alpha = renderPattern(pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height, pat35_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat36_alpha = renderPattern(pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height, pat36_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat37_alpha = renderPattern(pat37_img, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height, pat37_alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 370 and count < 380:
+                pat36_alpha = renderPattern(pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height, pat36_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat37_alpha = renderPattern(pat37_img, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height, pat37_alpha, 0, 255, 100, 17, 2, 50, count)
+                pat38_alpha = renderPattern(pat38_img, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height, pat38_alpha, 255, 255, 1, 255, 1, 0, count)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
-            if count > 340 and count < 350:
-                pat35_alpha=255
-            else:
-                pat35_alpha=max(pat35_alpha-15,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
+            # if count > 330 and count < 340:
+            #     pat35_alpha=255
+            # else:
+            #     pat35_alpha=max(pat35_alpha-15,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height,pat36_alpha)
-            if count > 350 and count < 360:
-                pat36_alpha=255
-            else:
-                pat36_alpha=max(pat36_alpha-15,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat35_img, pat35_img_x, pat35_img_y, pat35_img_width, pat35_img_height,pat35_alpha)
+            # if count > 340 and count < 350:
+            #     pat35_alpha=255
+            # else:
+            #     pat35_alpha=max(pat35_alpha-15,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat37_img, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height,pat37_alpha)
-            if count > 360 and count < 370:
-                pat37_alpha=255
-            else:
-                pat37_alpha=max(pat37_alpha-15,0)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat36_img, pat36_img_x, pat36_img_y, pat36_img_width, pat36_img_height,pat36_alpha)
+            # if count > 350 and count < 360:
+            #     pat36_alpha=255
+            # else:
+            #     pat36_alpha=max(pat36_alpha-15,0)
 
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat38_img, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height,pat38_alpha)
-            if count > 370 and count < 380:
-                pat38_alpha=255
-            else:
-                pat38_alpha=max(pat38_alpha-15,0)  
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat37_img, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height,pat37_alpha)
+            # if count > 360 and count < 370:
+            #     pat37_alpha=255
+            # else:
+            #     pat37_alpha=max(pat37_alpha-15,0)
+
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat38_img, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height,pat38_alpha)
+            # if count > 370 and count < 380:
+            #     pat38_alpha=255
+            # else:
+            #     pat38_alpha=max(pat38_alpha-15,0)  
 
 
-
+        # B3
         if count < 120:
-            jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat39_img, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height,pat39_alpha)
-            pat39_alpha=255
-
+            pat39_alpha = renderPattern(pat39_img, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height, pat39_alpha, 255, 255, 1, 255, 1, 0, count)
             if count < 40:
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height,pat40_alpha)
-                pat40_alpha=255
+                pat40_alpha = renderPattern(pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height, pat40_alpha, 255, 255, 1, 255, 1, 0, count)
+                pat41_alpha = renderPattern(pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height, pat41_alpha, 0, 255, 15, 17, 2, 0, count)
+            # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat39_img, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height,pat39_alpha)
+            # pat39_alpha=255
 
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height,pat41_alpha)
-                if (count//15)%2==0:
-                    pat41_alpha=min(pat41_alpha+17,255)
-                else:
-                    pat41_alpha=max(pat41_alpha-17,0)
-            if count > 40 and count < 120:
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat42_img, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height,pat42_alpha)
-                if (count//7)%4==0:
-                    pat42_alpha=min(pat42_alpha+36,255)
-                else:
-                    pat42_alpha=max(pat42_alpha-36,0)
+            # if count < 40:
+            #     jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat40_img, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height,pat40_alpha)
+            #     pat40_alpha=255
 
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat43_img, pat43_img_x, pat43_img_y, pat43_img_width, pat43_img_height,pat43_alpha)
-                if (count//7)%4==1:
-                    pat43_alpha=min(pat43_alpha+36,255)
-                else:
-                    pat43_alpha=max(pat43_alpha-36,0)
+            #     jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat41_img, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height,pat41_alpha)
+            #     if (count//15)%2==0:
+            #         pat41_alpha=min(pat41_alpha+17,255)
+            #     else:
+            #         pat41_alpha=max(pat41_alpha-17,0)
+            # if count > 40 and count < 120:
+                # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat42_img, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height,pat42_alpha)
+                # if (count//7)%4==0:
+                #     pat42_alpha=min(pat42_alpha+36,255)
+                # else:
+                #     pat42_alpha=max(pat42_alpha-36,0)
+            if count > 40 and count < 60:
+                pat42_alpha = renderPattern(pat42_img, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height, pat42_alpha, 0, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            if count > 60 and count < 80:
+                pat43_alpha = renderPattern(pat43_img, pat43_img_x, pat43_img_y, pat43_img_width, pat43_img_height, pat43_alpha, 0, 255, 5, 51, 2, 0, count)
+            if count > 80 and count < 100:
+                pat44_alpha = renderPattern(pat44_img, pat44_img_x, pat44_img_y, pat44_img_width, pat44_img_height, pat44_alpha, 0, 255, 5, 51, 2, 0, count)
+            if count > 100 and count < 120:
+                pat45_alpha = renderPattern(pat45_img, pat45_img_x, pat45_img_y, pat45_img_width, pat45_img_height, pat45_alpha, 0, 255, 5, 51, 2, 0, count)
+                # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat43_img, pat43_img_x, pat43_img_y, pat43_img_width, pat43_img_height,pat43_alpha)
+                # if (count//7)%4==1:
+                #     pat43_alpha=min(pat43_alpha+36,255)
+                # else:
+                #     pat43_alpha=max(pat43_alpha-36,0)
 
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat44_img, pat44_img_x, pat44_img_y, pat44_img_width, pat44_img_height,pat44_alpha)
-                if (count//7)%4==2:
-                    pat44_alpha=min(pat44_alpha+36,255)
-                else:
-                    pat44_alpha=max(pat44_alpha-36,0)
+                # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat44_img, pat44_img_x, pat44_img_y, pat44_img_width, pat44_img_height,pat44_alpha)
+                # if (count//7)%4==2:
+                #     pat44_alpha=min(pat44_alpha+36,255)
+                # else:
+                #     pat44_alpha=max(pat44_alpha-36,0)
 
-                jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat45_img, pat45_img_x, pat45_img_y, pat45_img_width, pat45_img_height,pat45_alpha)
-                if (count//7)%4==3:
-                    pat45_alpha=min(pat45_alpha+36,255)
-                else:
-                    pat45_alpha=max(pat45_alpha-36,0)
+                # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat45_img, pat45_img_x, pat45_img_y, pat45_img_width, pat45_img_height,pat45_alpha)
+                # if (count//7)%4==3:
+                #     pat45_alpha=min(pat45_alpha+36,255)
+                # else:
+                #     pat45_alpha=max(pat45_alpha-36,0)
 
 
         # print(count)
