@@ -100,19 +100,19 @@ if __name__ == '__main__':
     # pat1_img_width=268
     # pat1_img_height=268
 
-    pat1_alpha, pat1_img_x, pat1_img_y, pat1_img_width, pat1_img_height = 0, 80, 387, 150, 150
+    pat1_alpha, pat1_img_x, pat1_img_y, pat1_img_width, pat1_img_height = 0, 80, 387, 150, 150 # A1
 
-    pat2_alpha, pat2_img_x, pat2_img_y, pat2_img_width, pat2_img_height = 0, 265, 390, 240, 145
+    pat2_alpha, pat2_img_x, pat2_img_y, pat2_img_width, pat2_img_height = 0, 265, 390, 240, 145 # A2
     pat3_alpha, pat3_img_x, pat3_img_y, pat3_img_width, pat3_img_height = 0, 265, 390, 240, 145
     pat4_alpha, pat4_img_x, pat4_img_y, pat4_img_width, pat4_img_height = 0, 265, 390, 240, 145
     
-    pat5_alpha, pat5_img_x, pat5_img_y, pat5_img_width, pat5_img_height = 0, 560, 417, 160, 90
+    pat5_alpha, pat5_img_x, pat5_img_y, pat5_img_width, pat5_img_height = 0, 560, 417, 160, 90 # A3
     pat6_alpha, pat6_img_x, pat6_img_y, pat6_img_width, pat6_img_height = 0, 560, 403, 160, 118
     pat7_alpha, pat7_img_x, pat7_img_y, pat7_img_width, pat7_img_height = 0, 560, 401, 160, 123
     pat8_alpha, pat8_img_x, pat8_img_y, pat8_img_width, pat8_img_height = 0, 560, 422, 160, 80
     pat9_alpha, pat9_img_x, pat9_img_y, pat9_img_width, pat9_img_height = 0, 560, 398, 160, 128
 
-    pat10_alpha, pat10_img_x, pat10_img_y, pat10_img_width, pat10_img_height = 0, 782, 404, 219, 120
+    pat10_alpha, pat10_img_x, pat10_img_y, pat10_img_width, pat10_img_height = 0, 782, 404, 219, 120 # A4
     pat11_alpha, pat11_img_x, pat11_img_y, pat11_img_width, pat11_img_height = 0, 770, 404, 231, 120
     pat12_alpha, pat12_img_x, pat12_img_y, pat12_img_width, pat12_img_height = 0, 770, 404, 230,120
     pat13_alpha, pat13_img_x, pat13_img_y, pat13_img_width, pat13_img_height = 0, 770, 404, 215, 115
@@ -120,25 +120,25 @@ if __name__ == '__main__':
     pat15_alpha, pat15_img_x, pat15_img_y, pat15_img_width, pat15_img_height = 0, 776, 404, 230, 95
     pat16_alpha, pat16_img_x, pat16_img_y, pat16_img_width, pat16_img_height = 0, 785, 419, 221, 96
 
-    pat17_alpha, pat17_img_x, pat17_img_y, pat17_img_width, pat17_img_height = 0, 1045, 407, 160, 122
+    pat17_alpha, pat17_img_x, pat17_img_y, pat17_img_width, pat17_img_height = 0, 1045, 407, 160, 122 # A5
 
-    pat18_alpha, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height = 0, 70, 155, 82, 164
-    pat19_alpha, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height = 0, 1128, 155, 82, 164
+    pat18_alpha, pat18_img_x, pat18_img_y, pat18_img_width, pat18_img_height = 0, 70, 155, 82, 164 # B5
+    pat19_alpha, pat19_img_x, pat19_img_y, pat19_img_width, pat19_img_height = 0, 1128, 155, 82, 164 # B6
 
-    pat20_alpha, pat20_img_x, pat20_img_y, pat20_img_width, pat20_img_height = 0, 585, 260, 110, 285
+    pat20_alpha, pat20_img_x, pat20_img_y, pat20_img_width, pat20_img_height = 0, 585, 260, 110, 285 # B1
     pat21_alpha, pat21_img_x, pat21_img_y, pat21_img_width, pat21_img_height = 0, 585, 260, 110, 285
     pat22_alpha, pat22_img_x, pat22_img_y, pat22_img_width, pat22_img_height = 0, 585, 260, 110, 285
     pat23_alpha, pat23_img_x, pat23_img_y, pat23_img_width, pat23_img_height = 0, 585, 260, 110, 285
     pat24_alpha, pat24_img_x, pat24_img_y, pat24_img_width, pat24_img_height = 0, 585, 260, 110, 285
     
-    pat25_alpha, pat25_img_x, pat25_img_y, pat25_img_width, pat25_img_height = 0, 585, 175, 183, 370
+    pat25_alpha, pat25_img_x, pat25_img_y, pat25_img_width, pat25_img_height = 0, 585, 175, 183, 370 
     
     pat26_alpha, pat26_img_x, pat26_img_y, pat26_img_width, pat26_img_height = 0, 550, 415, 180, 130
     pat27_alpha, pat27_img_x, pat27_img_y, pat27_img_width, pat27_img_height = 0, 580, 315, 126, 91
     pat28_alpha, pat28_img_x, pat28_img_y, pat28_img_width, pat28_img_height = 0, 610, 235, 113, 82
     pat29_alpha, pat29_img_x, pat29_img_y, pat29_img_width, pat29_img_height = 0, 640, 175, 80, 57
 
-    pat30_alpha, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height = 0, 560, 232, 160, 50
+    pat30_alpha, pat30_img_x, pat30_img_y, pat30_img_width, pat30_img_height = 0, 560, 232, 160, 50 # B2
     pat31_alpha, pat31_img_x, pat31_img_y, pat31_img_width, pat31_img_height = 0, 520, 220, 240, 75
     pat32_alpha, pat32_img_x, pat32_img_y, pat32_img_width, pat32_img_height = 0, 480, 207, 320, 100
     pat33_alpha, pat33_img_x, pat33_img_y, pat33_img_width, pat33_img_height = 0, 440, 195, 400, 125
@@ -149,7 +149,7 @@ if __name__ == '__main__':
     pat37_alpha, pat37_img_x, pat37_img_y, pat37_img_width, pat37_img_height = 0, 400, 182, 480, 150
     pat38_alpha, pat38_img_x, pat38_img_y, pat38_img_width, pat38_img_height = 0, 400, 182, 480, 150
     
-    pat39_alpha, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height = 0, 310, 175, 660, 159
+    pat39_alpha, pat39_img_x, pat39_img_y, pat39_img_width, pat39_img_height = 0, 310, 175, 660, 159 # B3
     pat40_alpha, pat40_img_x, pat40_img_y, pat40_img_width, pat40_img_height = 0, 310, 175, 660, 159
     pat41_alpha, pat41_img_x, pat41_img_y, pat41_img_width, pat41_img_height = 0, 310, 175, 660, 159
     pat42_alpha, pat42_img_x, pat42_img_y, pat42_img_width, pat42_img_height = 0, 310, 175, 660, 159
@@ -222,8 +222,11 @@ if __name__ == '__main__':
         #     pat1_alpha=min(pat1_alpha+17,255)
         # else:
         #     pat1_alpha=max(pat1_alpha-17,0)
+        
+        # A1
         pat1_alpha = 255
 
+        # A2
         if (count//15)%3==0:
             pat2_alpha=min(pat2_alpha+17,255)
         else:
@@ -239,7 +242,7 @@ if __name__ == '__main__':
         else:
             pat4_alpha=max(pat4_alpha-17,0)
 
-
+        # A3
         if count < 120:
             if (count//6)%20==0 or (count//6)%20==2:
                 pat5_alpha=min(pat5_alpha+47,255)
@@ -266,7 +269,7 @@ if __name__ == '__main__':
             else:
                 pat9_alpha=max(pat9_alpha-47,0)
 
-
+        # A4
         if(count//15)%7==0 and count < 120:
             pat10_alpha=min(pat10_alpha+17,255)
         else:
@@ -301,14 +304,17 @@ if __name__ == '__main__':
             pat16_alpha=min(pat16_alpha+17,255)
         else:
             pat16_alpha=max(pat16_alpha-17,0)
-
+        
+        # A5
         pat17_alpha = 255
 
+        # B5
         if (count//15)%2==0:
             pat18_alpha=min(pat18_alpha+17,255)
         else:
             pat18_alpha=max(pat18_alpha-17,0)
 
+        # B6
         if (count//15)%2==0:
             pat19_alpha=min(pat19_alpha+17,255)
         else:
@@ -320,6 +326,7 @@ if __name__ == '__main__':
         # else:
         #     pat20_alpha=max(pat20_alpha-17,0)
 
+        # B1
         if count > 120 and count < 240:
             if (count//7)%4==0:
                 pat21_alpha=min(pat21_alpha+36,255)
@@ -368,6 +375,7 @@ if __name__ == '__main__':
             else:
                 pat29_alpha=max(pat29_alpha-15,0)
         
+        # B2
         if count > 280 and count < 380:
             if count > 280 and count < 290:
                 pat30_alpha=255
@@ -420,7 +428,7 @@ if __name__ == '__main__':
                 pat38_alpha=max(pat38_alpha-15,0)  
 
 
-
+        # B3
         if count < 120:
             pat39_alpha=255
 
