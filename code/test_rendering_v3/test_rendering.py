@@ -68,7 +68,7 @@ if __name__ == '__main__':
             'B2_TRI_3_a': './png/N_B2_TRI_3_a.png', 'B2_TRI_3_b': './png/N_B2_TRI_3_b.png', 'B2_TRI_3_c': './png/N_B2_TRI_3_c.png', 'B2_TRI_3_d': './png/N_B2_TRI_3_d.png',
             'B3_FCW_B': './png/A_B3_FCW_B.png', 'B3_FCW_BA': './png/A_B3_FCW_BA.png', 'B3_FCW_R': './png/A_B3_FCW_R.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', # B3
             'B3_PDW_2': './png/A_B3_PDW_2.png', 'B3_PDW_3': './png/A_B3_PDW_3.png', 'B3_PDW_4': './png/A_B3_PDW_4.png',
-            'B4_R_B': './png/A_B4_RLDW_B.png', 'B4_R_R': './png/A_B4_RLDW_R.png', 'B4_R_BL': './png/A_B4_RLDW_BL.png', 'B4_L_B': './png/A_B4_LLDW_B.png', 'B4_L_R': './png/A_B4_LLDW_R.png' # B4
+            'B4_R_B': './png/A_B4_RLDW_B.png', 'B4_R_R': './png/A_B4_RLDW_R.png', 'B4_BL': './png/A_B4_BL.png', 'B4_L_B': './png/A_B4_LLDW_B.png', 'B4_L_R': './png/A_B4_LLDW_R.png' # B4
         }
         
         images = {}
@@ -145,19 +145,19 @@ if __name__ == '__main__':
     
     B4_R_B = attributes(images['B4_R_B'][0], images['B4_R_B'][1], images['B4_R_B'][2], 0, 311, 161)
     B4_R_R = attributes(images['B4_R_R'][0], images['B4_R_R'][1], images['B4_R_R'][2], 0, 311, 161)
-    B4_R_BL = attributes(images['B4_R_BL'][0], images['B4_R_BL'][1], images['B4_R_BL'][2], 0, 770, 161)
+    B4_BL = attributes(images['B4_BL'][0], images['B4_BL'][1], images['B4_BL'][2], 0, 650, 161)
     B4_L_B = attributes(images['B4_L_B'][0], images['B4_L_B'][1], images['B4_L_B'][2], 0, 311, 161)
     B4_L_R = attributes(images['B4_L_R'][0], images['B4_L_R'][1], images['B4_L_R'][2], 0, 311, 161)
 
     bg_img,bg_img_width,bg_img_height=jetson.utils.loadImageRGBA("background.png")
-    pat1_img,pat1_img_width,pat1_img_height=jetson.utils.loadImageRGBA("logo.png")
-    pat2_img,pat2_img_width,pat2_img_height=jetson.utils.loadImageRGBA("black_transparent_pic.png")
+    # pat1_img,pat1_img_width,pat1_img_height=jetson.utils.loadImageRGBA("logo.png")
+    # pat2_img,pat2_img_width,pat2_img_height=jetson.utils.loadImageRGBA("black_transparent_pic.png")
 
-    pat1_alpha=0
-    pat1_img_x=133
-    pat1_img_y=0
-    pat1_img_width=268
-    pat1_img_height=268
+    # pat1_alpha=0
+    # pat1_img_x=133
+    # pat1_img_y=0
+    # pat1_img_width=268
+    # pat1_img_height=268
     
     test_txt_x=100
     test_txt_y=435
@@ -323,7 +323,8 @@ if __name__ == '__main__':
                 B4_R_R.alpha = renderPattern(B4_R_R.img, B4_R_R.img_x, B4_R_R.img_y, B4_R_R.img_width, B4_R_R.img_height, B4_R_R.alpha, 255, 255, 1, 255, 1, 0, count)
                 for i in range(0, 8):
                     if (count//2)%8==i:
-                        B4_R_BL.alpha = renderPattern(B4_R_BL.img, B4_R_BL.img_x+i*20, B4_R_BL.img_y, B4_R_BL.img_width, B4_R_BL.img_height, B4_R_BL.alpha, 200, 200, 1, 255, 1, 0, count)
+                        # B4_R_BL.alpha = renderPattern(B4_R_BL.img, B4_R_BL.img_x+i*20, B4_R_BL.img_y, B4_R_BL.img_width, B4_R_BL.img_height, B4_R_BL.alpha, 200, 200, 1, 255, 1, 0, count)
+                        jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B4_BL.img, B4_BL.img_x+i*20, B4_BL.img_y, B4_BL.img_width, B4_BL.img_height)
                 # if (count//2)%8==0:
                 #     pat52_alpha = renderPattern(pat52_img, pat52_img_x, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
                 # elif (count//2)%8==1:
@@ -347,7 +348,8 @@ if __name__ == '__main__':
                 for i in range(0, 8):
                     if (count//2)%8==i:
                         # pat48_alpha = renderPattern(pat48_img, pat48_img_x-314-i*20, pat48_img_y, pat48_img_width, pat48_img_height, pat48_alpha, 200, 200, 1, 255, 1, 0, count)
-                        B4_R_BL.alpha = renderPattern(B4_R_BL.img, B4_R_BL.img_x-314-i*20, B4_R_BL.img_y, B4_R_BL.img_width, B4_R_BL.img_height, B4_R_BL.alpha, 200, 200, 1, 255, 1, 0, count) 
+                        # B4_R_BL.alpha = renderPattern(B4_R_BL.img, B4_R_BL.img_x-314-i*20, B4_R_BL.img_y, B4_R_BL.img_width, B4_R_BL.img_height, B4_R_BL.alpha, 200, 200, 1, 255, 1, 0, count) 
+                        jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B4_BL.img, B4_BL.img_x-300-i*20, B4_BL.img_y, B4_BL.img_width, B4_BL.img_height)
 
 
         # print(count)
@@ -378,7 +380,7 @@ if __name__ == '__main__':
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat1_img, pat1_img_x, pat1_img_y, pat1_img_width, pat1_img_height,pat1_alpha)
         # if (count//15)%2==0:
         #     pat1_alpha=min(pat1_alpha+17,255)
-        # else:
+        # else:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
         #     pat1_alpha=max(pat1_alpha-17,0)
 
         # if (count//150)%2==0:
@@ -387,8 +389,8 @@ if __name__ == '__main__':
         # jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(test_number), test_txt_x+200,test_txt_y,250,0,255,255,255)
         
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat1_img, 500, pat1_img_y, pat1_img_width, pat1_img_height,255)
-        if count > 460:
-            jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, pat2_img, 500, pat1_img_y, pat2_img_width, pat2_img_height)
+        # if count > 460:
+        #     jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, pat2_img, 500, pat1_img_y, pat2_img_width, pat2_img_height)
         
         display.RenderOnce(bg_img, bg_img_width, bg_img_height,img_start_x,img_start_y)
 
