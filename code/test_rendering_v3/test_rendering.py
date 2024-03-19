@@ -62,10 +62,14 @@ if __name__ == '__main__':
             'A5': './png/W_A5_A.png', # A5
             'B5': './png/A_B5_LBIN.png', 'B6': './png/A_B6_RBIN.png', # B5, B6
             'B1_S': './png/N_B1_S.png', 'B1_S_1': './png/N_B1_S_1.png', 'B1_S_2': './png/N_B1_S_2.png', 'B1_S_3': './png/N_B1_S_3.png', 'B1_S_4': './png/N_B1_S_4.png', # B1
-            'B1_FTR': './png/N_B1_FTR.png', 'B1_NTR_2': './png/N_B1_NTR_2.png', 'B1_NTR_4': './png/N_B1_NTR_4.png', 'B1_NTR_3': './png/N_B1_NTR_3.png', 'B1_NTR_1': './png/N_B1_NTR_1.png',
+            'B1_FTR': './png/N_B1_FTR.png', 'B1_FTL': './png/N_B1_FTL.png',
+            'B1_NTR_2': './png/N_B1_NTR_2.png', 'B1_NTR_4': './png/N_B1_NTR_4.png', 'B1_NTR_3': './png/N_B1_NTR_3.png', 'B1_NTR_1': './png/N_B1_NTR_1.png',
             'B2_TRI_1': './png/N_B2_TRI_1.png', 'B2_TRI_2_d': './png/N_B2_TRI_2_d.png', 'B2_TRI_2_a': './png/N_B2_TRI_2_a.png', 'B2_TRI_2_e': './png/N_B2_TRI_2_e.png', # B2
             'B2_TRI_2_b': './png/N_B2_TRI_2_b.png', 'B2_TRI_2_f': './png/N_B2_TRI_2_f.png', 'B2_TRI_2_c': './png/N_B2_TRI_2_c.png', 'B2_TRI_2_g': './png/N_B2_TRI_2_g.png', 'B2_TRI_2': './png/N_B2_TRI_2.png', 
             'B2_TRI_3_a': './png/N_B2_TRI_3_a.png', 'B2_TRI_3_b': './png/N_B2_TRI_3_b.png', 'B2_TRI_3_c': './png/N_B2_TRI_3_c.png', 'B2_TRI_3_d': './png/N_B2_TRI_3_d.png',
+            'B2_TLI_1': './png/N_B2_TLI_1.png', 'B2_TLI_2_d': './png/N_B2_TLI_2_d.png', 'B2_TLI_2_a': './png/N_B2_TLI_2_a.png', 'B2_TLI_2_e': './png/N_B2_TLI_2_e.png', # B2
+            'B2_TLI_2_b': './png/N_B2_TLI_2_b.png', 'B2_TLI_2_f': './png/N_B2_TLI_2_f.png', 'B2_TLI_2_c': './png/N_B2_TLI_2_c.png', 'B2_TLI_2_g': './png/N_B2_TLI_2_g.png', 'B2_TLI_2': './png/N_B2_TLI_2.png',
+            'B2_TLI_3_a': './png/N_B2_TLI_3_a.png', 'B2_TLI_3_b': './png/N_B2_TLI_3_b.png', 'B2_TLI_3_c': './png/N_B2_TLI_3_c.png', 'B2_TLI_3_d': './png/N_B2_TLI_3_d.png',
             'B3_FCW_B': './png/A_B3_FCW_B.png', 'B3_FCW_BA': './png/A_B3_FCW_BA.png', 'B3_FCW_R': './png/A_B3_FCW_R.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', # B3
             'B3_PDW_2': './png/A_B3_PDW_2.png', 'B3_PDW_3': './png/A_B3_PDW_3.png', 'B3_PDW_4': './png/A_B3_PDW_4.png',
             'B4_R_B': './png/A_B4_RLDW_B.png', 'B4_R_R': './png/A_B4_RLDW_R.png', 'B4_BL': './png/A_B4_BL.png', 'B4_L_B': './png/A_B4_LLDW_B.png', 'B4_L_R': './png/A_B4_LLDW_R.png' # B4
@@ -114,6 +118,7 @@ if __name__ == '__main__':
     B1_S_4 = attributes(images['B1_S_4'][0], images['B1_S_4'][1], images['B1_S_4'][2], 0, 585, 260)
     
     B1_FTR = attributes(images['B1_FTR'][0], images['B1_FTR'][1], images['B1_FTR'][2], 0, 585, 175)
+    B1_FTL = attributes(images['B1_FTL'][0], images['B1_FTL'][1], images['B1_FTL'][2], 0, 513, 175)
     
     B1_NTR_2 = attributes(images['B1_NTR_2'][0], images['B1_NTR_2'][1], images['B1_NTR_2'][2], 0, 550, 415)
     B1_NTR_4 = attributes(images['B1_NTR_4'][0], images['B1_NTR_4'][1], images['B1_NTR_4'][2], 0, 580, 315)
@@ -134,6 +139,21 @@ if __name__ == '__main__':
     B2_TRI_3_b = attributes(images['B2_TRI_3_b'][0], images['B2_TRI_3_b'][1], images['B2_TRI_3_b'][2], 0, 400, 182)
     B2_TRI_3_c = attributes(images['B2_TRI_3_c'][0], images['B2_TRI_3_c'][1], images['B2_TRI_3_c'][2], 0, 400, 182)
     B2_TRI_3_d = attributes(images['B2_TRI_3_d'][0], images['B2_TRI_3_d'][1], images['B2_TRI_3_d'][2], 0, 400, 182)
+    
+    B2_TLI_1 = attributes(images['B2_TLI_1'][0], images['B2_TLI_1'][1], images['B2_TLI_1'][2], 0, 560, 232)
+    B2_TLI_2_d = attributes(images['B2_TLI_2_d'][0], images['B2_TLI_2_d'][1], images['B2_TLI_2_d'][2], 0, 540, 226)
+    B2_TLI_2_a = attributes(images['B2_TLI_2_a'][0], images['B2_TLI_2_a'][1], images['B2_TLI_2_a'][2], 0, 520, 220)
+    B2_TLI_2_e = attributes(images['B2_TLI_2_e'][0], images['B2_TLI_2_e'][1], images['B2_TLI_2_e'][2], 0, 500, 214)
+    B2_TLI_2_b = attributes(images['B2_TLI_2_b'][0], images['B2_TLI_2_b'][1], images['B2_TLI_2_b'][2], 0, 480, 207)
+    B2_TLI_2_f = attributes(images['B2_TLI_2_f'][0], images['B2_TLI_2_f'][1], images['B2_TLI_2_f'][2], 0, 460, 201)
+    B2_TLI_2_c = attributes(images['B2_TLI_2_c'][0], images['B2_TLI_2_c'][1], images['B2_TLI_2_c'][2], 0, 440, 195)
+    B2_TLI_2_g = attributes(images['B2_TLI_2_g'][0], images['B2_TLI_2_g'][1], images['B2_TLI_2_g'][2], 0, 420, 189)
+    
+    B2_TLI_2 = attributes(images['B2_TLI_2'][0], images['B2_TLI_2'][1], images['B2_TLI_2'][2], 0, 400, 182)
+    B2_TLI_3_a = attributes(images['B2_TLI_3_a'][0], images['B2_TLI_3_a'][1], images['B2_TLI_3_a'][2], 0, 400, 182)
+    B2_TLI_3_b = attributes(images['B2_TLI_3_b'][0], images['B2_TLI_3_b'][1], images['B2_TLI_3_b'][2], 0, 400, 182)
+    B2_TLI_3_c = attributes(images['B2_TLI_3_c'][0], images['B2_TLI_3_c'][1], images['B2_TLI_3_c'][2], 0, 400, 182)
+    B2_TLI_3_d = attributes(images['B2_TLI_3_d'][0], images['B2_TLI_3_d'][1], images['B2_TLI_3_d'][2], 0, 400, 182)
     
     B3_FCW_B = attributes(images['B3_FCW_B'][0], images['B3_FCW_B'][1], images['B3_FCW_B'][2], 0, 310, 175)
     B3_FCW_BA = attributes(images['B3_FCW_BA'][0], images['B3_FCW_BA'][1], images['B3_FCW_BA'][2], 0, 310, 175)
@@ -237,13 +257,13 @@ if __name__ == '__main__':
             B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height,B6.alpha, 0, 255, 15, 17, 2, 0, count)
 
         # B1
-        if count > 120 and count < 240:
+        if count > 120 and count < 240: # go straight
             B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
             B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
             B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
             B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
 
-        if count > 180 and count < 240:
+        if count > 180 and count < 240: # turn right
             B1_FTR.alpha = renderPattern(B1_FTR.img, B1_FTR.img_x, B1_FTR.img_y, B1_FTR.img_width, B1_FTR.img_height,B1_FTR.alpha, 0, 255, 7, 36, 4, 3, count)
 
         
@@ -264,8 +284,33 @@ if __name__ == '__main__':
             if count >= 275 and count < 280:
                 B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)
         
+        if count > 540 and count < 600: # turn left
+            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
+            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
+            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
+            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            
+            B1_FTL.alpha = renderPattern(B1_FTL.img, B1_FTL.img_x, B1_FTL.img_y, B1_FTL.img_width, B1_FTL.img_height, B1_FTL.alpha, 0, 255, 7, 36, 4, 3, count)
+            
+        if count > 600 and count < 640:
+            if count > 600 and count < 610:
+                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 610 and count < 620:
+                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
+                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x-30, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 620 and count < 630:
+                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
+                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x-30, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
+                B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x-60, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 630 and count < 635:
+                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x-30, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
+                B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x-60, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 0, 255, 15, 17, 2, 50, count)
+                B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x-90, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 635 and count < 640:
+                B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x-90, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)
+        
         # B2    
-        if count > 280 and count < 380:
+        if count > 280 and count < 380: # turn right
             if count > 280 and count < 285:
                 B2_TRI_1.alpha = renderPattern(B2_TRI_1.img, B2_TRI_1.img_x, B2_TRI_1.img_y, B2_TRI_1.img_width, B2_TRI_1.img_height, B2_TRI_1.alpha, 255, 255, 1, 255, 1, 0, count)
             if count >= 285 and count < 280:
@@ -300,6 +345,39 @@ if __name__ == '__main__':
                 B2_TRI_3_c.alpha = renderPattern(B2_TRI_3_c.img, B2_TRI_3_c.img_x, B2_TRI_3_c.img_y, B2_TRI_3_c.img_width, B2_TRI_3_c.img_height, B2_TRI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
                 B2_TRI_3_d.alpha = renderPattern(B2_TRI_3_d.img, B2_TRI_3_d.img_x, B2_TRI_3_d.img_y, B2_TRI_3_d.img_width, B2_TRI_3_d.img_height, B2_TRI_3_d.alpha, 255, 255, 1, 255, 1, 0, count)
 
+        if count > 640 and count < 740: # turn left
+            if count > 640 and count < 645:
+                B2_TLI_1.alpha = renderPattern(B2_TLI_1.img, B2_TLI_1.img_x, B2_TLI_1.img_y, B2_TLI_1.img_width, B2_TLI_1.img_height, B2_TLI_1.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 645 and count < 650:
+                B2_TLI_2_d.alpha = renderPattern(B2_TLI_2_d.img, B2_TLI_2_d.img_x, B2_TLI_2_d.img_y, B2_TLI_2_d.img_width, B2_TLI_2_d.img_height, B2_TLI_2_d.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 650 and count < 655:
+                B2_TLI_2_a.alpha = renderPattern(B2_TLI_2_a.img, B2_TLI_2_a.img_x, B2_TLI_2_a.img_y, B2_TLI_2_a.img_width, B2_TLI_2_a.img_height, B2_TLI_2_a.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 655 and count < 660:
+                B2_TLI_2_e.alpha = renderPattern(B2_TLI_2_e.img, B2_TLI_2_e.img_x, B2_TLI_2_e.img_y, B2_TLI_2_e.img_width, B2_TLI_2_e.img_height, B2_TLI_2_e.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 660 and count < 665:
+                B2_TLI_2_b.alpha = renderPattern(B2_TLI_2_b.img, B2_TLI_2_b.img_x, B2_TLI_2_b.img_y, B2_TLI_2_b.img_width, B2_TLI_2_b.img_height, B2_TLI_2_b.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 665 and count < 670:
+                B2_TLI_2_f.alpha = renderPattern(B2_TLI_2_f.img, B2_TLI_2_f.img_x, B2_TLI_2_f.img_y, B2_TLI_2_f.img_width, B2_TLI_2_f.img_height, B2_TLI_2_f.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 670 and count < 675:
+                B2_TLI_2_c.alpha = renderPattern(B2_TLI_2_c.img, B2_TLI_2_c.img_x, B2_TLI_2_c.img_y, B2_TLI_2_c.img_width, B2_TLI_2_c.img_height, B2_TLI_2_c.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 675 and count < 680:
+                B2_TLI_2_g.alpha = renderPattern(B2_TLI_2_g.img, B2_TLI_2_g.img_x, B2_TLI_2_g.img_y, B2_TLI_2_g.img_width, B2_TLI_2_g.img_height, B2_TLI_2_g.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 680 and count < 690:
+                B2_TLI_2.alpha = renderPattern(B2_TLI_2.img, B2_TLI_2.img_x, B2_TLI_2.img_y, B2_TLI_2.img_width, B2_TLI_2.img_height, B2_TLI_2.alpha, 255, 255, 1, 255, 1, 0, count)
+                
+            if count > 690 and count < 710:
+                B2_TLI_3_a.alpha = renderPattern(B2_TLI_3_a.img, B2_TLI_3_a.img_x, B2_TLI_3_a.img_y, B2_TLI_3_a.img_width, B2_TLI_3_a.img_height, B2_TLI_3_a.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 710 and count < 720:
+                B2_TLI_3_a.alpha = renderPattern(B2_TLI_3_a.img, B2_TLI_3_a.img_x, B2_TLI_3_a.img_y, B2_TLI_3_a.img_width, B2_TLI_3_a.img_height, B2_TLI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
+                B2_TLI_3_b.alpha = renderPattern(B2_TLI_3_b.img, B2_TLI_3_b.img_x, B2_TLI_3_b.img_y, B2_TLI_3_b.img_width, B2_TLI_3_b.img_height, B2_TLI_3_b.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 720 and count < 730:
+                B2_TLI_3_a.alpha = renderPattern(B2_TLI_3_a.img, B2_TLI_3_a.img_x, B2_TLI_3_a.img_y, B2_TLI_3_a.img_width, B2_TLI_3_a.img_height, B2_TLI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
+                B2_TLI_3_b.alpha = renderPattern(B2_TLI_3_b.img, B2_TLI_3_b.img_x, B2_TLI_3_b.img_y, B2_TLI_3_b.img_width, B2_TLI_3_b.img_height, B2_TLI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
+                B2_TLI_3_c.alpha = renderPattern(B2_TLI_3_c.img, B2_TLI_3_c.img_x, B2_TLI_3_c.img_y, B2_TLI_3_c.img_width, B2_TLI_3_c.img_height, B2_TLI_3_c.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count >= 730 and count < 740:
+                B2_TLI_3_b.alpha = renderPattern(B2_TLI_3_b.img, B2_TLI_3_b.img_x, B2_TLI_3_b.img_y, B2_TLI_3_b.img_width, B2_TLI_3_b.img_height, B2_TLI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
+                B2_TLI_3_c.alpha = renderPattern(B2_TLI_3_c.img, B2_TLI_3_c.img_x, B2_TLI_3_c.img_y, B2_TLI_3_c.img_width, B2_TLI_3_c.img_height, B2_TLI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
+                B2_TLI_3_d.alpha = renderPattern(B2_TLI_3_d.img, B2_TLI_3_d.img_x, B2_TLI_3_d.img_y, B2_TLI_3_d.img_width, B2_TLI_3_d.img_height, B2_TLI_3_d.alpha, 255, 255, 1, 255, 1, 0, count)
 
         # B3
         if count < 120:
@@ -356,25 +434,31 @@ if __name__ == '__main__':
 
         # if (count//150)%2==0:
         #     jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, "60", test_txt_x,test_txt_y,test_txt_size,test_txt_R,test_txt_G,test_txt_B,test_txt_A)
-        if count < 460:
-            a1_number=110-(count//20)
+        if count < 600:
+            a1_number = 110 - (count // 20)
             if a1_number >= 100:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x,test_txt_y,80,0,255,255,255)
-            else:
+            elif a1_number > 0:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x+18,test_txt_y,80,0,255,255,255)
+            else:
+                a1_number = 110
 
             if (count//15)%3==0:
                 a2_number=80-(count//20)
             if a2_number >= 100:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+230,test_txt_y-37,80,0,255,255,255)
-            else:
+            elif a2_number > 0:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+248,test_txt_y-37,80,0,255,255,255)
+            else:
+                a2_number = 80
 
             a3_number=100-(count//10)
             if a3_number >= 100:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number), test_txt_x+740,test_txt_y+40,80,0,255,255,255)
             elif a3_number > 0:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+'m', test_txt_x+758,test_txt_y+40,80,0,255,255,255)
+            else:
+                a3_number = 100
     
 
         # jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, pat1_img, pat1_img_x, pat1_img_y, pat1_img_width, pat1_img_height,pat1_alpha)
@@ -396,5 +480,5 @@ if __name__ == '__main__':
 
         count=count+1
         
-        time.sleep(0.03)
+        time.sleep(0.05)
 
