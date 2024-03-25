@@ -64,6 +64,8 @@ if __name__ == '__main__':
             'B1_S': './png/N_B1_S.png', 'B1_S_1': './png/N_B1_S_1.png', 'B1_S_2': './png/N_B1_S_2.png', 'B1_S_3': './png/N_B1_S_3.png', 'B1_S_4': './png/N_B1_S_4.png', # B1
             'B1_FTR': './png/N_B1_FTR.png', 'B1_FTL': './png/N_B1_FTL.png', 'B1_FTA': './png/N_B1_FTA.png',
             'B1_NTR_2': './png/N_B1_NTR_2.png', 'B1_NTR_4': './png/N_B1_NTR_4.png', 'B1_NTR_3': './png/N_B1_NTR_3.png', 'B1_NTR_1': './png/N_B1_NTR_1.png',
+            'B1_KR_1': './png/N_B1_KR_1.png', 'B1_KR_2': './png/N_B1_KR_2.png', 'B1_KR_3': './png/N_B1_KR_3.png', 'B1_KR_4': './png/N_B1_KR_4.png', 
+            'B1_KL_1': './png/N_B1_KL_1.png', 'B1_KL_2': './png/N_B1_KL_2.png', 'B1_KL_3': './png/N_B1_KL_3.png', 'B1_KL_4': './png/N_B1_KL_4.png',
             'B2_TRI_1': './png/N_B2_TRI_1.png', 'B2_TRI_2_d': './png/N_B2_TRI_2_d.png', 'B2_TRI_2_a': './png/N_B2_TRI_2_a.png', 'B2_TRI_2_e': './png/N_B2_TRI_2_e.png', # B2
             'B2_TRI_2_b': './png/N_B2_TRI_2_b.png', 'B2_TRI_2_f': './png/N_B2_TRI_2_f.png', 'B2_TRI_2_c': './png/N_B2_TRI_2_c.png', 'B2_TRI_2_g': './png/N_B2_TRI_2_g.png', 'B2_TRI_2': './png/N_B2_TRI_2.png', 
             'B2_TRI_3_a': './png/N_B2_TRI_3_a.png', 'B2_TRI_3_b': './png/N_B2_TRI_3_b.png', 'B2_TRI_3_c': './png/N_B2_TRI_3_c.png', 'B2_TRI_3_d': './png/N_B2_TRI_3_d.png',
@@ -128,6 +130,16 @@ if __name__ == '__main__':
     B1_NTR_4 = attributes(images['B1_NTR_4'][0], images['B1_NTR_4'][1], images['B1_NTR_4'][2], 0, 580, 315)
     B1_NTR_3 = attributes(images['B1_NTR_3'][0], images['B1_NTR_3'][1], images['B1_NTR_3'][2], 0, 610, 235)
     B1_NTR_1 = attributes(images['B1_NTR_1'][0], images['B1_NTR_1'][1], images['B1_NTR_1'][2], 0, 640, 175)
+    
+    B1_KR_1 = attributes(images['B1_KR_1'][0], images['B1_KR_1'][1], images['B1_KR_1'][2], 0, 586, 261)
+    B1_KR_2 = attributes(images['B1_KR_2'][0], images['B1_KR_2'][1], images['B1_KR_2'][2], 0, 586, 261)
+    B1_KR_3 = attributes(images['B1_KR_3'][0], images['B1_KR_3'][1], images['B1_KR_3'][2], 0, 586, 261)
+    B1_KR_4 = attributes(images['B1_KR_4'][0], images['B1_KR_4'][1], images['B1_KR_4'][2], 0, 586, 261)
+    
+    B1_KL_1 = attributes(images['B1_KL_1'][0], images['B1_KL_1'][1], images['B1_KL_1'][2], 0, 540, 261)
+    B1_KL_2 = attributes(images['B1_KL_2'][0], images['B1_KL_2'][1], images['B1_KL_2'][2], 0, 540, 261)
+    B1_KL_3 = attributes(images['B1_KL_3'][0], images['B1_KL_3'][1], images['B1_KL_3'][2], 0, 540, 261)
+    B1_KL_4 = attributes(images['B1_KL_4'][0], images['B1_KL_4'][1], images['B1_KL_4'][2], 0, 540, 261)
     
     B2_TRI_1 = attributes(images['B2_TRI_1'][0], images['B2_TRI_1'][1], images['B2_TRI_1'][2], 0, 560, 232)
     B2_TRI_2_d = attributes(images['B2_TRI_2_d'][0], images['B2_TRI_2_d'][1], images['B2_TRI_2_d'][2], 0, 540, 226)
@@ -352,6 +364,18 @@ if __name__ == '__main__':
             elif count < start + 50:
                 B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)        
         
+        def B1_KR_display():
+            B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, 7, 36, 4, 0, count) 
+            B1_KR_2.alpha = renderPattern(B1_KR_2.img, B1_KR_2.img_x, B1_KR_2.img_y, B1_KR_2.img_width, B1_KR_2.img_height, B1_KR_2.alpha, 50, 255, 7, 36, 4, 1, count)
+            B1_KR_3.alpha = renderPattern(B1_KR_3.img, B1_KR_3.img_x, B1_KR_3.img_y, B1_KR_3.img_width, B1_KR_3.img_height, B1_KR_3.alpha, 50, 255, 7, 36, 4, 2, count)
+            B1_KR_4.alpha = renderPattern(B1_KR_4.img, B1_KR_4.img_x, B1_KR_4.img_y, B1_KR_4.img_width, B1_KR_4.img_height, B1_KR_4.alpha, 50, 255, 7, 36, 4, 3, count)
+        
+        def B1_KL_display():
+            B1_KL_1.alpha = renderPattern(B1_KL_1.img, B1_KL_1.img_x, B1_KL_1.img_y, B1_KL_1.img_width, B1_KL_1.img_height, B1_KL_1.alpha, 50, 255, 7, 36, 4, 0, count) 
+            B1_KL_2.alpha = renderPattern(B1_KL_2.img, B1_KL_2.img_x, B1_KL_2.img_y, B1_KL_2.img_width, B1_KL_2.img_height, B1_KL_2.alpha, 50, 255, 7, 36, 4, 1, count)
+            B1_KL_3.alpha = renderPattern(B1_KL_3.img, B1_KL_3.img_x, B1_KL_3.img_y, B1_KL_3.img_width, B1_KL_3.img_height, B1_KL_3.alpha, 50, 255, 7, 36, 4, 2, count)
+            B1_KL_4.alpha = renderPattern(B1_KL_4.img, B1_KL_4.img_x, B1_KL_4.img_y, B1_KL_4.img_width, B1_KL_4.img_height, B1_KL_4.alpha, 50, 255, 7, 36, 4, 3, count)
+        
         def B2_R_Now_display(start): # turn right
             if count < start + 5:
                 B2_TRI_1.alpha = renderPattern(B2_TRI_1.img, B2_TRI_1.img_x, B2_TRI_1.img_y, B2_TRI_1.img_width, B2_TRI_1.img_height, B2_TRI_1.alpha, 255, 255, 1, 255, 1, 0, count)
@@ -498,6 +522,7 @@ if __name__ == '__main__':
         
         jetson.utils.Overlay_all(bg_img, bg_img_width, bg_img_height, 0,0,0,255)
 
+        p = 3
 
         # A1
         if count < 950:
@@ -558,80 +583,79 @@ if __name__ == '__main__':
         if count > 460:
             B6_display()
 
-        # B1
-        if count > 120 and count < 180: # go straight
-            B1_S_display()
-
-        if count > 180 and count < 240: # turn right
-            B1_R_Far_display()
-     
-        if count > 240 and count < 290:
-            B1_R_Near_display(240)
-        
-        if count > 390 and count < 450: # turn left
-            B1_L_Far_display()
-                     
-        if count > 450 and count < 500:
-            B1_L_Near_display(450)
- 
-        if count > 600 and count < 660: # turn around
-            B1_A_Far_display()
-            
-        if count > 660 and count < 710:
-            B1_A_Near_display(660)
-        
-        # B2    
-        if count > 290 and count < 390: # turn right
-            B2_R_Now_display(290)
-
-        if count > 500 and count < 600: # turn left
-            B2_L_Now_display(500)
-            
-        if count > 710 and count < 810: # turn around
-            B2_A_Now_display(710)
-
-        
         # B3
         if count < 120:
             if count < 40:
                 B3_F_display()
+                p = 1
             else:
                 B3_P_display(40)
+                p = 1
+        if count > 1090 and count < 1140: # priority
+            B3_F_display()
+            p = 1
 
         # B4
-        if count > 810:
-            if count > 810 and count < 890:
+        if count > 930:
+            if count > 930 and count < 1010 and p >= 2:
                 B4_R_display()
-                # if (count//2)%8==0:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==1:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+20, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==2:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+40, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==3:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+60, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==4:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+80, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==5:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+100, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==6:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+120, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-                # elif (count//2)%8==7:
-                #     pat52_alpha = renderPattern(pat52_img, pat52_img_x+140, pat52_img_y, pat52_img_width, pat52_img_height, pat52_alpha, 200, 200, 1, 255, 1, 0, count)
-            # if count > 460 and count < 540:
-            if count > 890 and count < 970:
-                # B4_L_B.alpha = renderPattern(B4_L_B.img, B4_L_B.img_x, B4_L_B.img_y, B4_L_B.img_width, B4_L_B.img_height, B4_L_B.alpha, 255, 255, 1, 255, 1, 0, count)
-                # B4_L_R.alpha = renderPattern(B4_L_R.img, B4_L_R.img_x, B4_L_R.img_y, B4_L_R.img_width, B4_L_R.img_height, B4_L_R.alpha, 255, 255, 1, 255, 1, 0, count)
-                # for i in range(0, 8):
-                #     if (count//2)%8==i:
-                #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B4_BL.img, B4_BL.img_x-300-i*20, B4_BL.img_y, B4_BL.img_width, B4_BL.img_height)
+                p = 2
+            if count > 1010 and count < 1090 and p >= 2:
                 B4_L_display()
+                p = 2
+        if count > 1090 and count < 1140 and p >= 2: # priority
+            B4_R_display()
+            p = 2
+
+        # B1
+        if count > 120 and count < 180 and p == 3: # go straight
+            B1_S_display()
+            
+        if count > 1090 and count < 1140 and p == 3: # priority
+            B1_S_display()
+
+        if count > 180 and count < 240 and p == 3: # turn right
+            B1_R_Far_display()
+     
+        if count > 240 and count < 290 and p == 3:
+            B1_R_Near_display(240)
+        
+        if count > 390 and count < 450 and p == 3: # turn left
+            B1_L_Far_display()
+                     
+        if count > 450 and count < 500 and p == 3:
+            B1_L_Near_display(450)
+ 
+        if count > 600 and count < 660 and p == 3: # turn around
+            B1_A_Far_display()
+            
+        if count > 660 and count < 710 and p == 3:
+            B1_A_Near_display(660)
+        
+        if count > 810 and count < 870 and p == 3: 
+            B1_KR_display()
+        
+        if count > 870 and count < 930 and p == 3:
+            B1_KL_display()
+        
+        # B2    
+        if count > 290 and count < 390 and p == 3: # turn right
+            B2_R_Now_display(290)
+
+        if count > 500 and count < 600 and p == 3: # turn left
+            B2_L_Now_display(500)
+            
+        if count > 710 and count < 810 and p == 3: # turn around
+            B2_A_Now_display(710)
+
+        
+        
 
         # print(count)
 
         # if (count//150)%2==0:
         #     jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, "60", test_txt_x,test_txt_y,test_txt_size,test_txt_R,test_txt_G,test_txt_B,test_txt_A)
-        if count < 1000:
+        if count < 1100:
             a1_number = 110 - (count // 20)
             if a1_number >= 100:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x,test_txt_y,80,0,255,255,255)
