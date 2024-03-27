@@ -287,10 +287,10 @@ if __name__ == '__main__':
             A5.alpha = renderPattern(A5.img, A5.img_x, A5.img_y, A5.img_width, A5.img_height, A5.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def B5_display():
-            B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 255, 255, 1, 255, 1, 0, count)
+            B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 50, 255, 10, 25, 2, 0, count)
             
         def B6_display():
-            B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 255, 255, 1, 255, 1, 0, count)    
+            B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 50, 255, 10, 25, 2, 0, count)    
         
         def B1_S_display(): # go straight
             B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
@@ -572,7 +572,7 @@ if __name__ == '__main__':
             A3_SF_display()
             p = 1
         if df['bl'][count // 10] == 1:
-            A3_BF_display()
+            A3_BL_display()
             p = 1
 
 
@@ -599,16 +599,21 @@ if __name__ == '__main__':
             A4_S_display()
 
         # A5
-        if count < 460:
+        # if count < 460:
+        #     A5_display()
+        if df['auto'][count // 10] == 1:
             A5_display()
 
         # B5
-        if count < 460:
-            B5_display()
+        # if count < 460:
+        #     B5_display()
 
         # B6
-        if count > 460:
+        # if count > 460:
+        #     B6_display()
+        if df['rightBlind'][count // 10] == 1:
             B6_display()
+        
 
         # B3
         # if count < 120:
