@@ -1,0 +1,2 @@
+需要先把字型檔放到系統資料夾：
+sudo cp -r fonts/montserrt/ /usr/share/fonts/truetype/
