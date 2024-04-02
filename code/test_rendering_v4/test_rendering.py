@@ -71,6 +71,8 @@ if __name__ == '__main__':
             'B1_S': './png/N_B1_S.png', 'B1_S_1': './png/N_B1_S_1.png', 'B1_S_2': './png/N_B1_S_2.png', 'B1_S_3': './png/N_B1_S_3.png', 'B1_S_4': './png/N_B1_S_4.png', # B1
             'B1_FTR': './png/N_B1_FTR.png', 'B1_FTL': './png/N_B1_FTL.png', 'B1_FTA': './png/N_B1_FTA.png',
             'B1_NTR_2': './png/N_B1_NTR_2.png', 'B1_NTR_4': './png/N_B1_NTR_4.png', 'B1_NTR_3': './png/N_B1_NTR_3.png', 'B1_NTR_1': './png/N_B1_NTR_1.png',
+            'B1_NTA_001': './png/N_B1_NTA_001.png', 'B1_NTA_011': './png/N_B1_NTA_011.png', 'B1_NTA_022': './png/N_B1_NTA_022.png', 'B1_NTA_034': './png/N_B1_NTA_034.png',
+            'B1_NTA_036': './png/N_B1_NTA_036.png', 'B1_NTA_037': './png/N_B1_NTA_037.png', 'B1_NTA_040': './png/N_B1_NTA_040.png', 'B1_NTA_046': './png/N_B1_NTA_046.png',
             'B1_KR_1': './png/N_B1_KR_1.png', 'B1_KR_2': './png/N_B1_KR_2.png', 'B1_KR_3': './png/N_B1_KR_3.png', 'B1_KR_4': './png/N_B1_KR_4.png', 
             'B1_KL_1': './png/N_B1_KL_1.png', 'B1_KL_2': './png/N_B1_KL_2.png', 'B1_KL_3': './png/N_B1_KL_3.png', 'B1_KL_4': './png/N_B1_KL_4.png',
             'B2_TRI_1': './png/N_B2_TRI_1.png', 'B2_TRI_2_d': './png/N_B2_TRI_2_d.png', 'B2_TRI_2_a': './png/N_B2_TRI_2_a.png', 'B2_TRI_2_e': './png/N_B2_TRI_2_e.png', # B2
@@ -79,11 +81,15 @@ if __name__ == '__main__':
             'B2_TLI_1': './png/N_B2_TLI_1.png', 'B2_TLI_2_d': './png/N_B2_TLI_2_d.png', 'B2_TLI_2_a': './png/N_B2_TLI_2_a.png', 'B2_TLI_2_e': './png/N_B2_TLI_2_e.png', 
             'B2_TLI_2_b': './png/N_B2_TLI_2_b.png', 'B2_TLI_2_f': './png/N_B2_TLI_2_f.png', 'B2_TLI_2_c': './png/N_B2_TLI_2_c.png', 'B2_TLI_2_g': './png/N_B2_TLI_2_g.png', 'B2_TLI_2': './png/N_B2_TLI_2.png',
             'B2_TLI_3_a': './png/N_B2_TLI_3_a.png', 'B2_TLI_3_b': './png/N_B2_TLI_3_b.png', 'B2_TLI_3_c': './png/N_B2_TLI_3_c.png', 'B2_TLI_3_d': './png/N_B2_TLI_3_d.png',
-            'B2_TAI_1': './png/N_B2_TAI_1.png', 'B2_TAI_2_a': './png/N_B2_TAI_2_a.png', 'B2_TAI_2_b': './png/N_B2_TAI_2_b.png', 'B2_TAI_2_c': './png/N_B2_TAI_2_c.png', 
-            'B2_TAI_2_d': './png/N_B2_TAI_2_d.png', 'B2_TAI_2_e': './png/N_B2_TAI_2_e.png', 'B2_TAI_2': './png/N_B2_TAI_2.png',
-            'B2_TAI_3_a': './png/N_B2_TAI_3_a.png', 'B2_TAI_3_b': './png/N_B2_TAI_3_b.png', 'B2_TAI_3_c': './png/N_B2_TAI_3_c.png', 'B2_TAI_3_d': './png/N_B2_TAI_3_d.png', 'B2_TAI_3_e': './png/N_B2_TAI_3_e.png',
-            'B3_FCW_B': './png/A_B3_FCW_B.png', 'B3_FCW_BA': './png/A_B3_FCW_BA.png', 'B3_FCW_R': './png/A_B3_FCW_R.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', # B3
-            'B3_PDW_2': './png/A_B3_PDW_2.png', 'B3_PDW_3': './png/A_B3_PDW_3.png', 'B3_PDW_4': './png/A_B3_PDW_4.png',
+            # 'B2_TAI_1': './png/N_B2_TAI_1.png', 'B2_TAI_2_a': './png/N_B2_TAI_2_a.png', 'B2_TAI_2_b': './png/N_B2_TAI_2_b.png', 'B2_TAI_2_c': './png/N_B2_TAI_2_c.png', 
+            # 'B2_TAI_2_d': './png/N_B2_TAI_2_d.png', 'B2_TAI_2_e': './png/N_B2_TAI_2_e.png', 'B2_TAI_2': './png/N_B2_TAI_2.png',
+            # 'B2_TAI_3_a': './png/N_B2_TAI_3_a.png', 'B2_TAI_3_b': './png/N_B2_TAI_3_b.png', 'B2_TAI_3_c': './png/N_B2_TAI_3_c.png', 'B2_TAI_3_d': './png/N_B2_TAI_3_d.png', 'B2_TAI_3_e': './png/N_B2_TAI_3_e.png',
+            'B2_NTA_050': './png/N_B1_NTA_050.png', 'B2_NTA_052': './png/N_B1_NTA_052.png', 'B2_NTA_055': './png/N_B1_NTA_055.png', 'B2_NTA_062': './png/N_B1_NTA_062.png',
+            'B2_NTA_079': './png/N_B1_NTA_079.png', 'B2_NTA_085': './png/N_B1_NTA_085.png', 'B2_NTA_091': './png/N_B1_NTA_091.png', 'B2_NTA_097': './png/N_B1_NTA_097.png',
+            'B2_NTA_104': './png/N_B1_NTA_104.png', 'B2_NTA_110': './png/N_B1_NTA_110.png', 'B2_NTA_116': './png/N_B1_NTA_116.png', 'B2_NTA_122': './png/N_B1_NTA_122.png',
+            # 'B3_FCW_B': './png/A_B3_FCW_B.png', 'B3_FCW_BA': './png/A_B3_FCW_BA.png', 'B3_FCW_R': './png/A_B3_FCW_R.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', # B3
+            'B3_FCWA': './png/A_B3_FCWA.png', 'B3_FCW_B': './png/A_B3_FCW_B.png', 'B3_FCWB_2': './png/A_B3_FCWB_002.png', # B3
+            'B3_PDWA': './png/A_B3_PDWA.png', 'B3_PDWB_2': './png/A_B3_PDWB_002.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', 'B3_PDW_2': './png/A_B3_PDW_2.png', 'B3_PDW_3': './png/A_B3_PDW_3.png', 'B3_PDW_4': './png/A_B3_PDW_4.png',
             'B4_R_B': './png/A_B4_RLDW_B.png', 'B4_R_R': './png/A_B4_RLDW_R.png', 'B4_BL': './png/A_B4_BL.png', 'B4_L_B': './png/A_B4_LLDW_B.png', 'B4_L_R': './png/A_B4_LLDW_R.png' # B4
         }
         
@@ -138,6 +144,15 @@ if __name__ == '__main__':
     B1_NTR_3 = attributes(images['B1_NTR_3'][0], images['B1_NTR_3'][1], images['B1_NTR_3'][2], 0, 610, 235)
     B1_NTR_1 = attributes(images['B1_NTR_1'][0], images['B1_NTR_1'][1], images['B1_NTR_1'][2], 0, 640, 175)
     
+    B1_NTA_001 = attributes(images['B1_NTA_001'][0], images['B1_NTA_001'][1], images['B1_NTA_001'][2], 0, 70, 155)
+    B1_NTA_011 = attributes(images['B1_NTA_011'][0], images['B1_NTA_011'][1], images['B1_NTA_011'][2], 0, 70, 155)
+    B1_NTA_022 = attributes(images['B1_NTA_022'][0], images['B1_NTA_022'][1], images['B1_NTA_022'][2], 0, 70, 155)
+    B1_NTA_034 = attributes(images['B1_NTA_034'][0], images['B1_NTA_034'][1], images['B1_NTA_034'][2], 0, 70, 155)
+    B1_NTA_036 = attributes(images['B1_NTA_036'][0], images['B1_NTA_036'][1], images['B1_NTA_036'][2], 0, 70, 155)
+    B1_NTA_037 = attributes(images['B1_NTA_037'][0], images['B1_NTA_037'][1], images['B1_NTA_037'][2], 0, 70, 155)
+    B1_NTA_040 = attributes(images['B1_NTA_040'][0], images['B1_NTA_040'][1], images['B1_NTA_040'][2], 0, 70, 155)
+    B1_NTA_046 = attributes(images['B1_NTA_046'][0], images['B1_NTA_046'][1], images['B1_NTA_046'][2], 0, 70, 155)
+    
     B1_KR_1 = attributes(images['B1_KR_1'][0], images['B1_KR_1'][1], images['B1_KR_1'][2], 0, 586, 261)
     B1_KR_2 = attributes(images['B1_KR_2'][0], images['B1_KR_2'][1], images['B1_KR_2'][2], 0, 586, 261)
     B1_KR_3 = attributes(images['B1_KR_3'][0], images['B1_KR_3'][1], images['B1_KR_3'][2], 0, 586, 261)
@@ -178,23 +193,40 @@ if __name__ == '__main__':
     B2_TLI_3_c = attributes(images['B2_TLI_3_c'][0], images['B2_TLI_3_c'][1], images['B2_TLI_3_c'][2], 0, 400, 182)
     B2_TLI_3_d = attributes(images['B2_TLI_3_d'][0], images['B2_TLI_3_d'][1], images['B2_TLI_3_d'][2], 0, 400, 182)
     
-    B2_TAI_1 = attributes(images['B2_TAI_1'][0], images['B2_TAI_1'][1], images['B2_TAI_1'][2], 0, 520, 184)
-    B2_TAI_2_a = attributes(images['B2_TAI_2_a'][0], images['B2_TAI_2_a'][1], images['B2_TAI_2_a'][2], 0, 500, 171)
-    B2_TAI_2_b = attributes(images['B2_TAI_2_b'][0], images['B2_TAI_2_b'][1], images['B2_TAI_2_b'][2], 0, 476, 159)
-    B2_TAI_2_c = attributes(images['B2_TAI_2_c'][0], images['B2_TAI_2_c'][1], images['B2_TAI_2_c'][2], 0, 452, 155)
-    B2_TAI_2_d = attributes(images['B2_TAI_2_d'][0], images['B2_TAI_2_d'][1], images['B2_TAI_2_d'][2], 0, 428, 155)
-    B2_TAI_2_e = attributes(images['B2_TAI_2_e'][0], images['B2_TAI_2_e'][1], images['B2_TAI_2_e'][2], 0, 404, 155)
+    # B2_TAI_1 = attributes(images['B2_TAI_1'][0], images['B2_TAI_1'][1], images['B2_TAI_1'][2], 0, 520, 184)
+    # B2_TAI_2_a = attributes(images['B2_TAI_2_a'][0], images['B2_TAI_2_a'][1], images['B2_TAI_2_a'][2], 0, 500, 171)
+    # B2_TAI_2_b = attributes(images['B2_TAI_2_b'][0], images['B2_TAI_2_b'][1], images['B2_TAI_2_b'][2], 0, 476, 159)
+    # B2_TAI_2_c = attributes(images['B2_TAI_2_c'][0], images['B2_TAI_2_c'][1], images['B2_TAI_2_c'][2], 0, 452, 155)
+    # B2_TAI_2_d = attributes(images['B2_TAI_2_d'][0], images['B2_TAI_2_d'][1], images['B2_TAI_2_d'][2], 0, 428, 155)
+    # B2_TAI_2_e = attributes(images['B2_TAI_2_e'][0], images['B2_TAI_2_e'][1], images['B2_TAI_2_e'][2], 0, 404, 155)
     
-    B2_TAI_2 = attributes(images['B2_TAI_2'][0], images['B2_TAI_2'][1], images['B2_TAI_2'][2], 0, 380, 155)
-    B2_TAI_3_a = attributes(images['B2_TAI_3_a'][0], images['B2_TAI_3_a'][1], images['B2_TAI_3_a'][2], 0, 380, 155)
-    B2_TAI_3_b = attributes(images['B2_TAI_3_b'][0], images['B2_TAI_3_b'][1], images['B2_TAI_3_b'][2], 0, 380, 155)
-    B2_TAI_3_c = attributes(images['B2_TAI_3_c'][0], images['B2_TAI_3_c'][1], images['B2_TAI_3_c'][2], 0, 380, 155)
-    B2_TAI_3_d = attributes(images['B2_TAI_3_d'][0], images['B2_TAI_3_d'][1], images['B2_TAI_3_d'][2], 0, 380, 155)
-    B2_TAI_3_e = attributes(images['B2_TAI_3_e'][0], images['B2_TAI_3_e'][1], images['B2_TAI_3_e'][2], 0, 380, 155)
+    # B2_TAI_2 = attributes(images['B2_TAI_2'][0], images['B2_TAI_2'][1], images['B2_TAI_2'][2], 0, 380, 155)
+    # B2_TAI_3_a = attributes(images['B2_TAI_3_a'][0], images['B2_TAI_3_a'][1], images['B2_TAI_3_a'][2], 0, 380, 155)
+    # B2_TAI_3_b = attributes(images['B2_TAI_3_b'][0], images['B2_TAI_3_b'][1], images['B2_TAI_3_b'][2], 0, 380, 155)
+    # B2_TAI_3_c = attributes(images['B2_TAI_3_c'][0], images['B2_TAI_3_c'][1], images['B2_TAI_3_c'][2], 0, 380, 155)
+    # B2_TAI_3_d = attributes(images['B2_TAI_3_d'][0], images['B2_TAI_3_d'][1], images['B2_TAI_3_d'][2], 0, 380, 155)
+    # B2_TAI_3_e = attributes(images['B2_TAI_3_e'][0], images['B2_TAI_3_e'][1], images['B2_TAI_3_e'][2], 0, 380, 155)
     
+    B2_NTA_050 = attributes(images['B2_NTA_050'][0], images['B2_NTA_050'][1], images['B2_NTA_050'][2], 0, 70, 155)
+    B2_NTA_052 = attributes(images['B2_NTA_052'][0], images['B2_NTA_052'][1], images['B2_NTA_052'][2], 0, 70, 155)
+    B2_NTA_055 = attributes(images['B2_NTA_055'][0], images['B2_NTA_055'][1], images['B2_NTA_055'][2], 0, 70, 155)
+    B2_NTA_062 = attributes(images['B2_NTA_062'][0], images['B2_NTA_062'][1], images['B2_NTA_062'][2], 0, 70, 155)
+    B2_NTA_079 = attributes(images['B2_NTA_079'][0], images['B2_NTA_079'][1], images['B2_NTA_079'][2], 0, 70, 155)
+    B2_NTA_085 = attributes(images['B2_NTA_085'][0], images['B2_NTA_085'][1], images['B2_NTA_085'][2], 0, 70, 155)
+    B2_NTA_091 = attributes(images['B2_NTA_091'][0], images['B2_NTA_091'][1], images['B2_NTA_091'][2], 0, 70, 155)
+    B2_NTA_097 = attributes(images['B2_NTA_097'][0], images['B2_NTA_097'][1], images['B2_NTA_097'][2], 0, 70, 155)
+    B2_NTA_104 = attributes(images['B2_NTA_104'][0], images['B2_NTA_104'][1], images['B2_NTA_104'][2], 0, 70, 155)
+    B2_NTA_110 = attributes(images['B2_NTA_110'][0], images['B2_NTA_110'][1], images['B2_NTA_110'][2], 0, 70, 155)
+    B2_NTA_116 = attributes(images['B2_NTA_116'][0], images['B2_NTA_116'][1], images['B2_NTA_116'][2], 0, 70, 155)
+    B2_NTA_122 = attributes(images['B2_NTA_122'][0], images['B2_NTA_122'][1], images['B2_NTA_122'][2], 0, 70, 155)
+    
+    B3_FCWA = attributes(images['B3_FCWA'][0], images['B3_FCWA'][1], images['B3_FCWA'][2], 0, 310, 175)
     B3_FCW_B = attributes(images['B3_FCW_B'][0], images['B3_FCW_B'][1], images['B3_FCW_B'][2], 0, 310, 175)
-    B3_FCW_BA = attributes(images['B3_FCW_BA'][0], images['B3_FCW_BA'][1], images['B3_FCW_BA'][2], 0, 310, 175)
-    B3_FCW_R = attributes(images['B3_FCW_R'][0], images['B3_FCW_R'][1], images['B3_FCW_R'][2], 0, 310, 175)
+    # B3_FCW_BA = attributes(images['B3_FCW_BA'][0], images['B3_FCW_BA'][1], images['B3_FCW_BA'][2], 0, 310, 175)
+    # B3_FCW_R = attributes(images['B3_FCW_R'][0], images['B3_FCW_R'][1], images['B3_FCW_R'][2], 0, 310, 175)
+    B3_FCWB_2 = attributes(images['B3_FCWB_2'][0], images['B3_FCWB_2'][1], images['B3_FCWB_2'][2], 0, 362, 181)
+    B3_PDWA = attributes(images['B3_PDWA'][0], images['B3_PDWA'][1], images['B3_PDWA'][2], 0, 310, 175)
+    B3_PDWB_2 = attributes(images['B3_PDWB_2'][0], images['B3_PDWB_2'][1], images['B3_PDWB_2'][2], 0, 362, 181)
     B3_PDW_1 = attributes(images['B3_PDW_1'][0], images['B3_PDW_1'][1], images['B3_PDW_1'][2], 0, 310, 175)
     B3_PDW_2 = attributes(images['B3_PDW_2'][0], images['B3_PDW_2'][1], images['B3_PDW_2'][2], 0, 310, 175)
     B3_PDW_3 = attributes(images['B3_PDW_3'][0], images['B3_PDW_3'][1], images['B3_PDW_3'][2], 0, 310, 175)
@@ -359,21 +391,37 @@ if __name__ == '__main__':
                 B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x-90, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)
             
         def B1_A_Near_display(start): # turn around
-            if count < start + 10:
-                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 255, 255, 1, 255, 1, 0, count)
-            elif count < start + 20:
-                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
-                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 255, 255, 1, 255, 1, 0, count)
-            elif count < start + 30:
-                B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
-                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
-                B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 255, 255, 1, 255, 1, 0, count)
-            elif count < start + 40:
-                B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
-                B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 0, 255, 15, 17, 2, 50, count)
-                B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 255, 255, 1, 255, 1, 0, count)
+            if count < start + 25:
+                B1_NTA_001.alpha = renderPattern(B1_NTA_001.img, B1_NTA_001.img_x, B1_NTA_001.img_y, B1_NTA_001.img_width, B1_NTA_001.img_height, B1_NTA_001.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 50:
-                B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)        
+                B1_NTA_011.alpha = renderPattern(B1_NTA_011.img, B1_NTA_011.img_x, B1_NTA_011.img_y, B1_NTA_011.img_width, B1_NTA_011.img_height, B1_NTA_011.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 75:
+                B1_NTA_022.alpha = renderPattern(B1_NTA_022.img, B1_NTA_022.img_x, B1_NTA_022.img_y, B1_NTA_022.img_width, B1_NTA_022.img_height, B1_NTA_022.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 100:
+                B1_NTA_034.alpha = renderPattern(B1_NTA_034.img, B1_NTA_034.img_x, B1_NTA_034.img_y, B1_NTA_034.img_width, B1_NTA_034.img_height, B1_NTA_034.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 125:
+                B1_NTA_036.alpha = renderPattern(B1_NTA_036.img, B1_NTA_036.img_x, B1_NTA_036.img_y, B1_NTA_036.img_width, B1_NTA_036.img_height, B1_NTA_036.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 150:
+                B1_NTA_037.alpha = renderPattern(B1_NTA_037.img, B1_NTA_037.img_x, B1_NTA_037.img_y, B1_NTA_037.img_width, B1_NTA_037.img_height, B1_NTA_037.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 175:
+                B1_NTA_040.alpha = renderPattern(B1_NTA_040.img, B1_NTA_040.img_x, B1_NTA_040.img_y, B1_NTA_040.img_width, B1_NTA_040.img_height, B1_NTA_040.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 200:
+                B1_NTA_046.alpha = renderPattern(B1_NTA_046.img, B1_NTA_046.img_x, B1_NTA_046.img_y, B1_NTA_046.img_width, B1_NTA_046.img_height, B1_NTA_046.alpha, 255, 255, 1, 255, 1, 0, count)
+            # if count < start + 10:
+            #     B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 20:
+            #     B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 30:
+            #     B1_NTR_2.alpha = renderPattern(B1_NTR_2.img, B1_NTR_2.img_x, B1_NTR_2.img_y, B1_NTR_2.img_width, B1_NTR_2.img_height, B1_NTR_2.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 40:
+            #     B1_NTR_4.alpha = renderPattern(B1_NTR_4.img, B1_NTR_4.img_x, B1_NTR_4.img_y, B1_NTR_4.img_width, B1_NTR_4.img_height, B1_NTR_4.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B1_NTR_3.alpha = renderPattern(B1_NTR_3.img, B1_NTR_3.img_x, B1_NTR_3.img_y, B1_NTR_3.img_width, B1_NTR_3.img_height, B1_NTR_3.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 50:
+            #     B1_NTR_1.alpha = renderPattern(B1_NTR_1.img, B1_NTR_1.img_x, B1_NTR_1.img_y, B1_NTR_1.img_width, B1_NTR_1.img_height, B1_NTR_1.alpha, 0, 255, 15, 17, 2, 50, count)        
         
         def B1_KR_display():
             B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, 7, 36, 4, 0, count) 
@@ -464,50 +512,85 @@ if __name__ == '__main__':
 
         def B2_A_Now_display(start): # turn around
             if count < start + 5:
-                B2_TAI_1.alpha = renderPattern(B2_TAI_1.img, B2_TAI_1.img_x, B2_TAI_1.img_y, B2_TAI_1.img_width, B2_TAI_1.img_height, B2_TAI_1.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_050.alpha = renderPattern(B2_NTA_050.img, B2_NTA_050.img_x, B2_NTA_050.img_y, B2_NTA_050.img_width, B2_NTA_050.img_height, B2_NTA_050.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 10:
-                B2_TAI_2_a.alpha = renderPattern(B2_TAI_2_a.img, B2_TAI_2_a.img_x, B2_TAI_2_a.img_y, B2_TAI_2_a.img_width, B2_TAI_2_a.img_height, B2_TAI_2_a.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_052.alpha = renderPattern(B2_NTA_052.img, B2_NTA_052.img_x, B2_NTA_052.img_y, B2_NTA_052.img_width, B2_NTA_052.img_height, B2_NTA_052.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 15:
-                B2_TAI_2_b.alpha = renderPattern(B2_TAI_2_b.img, B2_TAI_2_b.img_x, B2_TAI_2_b.img_y, B2_TAI_2_b.img_width, B2_TAI_2_b.img_height, B2_TAI_2_b.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_055.alpha = renderPattern(B2_NTA_055.img, B2_NTA_055.img_x, B2_NTA_055.img_y, B2_NTA_055.img_width, B2_NTA_055.img_height, B2_NTA_055.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 20:
-                B2_TAI_2_c.alpha = renderPattern(B2_TAI_2_c.img, B2_TAI_2_c.img_x, B2_TAI_2_c.img_y, B2_TAI_2_c.img_width, B2_TAI_2_c.img_height, B2_TAI_2_c.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_062.alpha = renderPattern(B2_NTA_062.img, B2_NTA_062.img_x, B2_NTA_062.img_y, B2_NTA_062.img_width, B2_NTA_062.img_height, B2_NTA_062.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 25:
-                B2_TAI_2_d.alpha = renderPattern(B2_TAI_2_d.img, B2_TAI_2_d.img_x, B2_TAI_2_d.img_y, B2_TAI_2_d.img_width, B2_TAI_2_d.img_height, B2_TAI_2_d.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_079.alpha = renderPattern(B2_NTA_079.img, B2_NTA_079.img_x, B2_NTA_079.img_y, B2_NTA_079.img_width, B2_NTA_079.img_height, B2_NTA_079.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 35:
-                B2_TAI_2_e.alpha = renderPattern(B2_TAI_2_e.img, B2_TAI_2_e.img_x, B2_TAI_2_e.img_y, B2_TAI_2_e.img_width, B2_TAI_2_e.img_height, B2_TAI_2_e.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_085.alpha = renderPattern(B2_NTA_085.img, B2_NTA_085.img_x, B2_NTA_085.img_y, B2_NTA_085.img_width, B2_NTA_085.img_height, B2_NTA_085.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 40:
-                B2_TAI_2.alpha = renderPattern(B2_TAI_2.img, B2_TAI_2.img_x, B2_TAI_2.img_y, B2_TAI_2.img_width, B2_TAI_2.img_height, B2_TAI_2.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_091.alpha = renderPattern(B2_NTA_091.img, B2_NTA_091.img_x, B2_NTA_091.img_y, B2_NTA_091.img_width, B2_NTA_091.img_height, B2_NTA_091.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 50:
-                B2_TAI_2.alpha = renderPattern(B2_TAI_2.img, B2_TAI_2.img_x, B2_TAI_2.img_y, B2_TAI_2.img_width, B2_TAI_2.img_height, B2_TAI_2.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_097.alpha = renderPattern(B2_NTA_097.img, B2_NTA_097.img_x, B2_NTA_097.img_y, B2_NTA_097.img_width, B2_NTA_097.img_height, B2_NTA_097.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 55:
-                B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_104.alpha = renderPattern(B2_NTA_104.img, B2_NTA_104.img_x, B2_NTA_104.img_y, B2_NTA_104.img_width, B2_NTA_104.img_height, B2_NTA_104.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 60:
-                B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_110.alpha = renderPattern(B2_NTA_110.img, B2_NTA_110.img_x, B2_NTA_110.img_y, B2_NTA_110.img_width, B2_NTA_110.img_height, B2_NTA_110.alpha, 255, 255, 1, 255, 1, 0, count)
             elif count < start + 65:
-                B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 255, 255, 1, 255, 1, 0, count)
-            elif count < start + 70:
-                B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_e.alpha = renderPattern(B2_TAI_3_e.img, B2_TAI_3_e.img_x, B2_TAI_3_e.img_y, B2_TAI_3_e.img_width, B2_TAI_3_e.img_height, B2_TAI_3_e.alpha, 255, 255, 1, 255, 1, 0, count)
-            elif count < start + 75:
-                B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 0, 255, 15, 17, 2, 50, count)
-                B2_TAI_3_e.alpha = renderPattern(B2_TAI_3_e.img, B2_TAI_3_e.img_x, B2_TAI_3_e.img_y, B2_TAI_3_e.img_width, B2_TAI_3_e.img_height, B2_TAI_3_e.alpha, 255, 255, 1, 255, 1, 0, count)
+                B2_NTA_116.alpha = renderPattern(B2_NTA_116.img, B2_NTA_116.img_x, B2_NTA_116.img_y, B2_NTA_116.img_width, B2_NTA_116.img_height, B2_NTA_116.alpha, 255, 255, 1, 255, 1, 0, count)
+            else:
+                B2_NTA_122.alpha = renderPattern(B2_NTA_122.img, B2_NTA_122.img_x, B2_NTA_122.img_y, B2_NTA_122.img_width, B2_NTA_122.img_height, B2_NTA_122.alpha, 255, 255, 1, 255, 1, 0, count)
+            # if count < start + 5:
+            #     B2_TAI_1.alpha = renderPattern(B2_TAI_1.img, B2_TAI_1.img_x, B2_TAI_1.img_y, B2_TAI_1.img_width, B2_TAI_1.img_height, B2_TAI_1.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 10:
+            #     B2_TAI_2_a.alpha = renderPattern(B2_TAI_2_a.img, B2_TAI_2_a.img_x, B2_TAI_2_a.img_y, B2_TAI_2_a.img_width, B2_TAI_2_a.img_height, B2_TAI_2_a.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 15:
+            #     B2_TAI_2_b.alpha = renderPattern(B2_TAI_2_b.img, B2_TAI_2_b.img_x, B2_TAI_2_b.img_y, B2_TAI_2_b.img_width, B2_TAI_2_b.img_height, B2_TAI_2_b.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 20:
+            #     B2_TAI_2_c.alpha = renderPattern(B2_TAI_2_c.img, B2_TAI_2_c.img_x, B2_TAI_2_c.img_y, B2_TAI_2_c.img_width, B2_TAI_2_c.img_height, B2_TAI_2_c.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 25:
+            #     B2_TAI_2_d.alpha = renderPattern(B2_TAI_2_d.img, B2_TAI_2_d.img_x, B2_TAI_2_d.img_y, B2_TAI_2_d.img_width, B2_TAI_2_d.img_height, B2_TAI_2_d.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 35:
+            #     B2_TAI_2_e.alpha = renderPattern(B2_TAI_2_e.img, B2_TAI_2_e.img_x, B2_TAI_2_e.img_y, B2_TAI_2_e.img_width, B2_TAI_2_e.img_height, B2_TAI_2_e.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 40:
+            #     B2_TAI_2.alpha = renderPattern(B2_TAI_2.img, B2_TAI_2.img_x, B2_TAI_2.img_y, B2_TAI_2.img_width, B2_TAI_2.img_height, B2_TAI_2.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 50:
+            #     B2_TAI_2.alpha = renderPattern(B2_TAI_2.img, B2_TAI_2.img_x, B2_TAI_2.img_y, B2_TAI_2.img_width, B2_TAI_2.img_height, B2_TAI_2.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 55:
+            #     B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 60:
+            #     B2_TAI_3_a.alpha = renderPattern(B2_TAI_3_a.img, B2_TAI_3_a.img_x, B2_TAI_3_a.img_y, B2_TAI_3_a.img_width, B2_TAI_3_a.img_height, B2_TAI_3_a.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 65:
+            #     B2_TAI_3_b.alpha = renderPattern(B2_TAI_3_b.img, B2_TAI_3_b.img_x, B2_TAI_3_b.img_y, B2_TAI_3_b.img_width, B2_TAI_3_b.img_height, B2_TAI_3_b.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 70:
+            #     B2_TAI_3_c.alpha = renderPattern(B2_TAI_3_c.img, B2_TAI_3_c.img_x, B2_TAI_3_c.img_y, B2_TAI_3_c.img_width, B2_TAI_3_c.img_height, B2_TAI_3_c.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_e.alpha = renderPattern(B2_TAI_3_e.img, B2_TAI_3_e.img_x, B2_TAI_3_e.img_y, B2_TAI_3_e.img_width, B2_TAI_3_e.img_height, B2_TAI_3_e.alpha, 255, 255, 1, 255, 1, 0, count)
+            # elif count < start + 75:
+            #     B2_TAI_3_d.alpha = renderPattern(B2_TAI_3_d.img, B2_TAI_3_d.img_x, B2_TAI_3_d.img_y, B2_TAI_3_d.img_width, B2_TAI_3_d.img_height, B2_TAI_3_d.alpha, 0, 255, 15, 17, 2, 50, count)
+            #     B2_TAI_3_e.alpha = renderPattern(B2_TAI_3_e.img, B2_TAI_3_e.img_x, B2_TAI_3_e.img_y, B2_TAI_3_e.img_width, B2_TAI_3_e.img_height, B2_TAI_3_e.alpha, 255, 255, 1, 255, 1, 0, count)
 
-        def B3_F_display():
+        def B3_F_L1_display():
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_FCW_BA.alpha = renderPattern(B3_FCW_BA.img, B3_FCW_BA.img_x, B3_FCW_BA.img_y, B3_FCW_BA.img_width, B3_FCW_BA.img_height, B3_FCW_BA.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_FCW_R.alpha = renderPattern(B3_FCW_R.img, B3_FCW_R.img_x, B3_FCW_R.img_y, B3_FCW_R.img_width, B3_FCW_R.img_height, B3_FCW_R.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            # B3_FCW_BA.alpha = renderPattern(B3_FCW_BA.img, B3_FCW_BA.img_x, B3_FCW_BA.img_y, B3_FCW_BA.img_width, B3_FCW_BA.img_height, B3_FCW_BA.alpha, 255, 255, 1, 255, 1, 0, count)
+            # B3_FCW_R.alpha = renderPattern(B3_FCW_R.img, B3_FCW_R.img_x, B3_FCW_R.img_y, B3_FCW_R.img_width, B3_FCW_R.img_height, B3_FCW_R.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            B3_FCWB_2.alpha = renderPattern(B3_FCWB_2.img, B3_FCWB_2.img_x, B3_FCWB_2.img_y, B3_FCWB_2.img_width, B3_FCWB_2.img_height, B3_FCWB_2.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+        
+        def B3_F_L2_display():
+            B3_FCWA.alpha = renderPattern(B3_FCWA.img, B3_FCWA.img_x, B3_FCWA.img_y, B3_FCWA.img_width, B3_FCWA.img_height, B3_FCWA.alpha, 255, 255, 1, 255, 1, 0, count)
+        
+        def B3_P_L1_display():
+            B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
+            B3_PDWB_2.alpha = renderPattern(B3_PDWB_2.img, B3_PDWB_2.img_x, B3_PDWB_2.img_y, B3_PDWB_2.img_width, B3_PDWB_2.img_height, B3_PDWB_2.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+        
+        def B3_P_L2_display():
+            B3_PDWA.alpha = renderPattern(B3_PDWA.img, B3_PDWA.img_x, B3_PDWA.img_y, B3_PDWA.img_width, B3_PDWA.img_height, B3_PDWA.alpha, 255, 255, 1, 255, 1, 0, count)
         
         def B3_P_display(start):
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_FCW_BA.alpha = renderPattern(B3_FCW_BA.img, B3_FCW_BA.img_x, B3_FCW_BA.img_y, B3_FCW_BA.img_width, B3_FCW_BA.img_height, B3_FCW_BA.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_FCW_R.alpha = renderPattern(B3_FCW_R.img, B3_FCW_R.img_x, B3_FCW_R.img_y, B3_FCW_R.img_width, B3_FCW_R.img_height, B3_FCW_R.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            # B3_FCW_BA.alpha = renderPattern(B3_FCW_BA.img, B3_FCW_BA.img_x, B3_FCW_BA.img_y, B3_FCW_BA.img_width, B3_FCW_BA.img_height, B3_FCW_BA.alpha, 255, 255, 1, 255, 1, 0, count)
+            # B3_FCW_R.alpha = renderPattern(B3_FCW_R.img, B3_FCW_R.img_x, B3_FCW_R.img_y, B3_FCW_R.img_width, B3_FCW_R.img_height, B3_FCW_R.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
             if count < start + 20:
                 B3_PDW_1.alpha = renderPattern(B3_PDW_1.img, B3_PDW_1.img_x, B3_PDW_1.img_y, B3_PDW_1.img_width, B3_PDW_1.img_height, B3_PDW_1.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
             elif count < start + 40:
@@ -534,9 +617,9 @@ if __name__ == '__main__':
         jetson.utils.Overlay_all(bg_img, bg_img_width, bg_img_height, 0,0,0,255)
 
         p = 3
+        a = 0
 
         # A1
-        # if count < 950:
         A1_display()
         # if (count//15)%2==0:
         #     pat1_alpha=min(pat1_alpha+17,255)
@@ -546,10 +629,6 @@ if __name__ == '__main__':
         # A2
         # if count < 300:
         #     A2_B_display()
-        # if count > 300 and count < 600:
-        #     A2_L_display()
-        # if count > 600 and count < 900:
-        #     A2_R_display()
         if df['leftCar'][count // 10] == 1:
             A2_L_display()
         if df['rightCar'][count // 10] == 1:
@@ -592,7 +671,7 @@ if __name__ == '__main__':
         #     A4_TL_display()
         # if count > 600 and count < 810:
         #     A4_TA_display()
-        if df['right'][count // 10] == 1:
+        if df['around'][count // 10] == 1:
             A4_TR_display()
         if df['straight'][count // 10] == 1:
             A4_S_display()
@@ -608,39 +687,29 @@ if __name__ == '__main__':
         #     B5_display()
 
         # B6
-        # if count > 460:
-        #     B6_display()
         if df['rightBlind'][count // 10] == 1:
             B6_display()
         
 
         # B3
-        # if count < 120:
-        #     if count < 40:
-        #         B3_F_display()
-        #         p = 1
-        #     else:
-        #         B3_P_display(40)
-        #         p = 1
-        # if count > 1090 and count < 1140: # priority
-        #     B3_F_display()
-        #     p = 1
-        if df['pedestrian'][count // 10] == 1:
+        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 0:
             B3_P_display(count)
             p = 1
+            a = 1
+        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 1:
+            B3_P_L1_display()
+            p = 1
+            a = 1
+        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 2:
+            B3_P_L2_display()
+            p = 1
+            a = 1
 
         # B4
-        # if count > 930:
-        #     if count > 930 and count < 1010 and p >= 2:
-        #         B4_R_display()
-        #         p = 2
-        #     if count > 1010 and count < 1090 and p >= 2:
-        #         B4_L_display()
-        #         p = 2
-        # if count > 1090 and count < 1140 and p >= 2: # priority
-        #     B4_R_display()
-        #     p = 2
         if df['leftDeparture'][count // 10] == 1 and p >= 2:
+            B4_L_display()
+            p = 2
+        if df['leftDeparture'][count // 10] == 1 and a != 1:
             B4_L_display()
             p = 2
 
@@ -677,13 +746,13 @@ if __name__ == '__main__':
 
         # print(start)
 
-        if df['right'][count // 10] == 1 and df['distance'][count // 10] > 50 and p == 3:
-            B1_R_Far_display()
-        elif df['right'][count // 10] == 1 and df['distance'][count // 10] > 8 and start == 0 and p == 3:
+        if df['around'][count // 10] == 1 and df['distance'][count // 10] > 50 and p == 3:
+            B1_A_Far_display()
+        elif df['around'][count // 10] == 1 and df['distance'][count // 10] > 8 and start == 0 and p == 3:
             start = count
-            B1_R_Near_display(start)
-        elif df['right'][count // 10] == 1 and df['distance'][count // 10] >= 8 and p == 3:
-            B1_R_Near_display(start)
+            B1_A_Near_display(start)
+        elif df['around'][count // 10] == 1 and df['distance'][count // 10] >= 8 and p == 3:
+            B1_A_Near_display(start)
         
         if df['straight'][count // 10] == 1 and p == 3:
             B1_S_display()
@@ -701,11 +770,11 @@ if __name__ == '__main__':
             
         # if count > 710 and count < 810 and p == 3: # turn around
         #     B2_A_Now_display(710)
-        if df['right'][count // 10] == 1 and df['distance'][count // 10] < 8 and df['distance'][count // 10] > 0 and start == 0 and p == 3:
+        if df['around'][count // 10] == 1 and df['distance'][count // 10] < 8 and df['distance'][count // 10] > 0 and start == 0 and p == 3:
             start = count
-            B2_R_Now_display(start)
-        elif df['right'][count // 10] == 1 and df['distance'][count // 10] < 8 and df['distance'][count // 10] >= 0 and p == 3:
-            B2_R_Now_display(start)
+            B2_A_Now_display(start)
+        elif df['around'][count // 10] == 1 and df['distance'][count // 10] < 8 and df['distance'][count // 10] >= 0 and p == 3:
+            B2_A_Now_display(start)
 
         if df['distance'][count // 10] == 0:
             start = 0
