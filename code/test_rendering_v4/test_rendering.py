@@ -643,7 +643,7 @@ if __name__ == '__main__':
         
 
         # B3
-        if df['pedLevel'][count // 10] == 0:
+        if df['pedestrian'][count // 10] != 0:
             if df['pedestrian'][count // 10] == 1:
                 B3_P_display(1)
             if df['pedestrian'][count // 10] == 2:
@@ -654,11 +654,11 @@ if __name__ == '__main__':
                 B3_P_display(4)
             p = 1
             a = 1
-        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 1:
+        if df['pedLevel'][count // 10] == 1:
             B3_P_L1_display()
             p = 1
             a = 1
-        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 2:
+        if df['pedLevel'][count // 10] == 2:
             B3_P_L2_display()
             p = 1
             a = 1
