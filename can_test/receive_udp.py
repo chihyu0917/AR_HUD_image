@@ -305,6 +305,8 @@ if __name__ == '__main__':
     # render pattern
     count = 0
     start = 0
+    fps = 30
+    f = round(1000 / fps) / 1000
 
     def renderPattern(img, x, y, width, height, alpha, min_alpha, max_alpha, step, base, period, remain, count):
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, img, x, y, width, height, alpha)
@@ -331,28 +333,28 @@ if __name__ == '__main__':
             A1.alpha = renderPattern(A1.img, A1.img_x, A1.img_y, A1.img_width, A1.img_height, A1.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def A2_B_display():
-            A2_B.alpha = renderPattern(A2_B.img, A2_B.img_x, A2_B.img_y, A2_B.img_width, A2_B.img_height, A2_B.alpha, 50, 255, 10, 25, 2, 0, count) # 1 Hz
+            A2_B.alpha = renderPattern(A2_B.img, A2_B.img_x, A2_B.img_y, A2_B.img_width, A2_B.img_height, A2_B.alpha, 50, 255, fps/2, 400/fps, 2, 0, count) # 1 Hz
             
         def A2_L_display():
-            A2_L.alpha = renderPattern(A2_L.img, A2_L.img_x, A2_L.img_y, A2_L.img_width, A2_L.img_height, A2_L.alpha, 50, 255, 10, 25, 2, 0, count)
+            A2_L.alpha = renderPattern(A2_L.img, A2_L.img_x, A2_L.img_y, A2_L.img_width, A2_L.img_height, A2_L.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
         
         def A2_R_display():
-            A2_R.alpha = renderPattern(A2_R.img, A2_R.img_x, A2_R.img_y, A2_R.img_width, A2_R.img_height, A2_R.alpha, 50, 255, 10, 25, 2, 0, count)
+            A2_R.alpha = renderPattern(A2_R.img, A2_R.img_x, A2_R.img_y, A2_R.img_width, A2_R.img_height, A2_R.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def A3_SF_display():
-            A3_SF.alpha = renderPattern(A3_SF.img, A3_SF.img_x, A3_SF.img_y, A3_SF.img_width, A3_SF.img_height, A3_SF.alpha, 50, 255, 10, 25, 2, 0, count)
+            A3_SF.alpha = renderPattern(A3_SF.img, A3_SF.img_x, A3_SF.img_y, A3_SF.img_width, A3_SF.img_height, A3_SF.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def A3_BL_display():
-            A3_BL.alpha = renderPattern(A3_BL.img, A3_BL.img_x, A3_BL.img_y, A3_BL.img_width, A3_BL.img_height, A3_BL.alpha, 50, 255, 10, 25, 2, 0, count)
+            A3_BL.alpha = renderPattern(A3_BL.img, A3_BL.img_x, A3_BL.img_y, A3_BL.img_width, A3_BL.img_height, A3_BL.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
         
         def A3_MH_display():
-            A3_MH.alpha = renderPattern(A3_MH.img, A3_MH.img_x, A3_MH.img_y, A3_MH.img_width, A3_MH.img_height, A3_MH.alpha, 50, 255, 10, 25, 2, 0, count)
+            A3_MH.alpha = renderPattern(A3_MH.img, A3_MH.img_x, A3_MH.img_y, A3_MH.img_width, A3_MH.img_height, A3_MH.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def A3_MS_display():
-            A3_MS.alpha = renderPattern(A3_MS.img, A3_MS.img_x, A3_MS.img_y, A3_MS.img_width, A3_MS.img_height, A3_MS.alpha, 50, 255, 10, 25, 2, 0, count)
+            A3_MS.alpha = renderPattern(A3_MS.img, A3_MS.img_x, A3_MS.img_y, A3_MS.img_width, A3_MS.img_height, A3_MS.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def A3_BF_display():
-            A3_BF.alpha = renderPattern(A3_BF.img, A3_BF.img_x, A3_BF.img_y, A3_BF.img_width, A3_BF.img_height, A3_BF.alpha, 50, 255, 10, 25, 2, 0, count)
+            A3_BF.alpha = renderPattern(A3_BF.img, A3_BF.img_x, A3_BF.img_y, A3_BF.img_width, A3_BF.img_height, A3_BF.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def A4_S_display():
             A4_S.alpha = renderPattern(A4_S.img, A4_S.img_x, A4_S.img_y, A4_S.img_width, A4_S.img_height, A4_S.alpha, 255, 255, 1, 255, 1, 0, count)
@@ -379,40 +381,40 @@ if __name__ == '__main__':
             A5.alpha = renderPattern(A5.img, A5.img_x, A5.img_y, A5.img_width, A5.img_height, A5.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def B5_display():
-            B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 50, 255, 10, 25, 2, 0, count)
+            B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
             
         def B6_display():
-            B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 50, 255, 10, 25, 2, 0, count)    
+            B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)  
         
         def B1_S_display(): # go straight
-            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
-            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
         def B1_R_Far_display(): # turn right
-            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
-            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
-            B1_FTR.alpha = renderPattern(B1_FTR.img, B1_FTR.img_x, B1_FTR.img_y, B1_FTR.img_width, B1_FTR.img_height,B1_FTR.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_FTR.alpha = renderPattern(B1_FTR.img, B1_FTR.img_x, B1_FTR.img_y, B1_FTR.img_width, B1_FTR.img_height,B1_FTR.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
         def B1_L_Far_display(): # turn left
-            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count) 
-            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
-            B1_FTL.alpha = renderPattern(B1_FTL.img, B1_FTL.img_x, B1_FTL.img_y, B1_FTL.img_width, B1_FTL.img_height, B1_FTL.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_FTL.alpha = renderPattern(B1_FTL.img, B1_FTL.img_x, B1_FTL.img_y, B1_FTL.img_width, B1_FTL.img_height, B1_FTL.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
         
         def B1_A_Far_display(): # turn around
-            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, 7, 36, 4, 0, count)
-            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count)
+            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
-            B1_FTA.alpha = renderPattern(B1_FTA.img, B1_FTA.img_x, B1_FTA.img_y, B1_FTA.img_width, B1_FTA.img_height, B1_FTA.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_FTA.alpha = renderPattern(B1_FTA.img, B1_FTA.img_x, B1_FTA.img_y, B1_FTA.img_width, B1_FTA.img_height, B1_FTA.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
         def B1_R_Near_display(start): # turn right
             if count < start + 12:
@@ -558,16 +560,16 @@ if __name__ == '__main__':
                 B2_NTA_122.alpha = renderPattern(B2_NTA_122.img, B2_NTA_122.img_x, B2_NTA_122.img_y, B2_NTA_122.img_width, B2_NTA_122.img_height, B2_NTA_122.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def B1_KR_display():
-            B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, 7, 36, 4, 0, count) 
-            B1_KR_2.alpha = renderPattern(B1_KR_2.img, B1_KR_2.img_x, B1_KR_2.img_y, B1_KR_2.img_width, B1_KR_2.img_height, B1_KR_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_KR_3.alpha = renderPattern(B1_KR_3.img, B1_KR_3.img_x, B1_KR_3.img_y, B1_KR_3.img_width, B1_KR_3.img_height, B1_KR_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_KR_4.alpha = renderPattern(B1_KR_4.img, B1_KR_4.img_x, B1_KR_4.img_y, B1_KR_4.img_width, B1_KR_4.img_height, B1_KR_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            B1_KR_2.alpha = renderPattern(B1_KR_2.img, B1_KR_2.img_x, B1_KR_2.img_y, B1_KR_2.img_width, B1_KR_2.img_height, B1_KR_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_KR_3.alpha = renderPattern(B1_KR_3.img, B1_KR_3.img_x, B1_KR_3.img_y, B1_KR_3.img_width, B1_KR_3.img_height, B1_KR_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_KR_4.alpha = renderPattern(B1_KR_4.img, B1_KR_4.img_x, B1_KR_4.img_y, B1_KR_4.img_width, B1_KR_4.img_height, B1_KR_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
         
         def B1_KL_display():
-            B1_KL_1.alpha = renderPattern(B1_KL_1.img, B1_KL_1.img_x, B1_KL_1.img_y, B1_KL_1.img_width, B1_KL_1.img_height, B1_KL_1.alpha, 50, 255, 7, 36, 4, 0, count) 
-            B1_KL_2.alpha = renderPattern(B1_KL_2.img, B1_KL_2.img_x, B1_KL_2.img_y, B1_KL_2.img_width, B1_KL_2.img_height, B1_KL_2.alpha, 50, 255, 7, 36, 4, 1, count)
-            B1_KL_3.alpha = renderPattern(B1_KL_3.img, B1_KL_3.img_x, B1_KL_3.img_y, B1_KL_3.img_width, B1_KL_3.img_height, B1_KL_3.alpha, 50, 255, 7, 36, 4, 2, count)
-            B1_KL_4.alpha = renderPattern(B1_KL_4.img, B1_KL_4.img_x, B1_KL_4.img_y, B1_KL_4.img_width, B1_KL_4.img_height, B1_KL_4.alpha, 50, 255, 7, 36, 4, 3, count)
+            B1_KL_1.alpha = renderPattern(B1_KL_1.img, B1_KL_1.img_x, B1_KL_1.img_y, B1_KL_1.img_width, B1_KL_1.img_height, B1_KL_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            B1_KL_2.alpha = renderPattern(B1_KL_2.img, B1_KL_2.img_x, B1_KL_2.img_y, B1_KL_2.img_width, B1_KL_2.img_height, B1_KL_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            B1_KL_3.alpha = renderPattern(B1_KL_3.img, B1_KL_3.img_x, B1_KL_3.img_y, B1_KL_3.img_width, B1_KL_3.img_height, B1_KL_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            B1_KL_4.alpha = renderPattern(B1_KL_4.img, B1_KL_4.img_x, B1_KL_4.img_y, B1_KL_4.img_width, B1_KL_4.img_height, B1_KL_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
         
         # def B2_R_Now_display(start): # turn right
         #     if count < start + 5:
@@ -645,14 +647,14 @@ if __name__ == '__main__':
             
         def B3_F_L1_display():
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_FCWB_2.alpha = renderPattern(B3_FCWB_2.img, B3_FCWB_2.img_x, B3_FCWB_2.img_y, B3_FCWB_2.img_width, B3_FCWB_2.img_height, B3_FCWB_2.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            B3_FCWB_2.alpha = renderPattern(B3_FCWB_2.img, B3_FCWB_2.img_x, B3_FCWB_2.img_y, B3_FCWB_2.img_width, B3_FCWB_2.img_height, B3_FCWB_2.alpha, 50, 255, fps/4, 800/fps, 2, 0, count) # 0.5 Hz
         
         def B3_F_L2_display():
             B3_FCWA.alpha = renderPattern(B3_FCWA.img, B3_FCWA.img_x, B3_FCWA.img_y, B3_FCWA.img_width, B3_FCWA.img_height, B3_FCWA.alpha, 255, 255, 1, 255, 1, 0, count)
         
         def B3_P_L1_display():
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
-            B3_PDWB_2.alpha = renderPattern(B3_PDWB_2.img, B3_PDWB_2.img_x, B3_PDWB_2.img_y, B3_PDWB_2.img_width, B3_PDWB_2.img_height, B3_PDWB_2.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+            B3_PDWB_2.alpha = renderPattern(B3_PDWB_2.img, B3_PDWB_2.img_x, B3_PDWB_2.img_y, B3_PDWB_2.img_width, B3_PDWB_2.img_height, B3_PDWB_2.alpha, 50, 255, fps/4, 800/fps, 2, 0, count) # 0.5 Hz
         
         def B3_P_L2_display():
             B3_PDWA.alpha = renderPattern(B3_PDWA.img, B3_PDWA.img_x, B3_PDWA.img_y, B3_PDWA.img_width, B3_PDWA.img_height, B3_PDWA.alpha, 255, 255, 1, 255, 1, 0, count)
@@ -660,13 +662,13 @@ if __name__ == '__main__':
         def B3_P_display(start):
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
             if count < start + 20:
-                B3_PDW_1.alpha = renderPattern(B3_PDW_1.img, B3_PDW_1.img_x, B3_PDW_1.img_y, B3_PDW_1.img_width, B3_PDW_1.img_height, B3_PDW_1.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
+                B3_PDW_1.alpha = renderPattern(B3_PDW_1.img, B3_PDW_1.img_x, B3_PDW_1.img_y, B3_PDW_1.img_width, B3_PDW_1.img_height, B3_PDW_1.alpha, 50, 255, fps/4, 800/fps, 2, 0, count) # 0.5 Hz
             elif count < start + 40:
-                B3_PDW_2.alpha = renderPattern(B3_PDW_2.img, B3_PDW_2.img_x, B3_PDW_2.img_y, B3_PDW_2.img_width, B3_PDW_2.img_height, B3_PDW_2.alpha, 50, 255, 5, 51, 2, 0, count)
+                B3_PDW_2.alpha = renderPattern(B3_PDW_2.img, B3_PDW_2.img_x, B3_PDW_2.img_y, B3_PDW_2.img_width, B3_PDW_2.img_height, B3_PDW_2.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
             elif count < start + 60:
-                B3_PDW_3.alpha = renderPattern(B3_PDW_3.img, B3_PDW_3.img_x, B3_PDW_3.img_y, B3_PDW_3.img_width, B3_PDW_3.img_height, B3_PDW_3.alpha, 50, 255, 5, 51, 2, 0, count)
+                B3_PDW_3.alpha = renderPattern(B3_PDW_3.img, B3_PDW_3.img_x, B3_PDW_3.img_y, B3_PDW_3.img_width, B3_PDW_3.img_height, B3_PDW_3.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
             elif count < start + 80:
-                B3_PDW_4.alpha = renderPattern(B3_PDW_4.img, B3_PDW_4.img_x, B3_PDW_4.img_y, B3_PDW_4.img_width, B3_PDW_4.img_height, B3_PDW_4.alpha, 50, 255, 5, 51, 2, 0, count)
+                B3_PDW_4.alpha = renderPattern(B3_PDW_4.img, B3_PDW_4.img_x, B3_PDW_4.img_y, B3_PDW_4.img_width, B3_PDW_4.img_height, B3_PDW_4.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
         
         def B4_R_display():
             B4_R_B.alpha = renderPattern(B4_R_B.img, B4_R_B.img_x, B4_R_B.img_y, B4_R_B.img_width, B4_R_B.img_height, B4_R_B.alpha, 255, 255, 1, 255, 1, 0, count)
@@ -750,8 +752,18 @@ if __name__ == '__main__':
             if a3_number >= 1000 and unit == 'm':
                 a3_number = int(a3_number * 0.001)
                 unit = 'km'
+
+        a4_number = int(can_this_frame['NavigationDestinationValue']*0.1)
+        dUnit = can_this_frame['NavigationDestinationUnit']
+        if dUnit == '0.1m' or dUnit =='0.1km':
+            dUnit = dUnit[3:] 
+            if a4_number >= 1000 and dUnit == 'm':
+                a4_number = int(a4_number * 0.001)
+                dUnit = 'km'
         
-        if can_this_frame['NavigationDirection'] == 'go straight':
+        if dUnit == 'm' or dUnit == 'km':
+            A4_D_display()
+        elif can_this_frame['NavigationDirection'] == 'go straight':
             A4_S_display()
         elif can_this_frame['NavigationDirection'] == 'turn left' or can_this_frame['NavigationDirection'] == 'left front' or can_this_frame['NavigationDirection'] == 'left rear':
             A4_TL_display()
@@ -780,10 +792,12 @@ if __name__ == '__main__':
                 B1_A_Near_display(start)
             elif p == 3:
                 B1_A_Far_display()
-        
+        # elif dUnit == 'm' or dUnit == 'km':
+        #     A4_D_display()
+
         if unit == 'm' and a3_number == 0:
             start = 0
-
+        
 
         #FCW_warning_level,FCW_main_obj_class,PDW_right_near,PDW_right_far,PDW_left_near,PDW_left_far=fcw_warning.update(detection_this_frame,can_this_frame["Speed"],can_this_frame["BrakeSignal"],can_this_frame["LeftSignal"],can_this_frame["RightSignal"])
         #FCW_warning_level:0=normal,1=blue,2=red ; FCW_main_obj_class=['Sedan', 'Truck', 'Bus', 'Motorcycle', 'Person'] ; PDW_X_X:0=normal,1=warning
@@ -793,6 +807,7 @@ if __name__ == '__main__':
         # print('A3: ', can_this_frame['SystemError'], can_this_frame['BatteryError'], can_this_frame['MotorOverHeat'], can_this_frame['MotorOverSpeed'], can_this_frame['BrakeError'])
         print(can_this_frame['NavigationDirection'])
         print(can_this_frame['DistanceValue'], can_this_frame['DistanceUnit'])
+        print(can_this_frame['NavigationDestinationValue'], can_this_frame['NavigationDestinationUnit'])
 
         a1_number = can_this_frame['SpeedLimit']
         if a1_number >= 100:
@@ -810,9 +825,15 @@ if __name__ == '__main__':
         elif a2_number > 0:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+266,test_txt_y-37,80,0,255,255,255)
 
-        # a3_number = int(can_this_frame['DistanceValue']*0.1)
-        # unit = can_this_frame['DistanceUnit']
-        if unit == 'm' or unit =='km':
+       
+        if dUnit == 'm' or dUnit == 'km':
+            if a4_number >= 100:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+740,test_txt_y+40,80,0,255,255,255)
+            elif a4_number >= 10:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
+            elif a4_number > 0:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)
+        elif unit == 'm' or unit =='km':
             # unit = unit[3:] 
             # if a3_number >= 1000 and unit == 'm':
             #     a3_number = int(a3_number * 0.001)
@@ -823,13 +844,21 @@ if __name__ == '__main__':
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+unit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
             elif a3_number > 0:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+unit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)
-            
+        # elif dUnit == 'm' or dUnit == 'km':
+        #     if a4_number >= 100:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+740,test_txt_y+40,80,0,255,255,255)
+        #     elif a4_number >= 10:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
+        #     elif a4_number > 0:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)    
+
+
         display.RenderOnce(bg_img, bg_img_width, bg_img_height,img_start_x,img_start_y)
 
         count=count+1
 
-
-        time.sleep(0.033)
-        # time.sleep(0.2)
+        time.sleep(f) # fps
+        # time.sleep(0.033) # 30fps
+        # time.sleep(0.2) # 5fps
 
 
