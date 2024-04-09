@@ -572,18 +572,16 @@ if __name__ == '__main__':
         def B3_P_L2_display():
             B3_PDWA.alpha = renderPattern(B3_PDWA.img, B3_PDWA.img_x, B3_PDWA.img_y, B3_PDWA.img_width, B3_PDWA.img_height, B3_PDWA.alpha, 255, 255, 1, 255, 1, 0, count)
         
-        def B3_P_display(start):
+        def B3_P_display(PNum):
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
-            # B3_FCW_BA.alpha = renderPattern(B3_FCW_BA.img, B3_FCW_BA.img_x, B3_FCW_BA.img_y, B3_FCW_BA.img_width, B3_FCW_BA.img_height, B3_FCW_BA.alpha, 255, 255, 1, 255, 1, 0, count)
-            # B3_FCW_R.alpha = renderPattern(B3_FCW_R.img, B3_FCW_R.img_x, B3_FCW_R.img_y, B3_FCW_R.img_width, B3_FCW_R.img_height, B3_FCW_R.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
-            if count < start + 20:
-                B3_PDW_1.alpha = renderPattern(B3_PDW_1.img, B3_PDW_1.img_x, B3_PDW_1.img_y, B3_PDW_1.img_width, B3_PDW_1.img_height, B3_PDW_1.alpha, 50, 255, 5, 51, 2, 0, count) # 0.5 Hz
-            elif count < start + 40:
-                B3_PDW_2.alpha = renderPattern(B3_PDW_2.img, B3_PDW_2.img_x, B3_PDW_2.img_y, B3_PDW_2.img_width, B3_PDW_2.img_height, B3_PDW_2.alpha, 50, 255, 5, 51, 2, 0, count)
-            elif count < start + 60:
-                B3_PDW_3.alpha = renderPattern(B3_PDW_3.img, B3_PDW_3.img_x, B3_PDW_3.img_y, B3_PDW_3.img_width, B3_PDW_3.img_height, B3_PDW_3.alpha, 50, 255, 5, 51, 2, 0, count)
-            elif count < start + 80:
-                B3_PDW_4.alpha = renderPattern(B3_PDW_4.img, B3_PDW_4.img_x, B3_PDW_4.img_y, B3_PDW_4.img_width, B3_PDW_4.img_height, B3_PDW_4.alpha, 50, 255, 5, 51, 2, 0, count)
+            if PNum == 1:
+                B3_PDW_1.alpha = renderPattern(B3_PDW_1.img, B3_PDW_1.img_x, B3_PDW_1.img_y, B3_PDW_1.img_width, B3_PDW_1.img_height, B3_PDW_1.alpha, 50, 255, fps/4, 800/fps, 2, 0, count) # 0.5 Hz
+            elif PNum == 2:
+                B3_PDW_2.alpha = renderPattern(B3_PDW_2.img, B3_PDW_2.img_x, B3_PDW_2.img_y, B3_PDW_2.img_width, B3_PDW_2.img_height, B3_PDW_2.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
+            elif PNum == 3:
+                B3_PDW_3.alpha = renderPattern(B3_PDW_3.img, B3_PDW_3.img_x, B3_PDW_3.img_y, B3_PDW_3.img_width, B3_PDW_3.img_height, B3_PDW_3.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
+            elif PNum == 4:
+                B3_PDW_4.alpha = renderPattern(B3_PDW_4.img, B3_PDW_4.img_x, B3_PDW_4.img_y, B3_PDW_4.img_width, B3_PDW_4.img_height, B3_PDW_4.alpha, 50, 255, fps/4, 800/fps, 2, 0, count)
         
         def B4_R_display():
             B4_R_B.alpha = renderPattern(B4_R_B.img, B4_R_B.img_x, B4_R_B.img_y, B4_R_B.img_width, B4_R_B.img_height, B4_R_B.alpha, 255, 255, 1, 255, 1, 0, count)
@@ -645,8 +643,15 @@ if __name__ == '__main__':
         
 
         # B3
-        if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 0:
-            B3_P_display(count)
+        if df['pedLevel'][count // 10] == 0:
+            if df['pedestrian'][count // 10] == 1:
+                B3_P_display(1)
+            if df['pedestrian'][count // 10] == 2:
+                B3_P_display(2)
+            if df['pedestrian'][count // 10] == 3:
+                B3_P_display(3)
+            if df['pedestrian'][count // 10] == 4:
+                B3_P_display(4)
             p = 1
             a = 1
         if df['pedestrian'][count // 10] == 1 and df['pedLevel'][count // 10] == 1:
