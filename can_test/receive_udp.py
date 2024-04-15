@@ -91,8 +91,11 @@ if __name__ == '__main__':
             'A4_S': './png/N_A4_S.png', 'A4_TR': './png/N_A4_TR.png', 'A4_TL': './png/N_A4_TL.png', 'A4_KR': './png/N_A4_KR.png', 
             'A4_KL': './png/N_A4_KL.png', 'A4_TA': './png/N_A4_TA.png', 'A4_D': './png/N_A4_D.png', # A4
             'A5': './png/W_A5_A.png', # A5
-            'B5': './png/A_B5_LBIN.png', 'B6': './png/A_B6_RBIN.png', # B5, B6
-            'B1_S': './png/N_B1_S.png', 'B1_S_1': './png/N_B1_S_1.png', 'B1_S_2': './png/N_B1_S_2.png', 'B1_S_3': './png/N_B1_S_3.png', 'B1_S_4': './png/N_B1_S_4.png', # B1
+            # 'B5': './png/A_B5_LBIN.png', 'B6': './png/A_B6_RBIN.png', # B5, B6
+            'B5_001': './png/A_B5_LBIN_001.png', 'B5_002': './png/A_B5_LBIN_002.png', 'B5_003': './png/A_B5_LBIN_003.png', # B5
+            'B6_001': './png/A_B6_RBIN_001.png', 'B6_002': './png/A_B6_RBIN_002.png', 'B6_003': './png/A_B6_RBIN_003.png', # B6
+            # 'B1_S': './png/N_B1_S.png', 'B1_S_1': './png/N_B1_S_1.png', 'B1_S_2': './png/N_B1_S_2.png', 'B1_S_3': './png/N_B1_S_3.png', 'B1_S_4': './png/N_B1_S_4.png', # B1
+            'B1_S_031': './png/N_B1_S_031.png', 'B1_S_037': './png/N_B1_S_037.png', 'B1_S_043': './png/N_B1_S_043.png', 'B1_S_049': './png/N_B1_S_049.png', 'B1_S_055': './png/N_B1_S_055.png',
             'B1_FTR': './png/N_B1_FTR.png', 'B1_FTL': './png/N_B1_FTL.png', 'B1_FTA': './png/N_B1_FTA.png',
             'B1_NTR_001': './png/N_B1_NTR_001.png', 'B1_NTR_004': './png/N_B1_NTR_004.png', 'B1_NTR_011': './png/N_B1_NTR_011.png', 'B1_NTR_015': './png/N_B1_NTR_015.png', 
             'B1_NTR_022': './png/N_B1_NTR_022.png', 'B1_NTR_028': './png/N_B1_NTR_028.png', 'B1_NTR_034': './png/N_B1_NTR_034.png',
@@ -148,18 +151,31 @@ if __name__ == '__main__':
     A4_KR = attributes(images['A4_KR'][0], images['A4_KR'][1], images['A4_KR'][2], 0, 770, 404)
     A4_KL = attributes(images['A4_KL'][0], images['A4_KL'][1], images['A4_KL'][2], 0, 770, 404)
     A4_TA = attributes(images['A4_TA'][0], images['A4_TA'][1], images['A4_TA'][2], 0, 776, 404)
-    A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 785, 419)
+    # A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 785, 419)
+    A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 1005, 419)
     
     A5 = attributes(images['A5'][0], images['A5'][1], images['A5'][2], 0, 1045, 407) # A5
 
-    B5 = attributes(images['B5'][0], images['B5'][1], images['B5'][2], 0, 70, 155) # B5
-    B6 = attributes(images['B6'][0], images['B6'][1], images['B6'][2], 0, 1128, 155) # B6
+    # B5 = attributes(images['B5'][0], images['B5'][1], images['B5'][2], 0, 70, 155) # B5
+    # B6 = attributes(images['B6'][0], images['B6'][1], images['B6'][2], 0, 1128, 155) # B6
+    B5_001 = attributes(images['B5_001'][0], images['B5_001'][1], images['B5_001'][2], 0, 70, 155) # B5
+    B5_002 = attributes(images['B5_002'][0], images['B5_002'][1], images['B5_002'][2], 0, 70, 155)
+    B5_003 = attributes(images['B5_003'][0], images['B5_003'][1], images['B5_003'][2], 0, 70, 155)
+
+    B6_001 = attributes(images['B6_001'][0], images['B6_001'][1], images['B6_001'][2], 0, 1128, 155) # B6
+    B6_002 = attributes(images['B6_002'][0], images['B6_002'][1], images['B6_002'][2], 0, 1128, 155)
+    B6_003 = attributes(images['B6_003'][0], images['B6_003'][1], images['B6_003'][2], 0, 1128, 155)
     
-    B1_S = attributes(images['B1_S'][0], images['B1_S'][1], images['B1_S'][2], 0, 585, 260)
-    B1_S_1 = attributes(images['B1_S_1'][0], images['B1_S_1'][1], images['B1_S_1'][2], 0, 585, 260)
-    B1_S_2 = attributes(images['B1_S_2'][0], images['B1_S_2'][1], images['B1_S_2'][2], 0, 585, 260)
-    B1_S_3 = attributes(images['B1_S_3'][0], images['B1_S_3'][1], images['B1_S_3'][2], 0, 585, 260)
-    B1_S_4 = attributes(images['B1_S_4'][0], images['B1_S_4'][1], images['B1_S_4'][2], 0, 585, 260)
+    # B1_S = attributes(images['B1_S'][0], images['B1_S'][1], images['B1_S'][2], 0, 585, 260)
+    # B1_S_1 = attributes(images['B1_S_1'][0], images['B1_S_1'][1], images['B1_S_1'][2], 0, 585, 260)
+    # B1_S_2 = attributes(images['B1_S_2'][0], images['B1_S_2'][1], images['B1_S_2'][2], 0, 585, 260)
+    # B1_S_3 = attributes(images['B1_S_3'][0], images['B1_S_3'][1], images['B1_S_3'][2], 0, 585, 260)
+    # B1_S_4 = attributes(images['B1_S_4'][0], images['B1_S_4'][1], images['B1_S_4'][2], 0, 585, 260)
+    B1_S_031 = attributes(images['B1_S_031'][0], images['B1_S_031'][1], images['B1_S_031'][2], 0, 70, 155)
+    B1_S_037 = attributes(images['B1_S_037'][0], images['B1_S_037'][1], images['B1_S_037'][2], 0, 70, 155)
+    B1_S_043 = attributes(images['B1_S_043'][0], images['B1_S_043'][1], images['B1_S_043'][2], 0, 70, 155)
+    B1_S_049 = attributes(images['B1_S_049'][0], images['B1_S_049'][1], images['B1_S_049'][2], 0, 70, 155)
+    B1_S_055 = attributes(images['B1_S_055'][0], images['B1_S_055'][1], images['B1_S_055'][2], 0, 70, 155)
     
     B1_FTR = attributes(images['B1_FTR'][0], images['B1_FTR'][1], images['B1_FTR'][2], 0, 585, 175)
     B1_FTL = attributes(images['B1_FTL'][0], images['B1_FTL'][1], images['B1_FTL'][2], 0, 513, 175)
@@ -296,7 +312,7 @@ if __name__ == '__main__':
     #server_address = (ip_detection, port_detection)
     #sock_recv_detection.bind(server_address)   # Bind the socket to the port
 
-    #fcw_warning=FCWarningAlgorithm(bus_name)
+    # fcw_warning=FCWarningAlgorithm(bus_name)
 
     
     p = Process(target=udp_receiver, args=(can_recv_ip,can_recv_port,shared_dict,))
@@ -305,9 +321,12 @@ if __name__ == '__main__':
     # render pattern
     count = 0
     start = 0
+    startB5B6 = 0
     fps = 30
     f = round(1000 / fps) / 1000
-    lastA2, lastA3, lastB5B6, lastB3B4, lastA4, lastB1 = '', '', '', '', '', ''
+    lastA2, lastA3, lastB5B6, lastB3B4, lastA4, lastB1, last_unit, last_dUnit = '', '', '', '', '', '', '', ''
+    timeA2, timeB5B6 = 0, 0
+    last_a3_number, last_a4_number = 0, 0
 
     def renderPattern(img, x, y, width, height, alpha, min_alpha, max_alpha, step, base, period, remain, count):
         jetson.utils.Overlay_pat(bg_img, bg_img_width, bg_img_height, img, x, y, width, height, alpha)
@@ -381,17 +400,47 @@ if __name__ == '__main__':
         def A5_display():
             A5.alpha = renderPattern(A5.img, A5.img_x, A5.img_y, A5.img_width, A5.img_height, A5.alpha, 255, 255, 1, 255, 1, 0, count)
             
-        def B5_display():
-            B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
-            
-        def B6_display():
-            B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)  
+        def B5_display(start):
+            # B5.alpha = renderPattern(B5.img, B5.img_x, B5.img_y, B5.img_width, B5.img_height, B5.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)
+            if count < start + 5:
+                B5_001.alpha = renderPattern(B5_001.img, B5_001.img_x, B5_001.img_y, B5_001.img_width, B5_001.img_height, B5_001.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 10:
+                B5_002.alpha = renderPattern(B5_002.img, B5_002.img_x, B5_002.img_y, B5_002.img_width, B5_002.img_height, B5_002.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 15:
+                B5_003.alpha = renderPattern(B5_003.img, B5_003.img_x, B5_003.img_y, B5_003.img_width, B5_003.img_height, B5_003.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 20:
+                B5_002.alpha = renderPattern(B5_002.img, B5_002.img_x, B5_002.img_y, B5_002.img_width, B5_002.img_height, B5_002.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 25:
+                B5_001.alpha = renderPattern(B5_001.img, B5_001.img_x, B5_001.img_y, B5_001.img_width, B5_001.img_height, B5_001.alpha, 255, 255, 1, 255, 1, 0, count)
+
+        def B6_display(start):
+            # B6.alpha = renderPattern(B6.img, B6.img_x, B6.img_y, B6.img_width, B6.img_height, B6.alpha, 50, 255, fps/2, 400/fps, 2, 0, count)  
+            if count < start + 5:
+                B6_001.alpha = renderPattern(B6_001.img, B6_001.img_x, B6_001.img_y, B6_001.img_width, B6_001.img_height, B6_001.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 10:
+                B6_002.alpha = renderPattern(B6_002.img, B6_002.img_x, B6_002.img_y, B6_002.img_width, B6_002.img_height, B6_002.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 15:
+                B6_003.alpha = renderPattern(B6_003.img, B6_003.img_x, B6_003.img_y, B6_003.img_width, B6_003.img_height, B6_003.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 20:
+                B6_002.alpha = renderPattern(B6_002.img, B6_002.img_x, B6_002.img_y, B6_002.img_width, B6_002.img_height, B6_002.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count < start + 25:
+                B6_001.alpha = renderPattern(B6_001.img, B6_001.img_x, B6_001.img_y, B6_001.img_width, B6_001.img_height, B6_001.alpha, 255, 255, 1, 255, 1, 0, count)
         
         def B1_S_display(): # go straight
-            B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
-            B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
-            B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
-            B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
+            # B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+            # B1_S_2.alpha = renderPattern(B1_S_2.img, B1_S_2.img_x, B1_S_2.img_y, B1_S_2.img_width, B1_S_2.img_height,B1_S_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+            # B1_S_3.alpha = renderPattern(B1_S_3.img, B1_S_3.img_x, B1_S_3.img_y, B1_S_3.img_width, B1_S_3.img_height,B1_S_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+            # B1_S_4.alpha = renderPattern(B1_S_4.img, B1_S_4.img_x, B1_S_4.img_y, B1_S_4.img_width, B1_S_4.img_height,B1_S_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
+            if count//5 == 0:
+                B1_S_031.alpha = renderPattern(B1_S_031.img, B1_S_031.img_x, B1_S_031.img_y, B1_S_031.img_width, B1_S_031.img_height, B1_S_031.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count//5 == 1:
+                B1_S_037.alpha = renderPattern(B1_S_037.img, B1_S_037.img_x, B1_S_037.img_y, B1_S_037.img_width, B1_S_037.img_height, B1_S_037.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count//5 == 2:
+                B1_S_043.alpha = renderPattern(B1_S_043.img, B1_S_043.img_x, B1_S_043.img_y, B1_S_043.img_width, B1_S_043.img_height, B1_S_043.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count//5 == 3:
+                B1_S_049.alpha = renderPattern(B1_S_049.img, B1_S_049.img_x, B1_S_049.img_y, B1_S_049.img_width, B1_S_049.img_height, B1_S_049.alpha, 255, 255, 1, 255, 1, 0, count)
+            elif count//5 == 4:
+                B1_S_055.alpha = renderPattern(B1_S_055.img, B1_S_055.img_x, B1_S_055.img_y, B1_S_055.img_width, B1_S_055.img_height, B1_S_055.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def B1_R_Far_display(): # turn right
             B1_S_1.alpha = renderPattern(B1_S_1.img, B1_S_1.img_x, B1_S_1.img_y, B1_S_1.img_width, B1_S_1.img_height,B1_S_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
@@ -611,197 +660,212 @@ if __name__ == '__main__':
                 if (count//2)%8==i:
                     jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B4_BL.img, B4_BL.img_x-280-i*20, B4_BL.img_y, B4_BL.img_width, B4_BL.img_height)
 
-
+        
         jetson.utils.Overlay_all(bg_img, bg_img_width, bg_img_height, 0,0,0,255)
 
         p = 3 # priority
         a = 0 # collision alert
 
-        if count % int(1 / f) == 0: # 1000 ms
-            a1_number = can_this_frame['SpeedLimit']
+        # if count % int(1 / f) == 0: # 1000 ms
+        a1_number = can_this_frame['SpeedLimit']
         A1_display()
 
-        if count % int(0.5 / f) == 0: # 500 ms
-            a2_number = int(can_this_frame['Speed'])
+        # if count % int(0.5 / f) == 0: # 500 ms
+        a2_number = int(can_this_frame['Speed'])
 
-            lastA2 = can_this_frame['VehicleDirection']
-            if can_this_frame['VehicleDirection'] == 'rear':
-                A2_B_display()
-            elif can_this_frame['VehicleDirection'] == 'left':
-                A2_L_display()
-            elif can_this_frame['VehicleDirection'] == 'right':
-                A2_R_display()
-        else:
-            if lastA2 == 'rear':
-                A2_B_display()
-            elif lastA2 == 'left':
-                A2_L_display()
-            elif lastA2 == 'right':
-                A2_R_display()
+        #     lastA2 = can_this_frame['VehicleDirection']
+        #     if can_this_frame['VehicleDirection'] == 'rear':
+        #         timeA2 = 1
+        #         A2_B_display()
+        #     elif can_this_frame['VehicleDirection'] == 'left':
+        #         timeA2 = 1
+        #         A2_L_display()
+        #     elif can_this_frame['VehicleDirection'] == 'right':
+        #         timeA2 = 1
+        #         A2_R_display()
+        # else:
+        #     if lastA2 == 'rear' and timeA2 <= 2:
+        #         A2_B_display()
+        #     elif lastA2 == 'left':
+        #         A2_L_display()
+        #     elif lastA2 == 'right':
+        #         A2_R_display()
         
-        if count % int(1 / f) == 0: # 1000 ms
-            if can_this_frame['MotorOverHeat'] or can_this_frame['ControllerOverHeat']:
-                lastA3 = 'MotorOverHeat'
-                A3_MH_display()
-                p = 1
-            elif can_this_frame['MotorOverSpeed']:
-                lastA3 = 'MotorOverSpeed'
-                A3_MS_display()
-                p = 1
-        elif count % int(0.5 / f) == 0: # 500 ms
-            if can_this_frame['SystemError']:
-                lastA3 = 'SystemError'
-                A3_SF_display()
-                p = 1
-            elif can_this_frame['BatteryError']:
-                lastA3 = 'BatteryError'
-                A3_BL_display()
-                p = 1
-        elif count % int(0.1 / f) == 0: # 100 ms
-            if can_this_frame['BrakeError']:
-                lastA3 = 'BrakeError'
-                A3_BF_display()
-                p = 1
-        else:
-            if lastA3 == 'SystemError':
-                A3_SF_display()
-                p = 1
-            elif lastA3 == 'BatteryError':
-                A3_BL_display()
-                p = 1
-            elif lastA3 == 'MotorOverHeat' or 'ControllerOverHeat':
-                A3_MH_display()
-                p = 1
-            elif lastA3 == 'MotorOverSpeed':
-                A3_MS_display()
-                p = 1
-            elif lastA3 == 'BrakeError':
-                A3_BF_display()
-                p = 1
+        # if count % int(1 / f) == 0: # 1000 ms
+        #     if can_this_frame['MotorOverHeat'] or can_this_frame['ControllerOverHeat']:
+        #         lastA3 = 'MotorOverHeat'
+        #         A3_MH_display()
+        #         p = 1
+        #     elif can_this_frame['MotorOverSpeed']:
+        #         lastA3 = 'MotorOverSpeed'
+        #         A3_MS_display()
+        #         p = 1
+        # elif count % int(0.5 / f) == 0: # 500 ms
+        #     if can_this_frame['SystemError']:
+        #         lastA3 = 'SystemError'
+        #         A3_SF_display()
+        #         p = 1
+        #     elif can_this_frame['BatteryError']:
+        #         lastA3 = 'BatteryError'
+        #         A3_BL_display()
+        #         p = 1
+        # elif count % int(0.1 / f) == 0: # 100 ms
+        #     if can_this_frame['BrakeError']:
+        #         lastA3 = 'BrakeError'
+        #         A3_BF_display()
+        #         p = 1
+        # else:
+        #     if lastA3 == 'SystemError':
+        #         A3_SF_display()
+        #         p = 1
+        #     elif lastA3 == 'BatteryError':
+        #         A3_BL_display()
+        #         p = 1
+        #     elif lastA3 == 'MotorOverHeat' or 'ControllerOverHeat':
+        #         A3_MH_display()
+        #         p = 1
+        #     elif lastA3 == 'MotorOverSpeed':
+        #         A3_MS_display()
+        #         p = 1
+        #     elif lastA3 == 'BrakeError':
+        #         A3_BF_display()
+        #         p = 1
 
-        # if can_this_frame['SystemError']:
-        #     A3_SF_display()
-        #     p = 1
-        # elif can_this_frame['BatteryError']:
-        #     A3_BL_display()
-        #     p = 1
-        # elif can_this_frame['MotorOverHeat'] or can_this_frame['ControllerOverHeat']:
-        #     A3_MH_display()
-        #     p = 1
-        # elif can_this_frame['MotorOverSpeed']:
-        #     A3_MS_display()
-        #     p = 1
-        # elif can_this_frame['BrakeError']:
-        #     A3_BF_display()
-        #     p = 1
 
-        if count % int(0.05 / f) == 0: # 50 ms
-            if can_this_frame['ObjectDirection'] == 'left':
-                lastB5B6 = 'left'
-                B5_display()
-            elif can_this_frame['ObjectDirection'] == 'right':
-                lastB5B6 = 'right'
-                B6_display()
+        # if can_this_frame['ObjectDirection'] == 'left':
+        #     if lastB5B6 != 'left' or startB5B6 + 25 > count:
+        #         startB5B6 = count
+        #     lastB5B6 = 'left'
+        #     B5_display(startB5B6)
+        # elif can_this_frame['ObjectDirection'] == 'right':
+        #     if lastB5B6 != 'right' or startB5B6 + 25 > count:
+        #         startB5B6 = count
+        #     lastB5B6 = 'right'
+        #     B6_display(startB5B6)
+        # else:
+        #     if lastB5B6 == 'left':
+        #         B5_display(startB5B6)
+        #     elif lastB5B6 == 'right': 
+        #         B6_display(startB5B6)
 
-        if count % int(0.05 / f) == 0: # 50 ms
-            if can_this_frame['FrontCollisionLevel'] == 'level1' and can_this_frame['FrontCollisionType'] == 'vehicle warning':
-                lastB3B4 = 'F_L1'
-                B3_F_L1_display()
-                p = 1
-                a = 1
-            elif can_this_frame['FrontCollisionLevel'] == 'level1' and can_this_frame['FrontCollisionType'] == 'none vehicle/pedestrian warning':
-                lastB3B4 = 'P_L1'
-                B3_P_L1_display()
-                p = 1
-                a = 1
-            elif can_this_frame['FrontCollisionLevel'] == 'level2' and can_this_frame['FrontCollisionType'] == 'vehicle warning':
-                lastB3B4 = 'F_L2'
-                B3_F_L2_display()
-                p = 1
-                a = 1
-            elif can_this_frame['FrontCollisionLevel'] == 'level2' and can_this_frame['FrontCollisionType'] == 'none vehicle/pedestrian warning':
-                lastB3B4 = 'P_L2'
-                B3_P_L2_display()
-                p = 1
-                a = 1
+        # if count % int(0.05 / f) == 0: # 50 ms
+        #     if can_this_frame['FrontCollisionLevel'] == 'level1' and can_this_frame['FrontCollisionType'] == 'vehicle warning':
+        #         lastB3B4 = 'F_L1'
+        #         B3_F_L1_display()
+        #         p = 1
+        #         a = 1
+        #     elif can_this_frame['FrontCollisionLevel'] == 'level1' and can_this_frame['FrontCollisionType'] == 'none vehicle/pedestrian warning':
+        #         lastB3B4 = 'P_L1'
+        #         B3_P_L1_display()
+        #         p = 1
+        #         a = 1
+        #     elif can_this_frame['FrontCollisionLevel'] == 'level2' and can_this_frame['FrontCollisionType'] == 'vehicle warning':
+        #         lastB3B4 = 'F_L2'
+        #         B3_F_L2_display()
+        #         p = 1
+        #         a = 1
+        #     elif can_this_frame['FrontCollisionLevel'] == 'level2' and can_this_frame['FrontCollisionType'] == 'none vehicle/pedestrian warning':
+        #         lastB3B4 = 'P_L2'
+        #         B3_P_L2_display()
+        #         p = 1
+        #         a = 1
 
-        if can_this_frame['LDW_Left'] == 'warning' and (p >= 2 or a != 1): # 50 ms
-            B4_L_display()
-            p = 2
-        elif can_this_frame['LDW_Right'] == 'warning' and (p >= 2 or a != 1): 
-            B4_R_display()
-            p = 2
-
-        if count % int(1 / f) == 0: # 1000 ms
-            a3_number = int(can_this_frame['DistanceValue']*0.1)
-            unit = can_this_frame['DistanceUnit']
-            if unit == '0.1m' or unit =='0.1km':
-                unit = unit[3:] 
-                if a3_number >= 1000 and unit == 'm':
-                    a3_number = int(a3_number * 0.001)
-                    unit = 'km'
-
-            a4_number = int(can_this_frame['NavigationDestinationValue']*0.1)
-            dUnit = can_this_frame['NavigationDestinationUnit']
-            if dUnit == '0.1m' or dUnit =='0.1km':
-                dUnit = dUnit[3:] 
-                if a4_number >= 1000 and dUnit == 'm':
-                    a4_number = int(a4_number * 0.001)
-                    dUnit = 'km'
+        # if can_this_frame['LDW_Left'] == 'warning' and (p >= 2 or a != 1): # 50 ms
+        #     B4_L_display()
+        #     p = 2
+        # elif can_this_frame['LDW_Right'] == 'warning' and (p >= 2 or a != 1): 
+        #     B4_R_display()
+        #     p = 2
         
-        if count % int(1 / f) == 0: # 1000 ms
-            if dUnit == 'm' or dUnit == 'km':
-                lastA4 = 'D'
-                A4_D_display()
-            elif can_this_frame['NavigationDirection'] == 'go straight':
-                lastA4 = 'S'
-                A4_S_display()
-            elif can_this_frame['NavigationDirection'] == 'turn left' or can_this_frame['NavigationDirection'] == 'left front' or can_this_frame['NavigationDirection'] == 'left rear':
-                lastA4 = 'TL'
-                A4_TL_display()
-                if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
-                    start = count
-                    lastB1 = 'L_Near'
-                    B1_L_Near_display(start)
-                elif p == 3 and unit == 'm':
-                    lastB1 = 'L_Near'
-                    B1_L_Near_display(start)
-                elif p == 3:
-                    lastB1 = 'L_Far'
-                    B1_L_Far_display()
-            elif can_this_frame['NavigationDirection'] == 'turn right' or can_this_frame['NavigationDirection'] == 'right front' or can_this_frame['NavigationDirection'] == 'right rear':
-                lastA4 = 'TR'
-                A4_TR_display()
-                if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
-                    start = count
-                    lastB1 = 'R_Near'
-                    B1_R_Near_display(start)
-                elif p == 3 and unit == 'm':
-                    lastB1 = 'R_Near'
-                    B1_R_Near_display(start)
-                elif p == 3:
-                    lastB1 = 'R_Far'
-                    B1_R_Far_display()
-            elif can_this_frame['NavigationDirection'] == 'U-turn':
-                lastA4 = 'TA'
-                A4_TA_display()
-                if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
-                    lastB1 = 'A_Near'
-                    start = count
-                    B1_A_Near_display(start)
-                elif p == 3 and unit == 'm':
-                    lastB1 = 'A_Near'
-                    B1_A_Near_display(start)
-                elif p == 3:
-                    lastB1 = 'A_Far'
-                    B1_A_Far_display()
+        a3_number = int(can_this_frame['DistanceValue']*0.1)
+        unit = can_this_frame['DistanceUnit']
+        if (unit == '0.1m' or unit =='0.1km') and can_this_frame['DataValid'] == 'data valid':
+            unit = unit[3:] 
+            if a3_number >= 1000 and unit == 'm':
+                a3_number = int(a3_number * 0.001)
+                unit = 'km'
+            last_a3_number = a3_number
+            last_unit = unit
+        else: 
+            a3_number = last_a3_number
+            unit = last_unit
 
-            if unit == 'm' and a3_number == 0:
+        a4_number = int(can_this_frame['NavigationDestinationValue']*0.1)
+        dUnit = can_this_frame['NavigationDestinationUnit']
+        if (dUnit == '0.1m' or dUnit =='0.1km') and can_this_frame['DataValid'] == 'data valid':
+            dUnit = dUnit[3:]
+            if a4_number >= 1000 and dUnit == 'm':
+                a4_number = int(a4_number * 0.001)
+                dUnit = 'km'
+            last_a4_number = a4_number
+            last_dUnit = dUnit
+        else:
+            a4_number = last_a4_number
+            dUnit = last_dUnit
+        
+        
+        if dUnit == 'm' or dUnit == 'km':
+            # lastA4 = 'D'
+            A4_D_display()
+        # elif can_this_frame['NavigationDirection'] == 'go straight':
+        if can_this_frame['NavigationDirection'] == 'go straight':
+            if lastA4 != 'S':
                 start = 0
+            lastA4 = 'S'
+            A4_S_display()
+            if p == 3:
+                B1_S_display()
+        elif can_this_frame['NavigationDirection'] == 'turn left' or can_this_frame['NavigationDirection'] == 'left front' or can_this_frame['NavigationDirection'] == 'left rear':
+            if lastA4 != 'TL':
+                start = 0
+            lastA4 = 'TL'
+            A4_TL_display()
+            if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
+                start = count
+                lastB1 = 'L_Near'
+                B1_L_Near_display(start)
+            elif p == 3 and unit == 'm' and a3_number < 50:
+                lastB1 = 'L_Near'
+                B1_L_Near_display(start)
+            elif p == 3:
+                lastB1 = 'L_Far'
+                B1_L_Far_display()
+        elif can_this_frame['NavigationDirection'] == 'turn right' or can_this_frame['NavigationDirection'] == 'right front' or can_this_frame['NavigationDirection'] == 'right rear':
+            if lastA4 != 'TR':
+                start = 0
+            lastA4 = 'TR'
+            A4_TR_display()
+            if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
+                start = count
+                lastB1 = 'R_Near'
+                B1_R_Near_display(start)
+            elif p == 3 and unit == 'm' and a3_number < 50:
+                lastB1 = 'R_Near'
+                B1_R_Near_display(start)
+            elif p == 3:
+                lastB1 = 'R_Far'
+                B1_R_Far_display()
+        elif can_this_frame['NavigationDirection'] == 'U-turn':
+            if lastA4 != 'TA':
+                start = 0
+            lastA4 = 'TA'
+            A4_TA_display()
+            if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
+                lastB1 = 'A_Near'
+                start = count
+                B1_A_Near_display(start)
+            elif p == 3 and unit == 'm' and a3_number < 50:
+                lastB1 = 'A_Near'
+                B1_A_Near_display(start)
+            elif p == 3:
+                lastB1 = 'A_Far'
+                B1_A_Far_display()
+
         else:
-            if lastA4 == 'D':
-                A4_D_display()
-            elif lastA4 == 'S':
+            # if lastA4 == 'D':
+            A4_D_display()
+            # elif lastA4 == 'S':
+            if lastA4 == 'S':
                 A4_S_display()
             elif lastA4 == 'TL':
                 A4_TL_display()
@@ -823,57 +887,54 @@ if __name__ == '__main__':
                 B1_A_Far_display()
 
 
-        #FCW_warning_level,FCW_main_obj_class,PDW_right_near,PDW_right_far,PDW_left_near,PDW_left_far=fcw_warning.update(detection_this_frame,can_this_frame["Speed"],can_this_frame["BrakeSignal"],can_this_frame["LeftSignal"],can_this_frame["RightSignal"])
+        # FCW_warning_level,FCW_main_obj_class,PDW_right_near,PDW_right_far,PDW_left_near,PDW_left_far=fcw_warning.update(detection_this_frame,can_this_frame["Speed"],can_this_frame["BrakeSignal"],can_this_frame["LeftSignal"],can_this_frame["RightSignal"])
         #FCW_warning_level:0=normal,1=blue,2=red ; FCW_main_obj_class=['Sedan', 'Truck', 'Bus', 'Motorcycle', 'Person'] ; PDW_X_X:0=normal,1=warning
 
         # print(can_this_frame)
         # print(can_this_frame['DistanceValue'], can_this_frame['DistanceUnit'])
         # print('A3: ', can_this_frame['SystemError'], can_this_frame['BatteryError'], can_this_frame['MotorOverHeat'], can_this_frame['MotorOverSpeed'], can_this_frame['BrakeError'])
-        # print(can_this_frame['NavigationDirection'])
-        # print(can_this_frame['DistanceValue'], can_this_frame['DistanceUnit'])
+        print(can_this_frame['NavigationDirection'])
+        print(can_this_frame['DistanceValue'], can_this_frame['DistanceUnit'])
         # print(can_this_frame['NavigationDestinationValue'], can_this_frame['NavigationDestinationUnit'])
-        print(can_this_frame['ObjectDirection'])
+        # print(can_this_frame['ObjectDirection'])
 
         if a1_number >= 100:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x,test_txt_y,80,0,255,255,255)
         elif a1_number >= 10:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x+18,test_txt_y,80,0,255,255,255)
-        elif a1_number > 0:
+        elif a1_number >= 0:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a1_number), test_txt_x+36,test_txt_y,80,0,255,255,255)
 
         if a2_number >= 100:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+230,test_txt_y-37,80,0,255,255,255)
         elif a2_number >= 10:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+248,test_txt_y-37,80,0,255,255,255)
-        elif a2_number > 0:
+        elif a2_number >= 0:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+266,test_txt_y-37,80,0,255,255,255)
 
        
-        if dUnit == 'm' or dUnit == 'km':
-            if a4_number >= 100:
-                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+750,test_txt_y+40,80,0,255,255,255)
-            elif a4_number >= 10:
-                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
-            elif a4_number > 0:
-                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)
-        elif unit == 'm' or unit =='km':
-            # unit = unit[3:] 
-            # if a3_number >= 1000 and unit == 'm':
-            #     a3_number = int(a3_number * 0.001)
-            #     unit = 'km'
+        # if dUnit == 'm' or dUnit == 'km':
+        #     if a4_number >= 100:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+750,test_txt_y+40,80,0,255,255,255)
+        #     elif a4_number >= 10:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
+        #     elif a4_number >= 0:
+        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)
+        # elif unit == 'm' or unit =='km':
+        if unit == 'm' or unit =='km':
             if a3_number >= 100:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+unit, test_txt_x+750,test_txt_y+40,80,0,255,255,255)
             elif a3_number >= 10:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+unit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
-            elif a3_number > 0:
+            elif a3_number >= 0:
                 jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a3_number)+unit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)
-        # elif dUnit == 'm' or dUnit == 'km':
-        #     if a4_number >= 100:
-        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+740,test_txt_y+40,80,0,255,255,255)
-        #     elif a4_number >= 10:
-        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+758,test_txt_y+40,80,0,255,255,255)
-        #     elif a4_number > 0:
-        #         jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+776,test_txt_y+40,80,0,255,255,255)    
+        if dUnit == 'm' or dUnit == 'km':
+            if a4_number >= 100:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+965,test_txt_y+40,80,0,255,255,255)
+            elif a4_number >= 10:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+973,test_txt_y+40,80,0,255,255,255)
+            elif a4_number >= 0:
+                jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a4_number)+dUnit, test_txt_x+991,test_txt_y+40,80,0,255,255,255)    
 
 
         display.RenderOnce(bg_img, bg_img_width, bg_img_height,img_start_x,img_start_y)
