@@ -1,0 +1,5 @@
+Sedan
+Truck
+Bus
+Motorcycle
+Person

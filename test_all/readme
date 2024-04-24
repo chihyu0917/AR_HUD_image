@@ -1,0 +1,12 @@
+cp -r test_all/ ~/
+cd ~/test_all
+wget https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/releases/download/v1.1.6/pyds-1.1.6-py3-none-linux_aarch64.whl
+pip3 install pyds-1.1.6-py3-none-linux_aarch64.whl
+
+程式加入內容：receive_detection_fcw.py
+顯示效果：
+解析度1280*720
+換成黑色桌面
+
+執行：
+./test.sh
