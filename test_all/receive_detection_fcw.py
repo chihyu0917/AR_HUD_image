@@ -831,17 +831,17 @@ if __name__ == '__main__':
             else:
                 B2_NTA_122.alpha = renderPattern(B2_NTA_122.img, B2_NTA_122.img_x, B2_NTA_122.img_y, B2_NTA_122.img_width, B2_NTA_122.img_height, B2_NTA_122.alpha, 255, 255, 1, 255, 1, 0, count)
             
-        def B1_KR_display():
-            B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
-            B1_KR_2.alpha = renderPattern(B1_KR_2.img, B1_KR_2.img_x, B1_KR_2.img_y, B1_KR_2.img_width, B1_KR_2.img_height, B1_KR_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
-            B1_KR_3.alpha = renderPattern(B1_KR_3.img, B1_KR_3.img_x, B1_KR_3.img_y, B1_KR_3.img_width, B1_KR_3.img_height, B1_KR_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
-            B1_KR_4.alpha = renderPattern(B1_KR_4.img, B1_KR_4.img_x, B1_KR_4.img_y, B1_KR_4.img_width, B1_KR_4.img_height, B1_KR_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
+        # def B1_KR_display():
+        #     B1_KR_1.alpha = renderPattern(B1_KR_1.img, B1_KR_1.img_x, B1_KR_1.img_y, B1_KR_1.img_width, B1_KR_1.img_height, B1_KR_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+        #     B1_KR_2.alpha = renderPattern(B1_KR_2.img, B1_KR_2.img_x, B1_KR_2.img_y, B1_KR_2.img_width, B1_KR_2.img_height, B1_KR_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+        #     B1_KR_3.alpha = renderPattern(B1_KR_3.img, B1_KR_3.img_x, B1_KR_3.img_y, B1_KR_3.img_width, B1_KR_3.img_height, B1_KR_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+        #     B1_KR_4.alpha = renderPattern(B1_KR_4.img, B1_KR_4.img_x, B1_KR_4.img_y, B1_KR_4.img_width, B1_KR_4.img_height, B1_KR_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
         
-        def B1_KL_display():
-            B1_KL_1.alpha = renderPattern(B1_KL_1.img, B1_KL_1.img_x, B1_KL_1.img_y, B1_KL_1.img_width, B1_KL_1.img_height, B1_KL_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
-            B1_KL_2.alpha = renderPattern(B1_KL_2.img, B1_KL_2.img_x, B1_KL_2.img_y, B1_KL_2.img_width, B1_KL_2.img_height, B1_KL_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
-            B1_KL_3.alpha = renderPattern(B1_KL_3.img, B1_KL_3.img_x, B1_KL_3.img_y, B1_KL_3.img_width, B1_KL_3.img_height, B1_KL_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
-            B1_KL_4.alpha = renderPattern(B1_KL_4.img, B1_KL_4.img_x, B1_KL_4.img_y, B1_KL_4.img_width, B1_KL_4.img_height, B1_KL_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
+        # def B1_KL_display():
+        #     B1_KL_1.alpha = renderPattern(B1_KL_1.img, B1_KL_1.img_x, B1_KL_1.img_y, B1_KL_1.img_width, B1_KL_1.img_height, B1_KL_1.alpha, 50, 255, fps/2, 400/fps, 4, 0, count) 
+        #     B1_KL_2.alpha = renderPattern(B1_KL_2.img, B1_KL_2.img_x, B1_KL_2.img_y, B1_KL_2.img_width, B1_KL_2.img_height, B1_KL_2.alpha, 50, 255, fps/2, 400/fps, 4, 1, count)
+        #     B1_KL_3.alpha = renderPattern(B1_KL_3.img, B1_KL_3.img_x, B1_KL_3.img_y, B1_KL_3.img_width, B1_KL_3.img_height, B1_KL_3.alpha, 50, 255, fps/2, 400/fps, 4, 2, count)
+        #     B1_KL_4.alpha = renderPattern(B1_KL_4.img, B1_KL_4.img_x, B1_KL_4.img_y, B1_KL_4.img_width, B1_KL_4.img_height, B1_KL_4.alpha, 50, 255, fps/2, 400/fps, 4, 3, count)
             
         def B3_F_L1_display():
             B3_FCW_B.alpha = renderPattern(B3_FCW_B.img, B3_FCW_B.img_x, B3_FCW_B.img_y, B3_FCW_B.img_width, B3_FCW_B.img_height, B3_FCW_B.alpha, 255, 255, 1, 255, 1, 0, count)
