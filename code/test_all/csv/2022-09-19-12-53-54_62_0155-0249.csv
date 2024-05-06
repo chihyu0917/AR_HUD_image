@@ -1,0 +1,387 @@
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563349.9184585}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2900, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2900, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563349.9185584}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563349.9590127}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.3105645}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563350.4892757}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.5138106}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.7191594}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.9287195}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563351.0297325}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2854, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2854, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563351.0298324}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.130115}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.3901746}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563351.5699255}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.6234052}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.843363}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563352.109264}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2811, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2811, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563352.1093638}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.1188686}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.3285923}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.5303068}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563352.609879}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.7859735}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.9901266}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563353.1188467}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2768, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2768, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563353.1189466}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.3188314}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.5190713}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563353.624008}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.7278364}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.928556}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563354.1291475}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2723, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2723, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563354.1292474}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.1336079}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.4506612}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563354.6293962}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.6697066}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.8946242}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.118744}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563355.1695068}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2672, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2672, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563355.1696067}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.318805}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.519206}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563355.7101648}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.729277}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.9885147}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563356.2280734}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2619, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2619, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563356.2281733}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.2492273}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.5190747}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.720433}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563356.7287457}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.9286792}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.1290915}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563357.307883}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2568, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2568, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563357.307983}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.3293874}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.5613925}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563357.8692007}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.8750057}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.1188726}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.3240738}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563358.4090905}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2517, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2517, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563358.4091904}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.5291376}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.770029}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563358.9190514}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.0034077}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.275724}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563359.4662528}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2470, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2470, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563359.4663527}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.4910092}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.719118}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.9292662}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563360.0296028}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.1305199}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.3899064}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563360.5697808}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2424, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2424, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563360.5698807}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.6110651}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.8879244}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563361.0762072}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.109514}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.3195212}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.5288801}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563361.6281366}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2390, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2390, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563361.6282365}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.7522433}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.0102942}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563362.1288927}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.232567}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.5139685}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563362.7070544}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2365, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2365, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563362.7071543}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.7190292}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.9290936}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.1496964}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563363.2567985}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.4498875}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.6566162}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563363.8109865}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2337, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2337, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563363.8110864}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.9029217}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.11898}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563364.3198545}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.3296833}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.52994}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.8000715}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563364.8446217}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2307, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2307, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563364.8447216}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.0344179}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.2511406}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563365.3711169}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.5188513}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.719717}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563365.919283}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2275, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2275, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563365.9193828}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.9290414}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.1292896}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.3298447}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563366.5096228}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.5407748}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.8696787}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563367.0493166}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2247, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2247, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563367.0494165}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.0865037}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.2943537}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.5193844}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563367.5901535}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.7194948}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.9296536}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563368.1194022}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2222, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2222, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563368.119502}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.2284248}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.49217}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563368.626686}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.719401}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.9195142}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563369.129005}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2203, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2203, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563369.1291049}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.1806352}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.389661}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.6260228}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563369.719809}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.9192822}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.1193228}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563370.289541}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2183, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2183, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563370.289641}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.3194582}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.5294766}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563370.8293374}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.8748128}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.0856626}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.3195171}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563371.3707974}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2165, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2165, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563371.3708973}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.5214882}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.729487}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563371.9121594}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.005025}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.2287686}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563372.418866}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2141, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2141, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563372.4189658}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.451215}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.7202237}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563372.9195876}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.9295673}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.1302483}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.3498328}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563373.4972928}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2112, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2112, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563373.4973927}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.561851}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.8902833}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563374.0699744}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.1195319}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.3250606}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.529739}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563374.6098835}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2089, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2089, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563374.6099834}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.7297835}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.9700482}
+{"SystemError": 0, "Speed": 5.0, "Time": 1663563375.1250603}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.20881}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.4664822}
+{"SystemError": 0, "Speed": 5.0, "Time": 1663563375.6275043}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2074, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2074, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563375.6276042}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.690079}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.9194582}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.1198575}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563376.1298625}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.3222368}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.527938}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563376.7171528}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2056, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2056, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563376.7172527}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.7315235}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.9502668}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.1835432}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563377.2819145}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.4704826}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.719858}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563377.846269}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2031, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2031, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563377.8463688}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.9292746}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.1293993}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563378.3900352}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.411746}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.6180134}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563378.8949544}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1999, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1999, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563378.8950543}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.9198666}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.1200294}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.3296337}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563379.4665234}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.5423834}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.829679}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563380.0097966}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1958, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1958, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563380.0098965}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.0413904}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.2958016}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563380.5193684}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.5292525}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.7297707}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.992142}
+{"SystemError": 0, "Speed": 19.0, "Time": 1663563381.0506246}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1909, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1909, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563381.0507245}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.2382777}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.4508905}
+{"SystemError": 0, "Speed": 21.0, "Time": 1663563381.5618289}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.6903665}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.9198527}
+{"SystemError": 0, "Speed": 23.0, "Time": 1663563382.1198485}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1847, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1847, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563382.1199484}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.130951}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.3509347}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.557115}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563382.6276343}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.890044}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.1195664}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563383.130423}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1777, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1777, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563383.130523}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.330026}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.6098719}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563383.6570048}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.848647}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.0644119}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563384.2281435}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1699, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1699, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563384.2282434}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.3198273}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.5199246}
+{"SystemError": 0, "Speed": 24.0, "Time": 1663563384.7319207}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.7620506}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.9945765}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.1950593}
+{"SystemError": 0, "Speed": 22.0, "Time": 1663563385.3203106}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1627, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1627, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563385.3204105}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.4105732}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.6279402}
+{"SystemError": 0, "Speed": 21.0, "Time": 1663563385.919625}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.9296844}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.1299727}
+{"SystemError": 0, "Speed": 20.0, "Time": 1663563386.4913192}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1559, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1559, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563386.491419}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.5145922}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.7199461}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.9201524}
+{"SystemError": 0, "Speed": 19.0, "Time": 1663563387.0303597}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.1242516}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.3296053}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563387.5311193}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1504, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1504, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563387.5312192}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.5703688}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.8331583}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563388.0382524}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.1100564}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.3208048}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.529865}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563388.5870664}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1454, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1454, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563388.5871663}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.7774148}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.9919324}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563389.1202886}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.3199563}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.5199971}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563389.6284974}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1413, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1413, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563389.6285973}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.7200618}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.9296916}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563390.1303804}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.1348789}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.451422}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563390.633262}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1377, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1377, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563390.6333618}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.65966}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.8957589}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.120228}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563391.1710486}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.3298972}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.5304205}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563391.7103655}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1342, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1342, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563391.7104654}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.792639}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.0380049}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563392.2286153}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.2511404}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.519965}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563392.729964}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1311, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1311, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563392.730064}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.7322612}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.954467}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.1833503}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563393.2976062}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.485939}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.6903129}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563393.863001}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1280, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1280, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563393.863101}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.9203112}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.1203952}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.32422}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563394.4101872}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.5302384}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.7707453}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563394.9200435}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1250, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1250, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563394.9201434}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.9936235}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.2773821}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563395.4668581}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.494002}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.720623}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.921794}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563396.026885}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1212, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1212, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563396.026985}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.1220355}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.3299882}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563396.529817}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.5766294}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.8007324}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563397.0511582}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1167, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1167, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563397.051258}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.0685291}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.2905467}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.5203245}
+{"SystemError": 0, "Speed": 20.0, "Time": 1663563397.5619998}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.720395}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.9310923}
+{"SystemError": 0, "Speed": 22.0, "Time": 1663563398.0750577}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1110, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1110, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563398.0751576}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.1347315}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.370299}
+{"SystemError": 0, "Speed": 24.0, "Time": 1663563398.575177}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.6297138}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.895099}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563399.085839}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1043, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1043, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563399.085939}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.0991426}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.320283}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.520298}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563399.629918}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.7203205}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.9211628}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.1233037}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563400.1299295}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 969, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 969, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563400.1300294}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.330141}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.5317404}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563400.6300795}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.7999587}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.0236444}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563401.1305065}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 900, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 900, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563401.1306064}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.2506955}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.5202649}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563401.6311128}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.7203956}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.930956}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563402.133211}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 830, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 830, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563402.1333108}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.1508505}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.5108263}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563402.690631}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.7191973}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.9204807}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.1311545}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563403.1964347}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 756, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 756, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563403.1965346}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.4109242}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.630486}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563403.720123}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.8475366}
