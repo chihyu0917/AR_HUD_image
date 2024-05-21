@@ -1,0 +1,940 @@
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563349.9184585}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2900, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2900, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563349.9185584}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563349.9590127}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.3105645}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563350.4892757}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.5138106}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.7191594}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563350.9287195}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563351.0297325}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2854, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2854, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563351.0298324}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.130115}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.3901746}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563351.5699255}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.6234052}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563351.843363}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563352.109264}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2811, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2811, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563352.1093638}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.1188686}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.3285923}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.5303068}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563352.609879}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.7859735}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563352.9901266}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563353.1188467}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2768, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2768, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563353.1189466}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.3188314}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.5190713}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563353.624008}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.7278364}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563353.928556}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563354.1291475}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2723, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2723, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563354.1292474}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.1336079}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.4506612}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563354.6293962}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.6697066}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563354.8946242}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.118744}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563355.1695068}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2672, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2672, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563355.1696067}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.318805}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.519206}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563355.7101648}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.729277}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563355.9885147}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563356.2280734}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2619, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2619, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563356.2281733}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.2492273}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.5190747}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.720433}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563356.7287457}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563356.9286792}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.1290915}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563357.307883}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2568, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2568, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563357.307983}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.3293874}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.5613925}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563357.8692007}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563357.8750057}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.1188726}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.3240738}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563358.4090905}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2517, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2517, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563358.4091904}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.5291376}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563358.770029}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563358.9190514}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.0034077}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.275724}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563359.4662528}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2470, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2470, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563359.4663527}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.4910092}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.719118}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563359.9292662}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563360.0296028}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.1305199}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.3899064}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563360.5697808}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2424, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2424, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563360.5698807}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.6110651}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563360.8879244}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563360.92629}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563360.9763725}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.0279262}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.072724}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563361.0762072}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.109514}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.1267369}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.169743}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.2233708}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.2737255}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.3195212}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.327697}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.3735056}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.4255023}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.4687881}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.5255306}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.5288801}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.571388}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.6223996}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563361.6281366}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2390, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2390, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563361.6282365}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.6714916}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.727624}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563361.7522433}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.7743337}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.8195128}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.8773298}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.9252956}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563361.9691021}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.0102942}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.0250716}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.069852}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.1201875}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563362.1288927}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.175179}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.2219205}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.232567}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.276941}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.3282766}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.3758159}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.4265742}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.4698572}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.5139685}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.5230837}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.573575}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.620328}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.6744893}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563362.7070544}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2365, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2365, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563362.7071543}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.7190292}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.7274277}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.777326}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.8225305}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.8762398}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.9202337}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563362.9290936}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563362.97557}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.0236778}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.0774868}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.1248398}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.1496964}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.172065}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.220031}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563363.2567985}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.2685003}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.3228884}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.3689506}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.4261444}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.4498875}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.4686422}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.5231156}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.575816}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.6250634}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.6566162}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.677081}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.7254927}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.7700212}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563363.8109865}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2337, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2337, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563363.8110864}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.8255992}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563363.8713145}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563363.9029217}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563364.1111379}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.11898}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563364.3198545}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.3296833}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.52994}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563364.8000715}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563364.8446217}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2307, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2307, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563364.8447216}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.0344179}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.2511406}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563365.3711169}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.5188513}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.719717}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563365.919283}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2275, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2275, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563365.9193828}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563365.9290414}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.1292896}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.3298447}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563366.5096228}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.5407748}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563366.8696787}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563367.0493166}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2247, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2247, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563367.0494165}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.0865037}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.2943537}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.5193844}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563367.5901535}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.7194948}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563367.9185047}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563367.9296536}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563367.9708385}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.0282083}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.076779}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563368.1194022}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2222, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2222, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563368.119502}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.1228988}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.1755764}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.2275488}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.2284248}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.275902}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.318819}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.370525}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.4241655}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.469993}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.49217}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.520497}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.5710907}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.6256583}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563368.626686}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.6702368}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.719401}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563368.9137857}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563368.9195142}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563369.129005}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2203, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2203, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563369.1291049}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.1806352}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.389661}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.6260228}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563369.719809}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563369.9192822}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.1193228}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563370.289541}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2183, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2183, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563370.289641}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.3194582}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.5294766}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563370.8293374}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563370.8748128}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563370.9283066}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563370.9715848}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.023012}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.0759397}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.0856626}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.126774}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.1761205}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.2212605}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.2761025}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.3195171}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.319547}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563371.3707974}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2165, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2165, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563371.3708973}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.3753142}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.4214969}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.4731925}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.5187042}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.5214882}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.5719168}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.6270013}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.669018}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.7237034}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563371.729487}
+{"ObjectCount": 3, "ObjectNumber": 3, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.7774425}
+{"ObjectCount": 3, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.8236349}
+{"ObjectCount": 3, "ObjectNumber": 2, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.8775108}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563371.9121594}
+{"ObjectCount": 0, "ObjectNumber": 0, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563371.920556}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563371.9263902}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563371.9751482}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.005025}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.020116}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.0746412}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.1218307}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.1712432}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.2206}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.2287686}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.273333}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.3208413}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.373062}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563372.418866}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2141, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2141, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563372.4189658}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.4250643}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.451215}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.4689763}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.5279496}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.577753}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.6221385}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.6780114}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.7202237}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563372.9154704}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563372.9195876}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563372.9295673}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.1302483}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.3498328}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563373.4972928}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2112, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2112, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563373.4973927}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.561851}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563373.8902833}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563374.0699744}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.1195319}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.3250606}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.529739}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563374.6098835}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2089, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2089, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563374.6099834}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.7297835}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563374.9700482}
+{"SystemError": 0, "Speed": 5.0, "Time": 1663563375.1250603}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.20881}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.4664822}
+{"SystemError": 0, "Speed": 5.0, "Time": 1663563375.6275043}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2074, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2074, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563375.6276042}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.690079}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563375.9194582}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.1198575}
+{"SystemError": 0, "Speed": 6.0, "Time": 1663563376.1298625}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.3222368}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.527938}
+{"SystemError": 0, "Speed": 7.0, "Time": 1663563376.7171528}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2056, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2056, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563376.7172527}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.7315235}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563376.9502668}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.1835432}
+{"SystemError": 0, "Speed": 8.0, "Time": 1663563377.2819145}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.4704826}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.719858}
+{"SystemError": 0, "Speed": 9.0, "Time": 1663563377.846269}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 2031, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 2031, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563377.8463688}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563377.9292746}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.1293993}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563378.3900352}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.411746}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.6180134}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563378.8949544}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1999, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1999, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563378.8950543}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563378.9198666}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.1200294}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.3296337}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563379.4665234}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.5423834}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563379.829679}
+{"FrontCollisionY": 0, "Time": 1663563379.9231324, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563379.97234, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 15.0, "Time": 1663563380.0097966}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1958, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1958, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563380.0098965}
+{"FrontCollisionY": 0, "Time": 1663563380.0276473, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.0413904}
+{"FrontCollisionY": 0, "Time": 1663563380.0700684, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.1280556, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.1748524, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.2228503, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.276125, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.2958016}
+{"FrontCollisionY": 0, "Time": 1663563380.322571, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.3758965, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.4194741, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.475117, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563380.5193684}
+{"FrontCollisionY": 0, "Time": 1663563380.5221796, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.5292525}
+{"FrontCollisionY": 0, "Time": 1663563380.5728118, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.6241775, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.6704426, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.7189116, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.7297707}
+{"FrontCollisionY": 0, "Time": 1663563380.7776558, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.8241265, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.8763454, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.920058, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563380.9756792, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563380.992142}
+{"FrontCollisionY": 0, "Time": 1663563381.0206614, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 19.0, "Time": 1663563381.0506246}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1909, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1909, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563381.0507245}
+{"FrontCollisionY": 0, "Time": 1663563381.0749557, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.1269765, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.1740975, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.2235866, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.2382777}
+{"FrontCollisionY": 0, "Time": 1663563381.2767456, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.318934, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.3784318, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.4263225, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.4508905}
+{"FrontCollisionY": 0, "Time": 1663563381.472098, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.5271242, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 21.0, "Time": 1663563381.5618289}
+{"FrontCollisionY": 0, "Time": 1663563381.5736728, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.619596, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.67382, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.6903665}
+{"FrontCollisionY": 0, "Time": 1663563381.7243426, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.776959, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.8224494, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.872565, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563381.9193246, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563381.9198527}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563381.925814}
+{"FrontCollisionY": 0, "Time": 1663563381.9741821, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563381.975932}
+{"FrontCollisionY": 0, "Time": 1663563382.020379, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.025312}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.0684981}
+{"FrontCollisionY": 0, "Time": 1663563382.0767598, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 23.0, "Time": 1663563382.1198485}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1847, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1847, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563382.1199484}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.1219661}
+{"FrontCollisionY": 0, "Time": 1663563382.1247835, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.130951}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.1727476}
+{"FrontCollisionY": 0, "Time": 1663563382.1738777, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563382.2246063, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.2275357}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.2703454}
+{"FrontCollisionY": 0, "Time": 1663563382.2768314, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.3206499}
+{"FrontCollisionY": 0, "Time": 1663563382.3262742, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.3509347}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.3721008}
+{"FrontCollisionY": 0, "Time": 1663563382.37615, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.419423}
+{"FrontCollisionY": 0, "Time": 1663563382.425127, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.47054}
+{"FrontCollisionY": 0, "Time": 1663563382.4778223, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563382.5239997, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.5275269}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.557115}
+{"FrontCollisionY": 0, "Time": 1663563382.5696108, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.5736492}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.6241498}
+{"FrontCollisionY": 0, "Time": 1663563382.6257796, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563382.6276343}
+{"FrontCollisionY": 0, "Time": 1663563382.6694582, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.6739154}
+{"FrontCollisionY": 0, "Time": 1663563382.721764, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.7246969}
+{"FrontCollisionY": 0, "Time": 1663563382.773315, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.7783082}
+{"FrontCollisionY": 0, "Time": 1663563382.8204024, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.8284318}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.8771632}
+{"FrontCollisionY": 0, "Time": 1663563382.8771842, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563382.890044}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563382.914656}
+{"FrontCollisionY": 0, "Time": 1663563382.9194899, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563382.971056, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.020775, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.0704353, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.1195664}
+{"FrontCollisionY": 0, "Time": 1663563383.1257846, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563383.130423}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1777, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1777, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563383.130523}
+{"FrontCollisionY": 0, "Time": 1663563383.1734803, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.2244306, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.2716682, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.3235266, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.330026}
+{"FrontCollisionY": 0, "Time": 1663563383.375222, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.4202094, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.473981, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.5244787, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.5688174, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.6098719}
+{"FrontCollisionY": 0, "Time": 1663563383.6222973, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563383.6570048}
+{"FrontCollisionY": 0, "Time": 1663563383.6692915, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.7276022, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.7749562, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.8253598, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563383.848647}
+{"FrontCollisionY": 0, "Time": 1663563383.8745604, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.9265256, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563383.9746048, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.0193872, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.0644119}
+{"FrontCollisionY": 0, "Time": 1663563384.068722, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.1202602, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.1707969, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.2247014, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563384.2281435}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1699, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1699, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563384.2282434}
+{"FrontCollisionY": 0, "Time": 1663563384.2756193, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.3198273}
+{"FrontCollisionY": 0, "Time": 1663563384.32109, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.3784266, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.4236302, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.4766777, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.5199246}
+{"FrontCollisionY": 0, "Time": 1663563384.5205982, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.5768273, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.618764, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.6752691, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.7226627, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 24.0, "Time": 1663563384.7319207}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.7620506}
+{"FrontCollisionY": 0, "Time": 1663563384.7779493, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.8221104, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.8748815, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.9201157, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563384.9693413, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563384.9945765}
+{"FrontCollisionY": 0, "Time": 1663563385.0265288, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.0731156, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.1195107, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.1777172, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.1950593}
+{"FrontCollisionY": 0, "Time": 1663563385.2196147, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.2696557, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 22.0, "Time": 1663563385.3203106}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1627, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1627, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563385.3204105}
+{"FrontCollisionY": 0, "Time": 1663563385.324595, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.3745227, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.4105732}
+{"FrontCollisionY": 0, "Time": 1663563385.4283674, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.4757288, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.5223598, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.574354, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.6198368, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.6279402}
+{"FrontCollisionY": 0, "Time": 1663563385.6757631, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.7212422, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.774438, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.8224034, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563385.8762834, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 21.0, "Time": 1663563385.919625}
+{"FrontCollisionY": 0, "Time": 1663563385.923204, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563385.9296844}
+{"FrontCollisionY": 0, "Time": 1663563385.9720526, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.0210178, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.0701785, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.1258497, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.1299727}
+{"FrontCollisionY": 0, "Time": 1663563386.1775086, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.224185, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.268667, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.3278055, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.3781817, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.4262965, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.4751296, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 20.0, "Time": 1663563386.4913192}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1559, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1559, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563386.491419}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.5145922}
+{"FrontCollisionY": 0, "Time": 1663563386.5198774, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.5698996, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.6186302, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.6701636, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.7199461}
+{"FrontCollisionY": 0, "Time": 1663563386.7228801, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.7687275, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.8268614, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.8692508, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563386.918872, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563386.9201524}
+{"FrontCollisionY": 0, "Time": 1663563386.9714975, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.0283866, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 19.0, "Time": 1663563387.0303597}
+{"FrontCollisionY": 0, "Time": 1663563387.0696492, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.1232963, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.1242516}
+{"FrontCollisionY": 0, "Time": 1663563387.1697316, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.2240252, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.2764256, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.3246565, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.3296053}
+{"FrontCollisionY": 0, "Time": 1663563387.3748605, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.4201596, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.4717908, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.5242617, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563387.5311193}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1504, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1504, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563387.5312192}
+{"FrontCollisionY": 0, "Time": 1663563387.5692737, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.5703688}
+{"FrontCollisionY": 0, "Time": 1663563387.6284015, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.672835, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.728389, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.773475, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.823072, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563387.8331583}
+{"FrontCollisionY": 0, "Time": 1663563387.8744462, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.9260776, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563387.9712172, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.0259635, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 17.0, "Time": 1663563388.0382524}
+{"FrontCollisionY": 0, "Time": 1663563388.0691376, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.1100564}
+{"FrontCollisionY": 0, "Time": 1663563388.1206446, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.1768847, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.2266762, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.271671, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.3208048}
+{"FrontCollisionY": 0, "Time": 1663563388.3275242, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.3753493, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.4280276, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.4704146, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.5271673, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.529865}
+{"FrontCollisionY": 0, "Time": 1663563388.5733206, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563388.5870664}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1454, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1454, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563388.5871663}
+{"FrontCollisionY": 0, "Time": 1663563388.6256144, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.6726503, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.721892, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.7767844, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.7774148}
+{"FrontCollisionY": 0, "Time": 1663563388.8251104, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.8732193, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.918584, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563388.9730098, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563388.9919324}
+{"FrontCollisionY": 0, "Time": 1663563389.0252745, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.0735188, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563389.1202886}
+{"FrontCollisionY": 0, "Time": 1663563389.1238334, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.1729658, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.2221265, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.268532, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.3199563}
+{"FrontCollisionY": 0, "Time": 1663563389.325619, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.3782325, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.42646, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.4692488, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.518979, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.5199971}
+{"FrontCollisionY": 0, "Time": 1663563389.5750854, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.6247218, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563389.6284974}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1413, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1413, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563389.6285973}
+{"FrontCollisionY": 0, "Time": 1663563389.6775844, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.7200618}
+{"FrontCollisionY": 0, "Time": 1663563389.7206697, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.7725716, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.8199835, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.871738, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563389.9249458, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563389.9282937}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563389.9296916}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563389.9711938}
+{"FrontCollisionY": 0, "Time": 1663563389.9751904, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563390.0196838, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.0275295}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.070055}
+{"FrontCollisionY": 0, "Time": 1663563390.0740669, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.119369}
+{"FrontCollisionY": 0, "Time": 1663563390.119406, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 13.0, "Time": 1663563390.1303804}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.1348789}
+{"FrontCollisionY": 0, "Time": 1663563390.1696272, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.1784122}
+{"FrontCollisionY": 0, "Time": 1663563390.2249844, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.2258785}
+{"FrontCollisionY": 0, "Time": 1663563390.275951, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.2776377}
+{"FrontCollisionY": 0, "Time": 1663563390.3253956, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.325597}
+{"FrontCollisionY": 0, "Time": 1663563390.3725321, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.3744345}
+{"FrontCollisionY": 0, "Time": 1663563390.419641, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.4199295}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.451422}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.469879}
+{"FrontCollisionY": 0, "Time": 1663563390.4733481, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.5190084}
+{"FrontCollisionY": 0, "Time": 1663563390.5234995, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.569157}
+{"FrontCollisionY": 0, "Time": 1663563390.569399, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.6203558}
+{"FrontCollisionY": 0, "Time": 1663563390.6240766, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563390.633262}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1377, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1377, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563390.6333618}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.65966}
+{"FrontCollisionY": 0, "Time": 1663563390.6685557, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.6762042}
+{"FrontCollisionY": 0, "Time": 1663563390.7195282, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.721236}
+{"FrontCollisionY": 0, "Time": 1663563390.771234, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.7764266}
+{"FrontCollisionY": 0, "Time": 1663563390.8248887, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.825468}
+{"VehicleCount": 1, "VehicleNumber": 1, "VehicleDirection": "right", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563390.8757699}
+{"FrontCollisionY": 0, "Time": 1663563390.876324, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563390.8957589}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563391.1113374}
+{"FrontCollisionY": 0, "Time": 1663563391.1147535, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "normal", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.120228}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563391.1710486}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.3298972}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.5304205}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563391.7103655}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1342, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1342, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563391.7104654}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563391.792639}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563391.926319}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563391.9711032}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.026755}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.0380049}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.076534}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.1243718}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.1754763}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.2214541}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563392.2286153}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.2511404}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.2776165}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.321619}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.3724704}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.4258566}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.471648}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.519965}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.5218074}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.576903}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.6266036}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.6709232}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.7202656}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563392.729964}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1311, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1311, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563392.730064}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.7322612}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.7769663}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.8244445}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.8749144}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563392.92158}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.9271472}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563392.954467}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563392.969024}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563392.976995}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.020285}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.0263941}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.068585}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.0727193}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.1234138}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.1261833}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.1710718}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.1749263}
+{"BrakeSignal": "on", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.1833503}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.2208188}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.222714}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.2710557}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.2712896}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563393.2976062}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.322083}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.3261893}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.3703108}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.3724196}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.4240355}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.4251976}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.4720352}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.476769}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.485939}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.5218813}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.5267613}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.5743566}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.577965}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.6200287}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.6230838}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.671527}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.6728458}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.6903129}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.726145}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.7263935}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.7685127}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.7702267}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.8241723}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.8281991}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563393.863001}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1280, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1280, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563393.863101}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.8708055}
+{"ObjectCount": 0, "ObjectNumber": 0, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563393.916219}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563393.9203112}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.9284291}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563393.9721174}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.0253625}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.0720034}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.1203952}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.1257746}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.175342}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.2282662}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.274771}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.32422}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.3249602}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.3742886}
+{"SystemError": 0, "Speed": 10.0, "Time": 1663563394.4101872}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.4185596}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.4727302}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.520734}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.5302384}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.5758612}
+{"VehicleCount": 3, "VehicleNumber": 2, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.6243572}
+{"VehicleCount": 3, "VehicleNumber": 3, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.6771512}
+{"VehicleCount": 3, "VehicleNumber": 1, "VehicleDirection": "left", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.7262127}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.7707453}
+{"VehicleCount": 0, "VehicleNumber": 0, "VehicleDirection": "front", "VehicleX": 0, "VehicleY": 0, "VehicleVerticalDistance": 0, "VehicleHorizontalDistance": 0, "Time": 1663563394.9112508}
+{"SystemError": 0, "Speed": 11.0, "Time": 1663563394.9200435}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1250, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1250, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563394.9201434}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563394.9936235}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.2773821}
+{"SystemError": 0, "Speed": 12.0, "Time": 1663563395.4668581}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.494002}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.720623}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563395.921794}
+{"SystemError": 0, "Speed": 14.0, "Time": 1663563396.026885}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1212, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1212, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563396.026985}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.1220355}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.3299882}
+{"SystemError": 0, "Speed": 16.0, "Time": 1663563396.529817}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.5766294}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563396.8007324}
+{"SystemError": 0, "Speed": 18.0, "Time": 1663563397.0511582}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1167, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1167, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563397.051258}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.0685291}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.2905467}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.5203245}
+{"SystemError": 0, "Speed": 20.0, "Time": 1663563397.5619998}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.720395}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563397.9310923}
+{"SystemError": 0, "Speed": 22.0, "Time": 1663563398.0750577}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1110, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1110, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563398.0751576}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.1347315}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.370299}
+{"SystemError": 0, "Speed": 24.0, "Time": 1663563398.575177}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.6297138}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563398.895099}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563398.9256508}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563398.97767}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.0191114}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.0696485}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563399.085839}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 1043, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 1043, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563399.085939}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.0991426}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.1276453}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.1719968}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.2280324}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.2685645}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.320283}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.3237636}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.377395}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.4267364}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.4739056}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.520298}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.5237129}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.572083}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.627815}
+{"SystemError": 0, "Speed": 26.0, "Time": 1663563399.629918}
+{"ObjectCount": 1, "ObjectNumber": 1, "ObjectDirection": "right", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.6718585}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.7203205}
+{"ObjectCount": 0, "ObjectNumber": 0, "ObjectDirection": "left", "ObjectX": 0, "ObjectY": 0, "Time": 1663563399.9173043}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563399.9211628}
+{"FrontCollisionY": 0, "Time": 1663563399.9257264, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563399.973114, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.023555, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.0753613, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.1233037}
+{"FrontCollisionY": 0, "Time": 1663563400.128387, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563400.1299295}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 969, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 969, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563400.1300294}
+{"FrontCollisionY": 0, "Time": 1663563400.1767287, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.22056, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.2706974, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.324739, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.330141}
+{"FrontCollisionY": 0, "Time": 1663563400.3739514, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.4272592, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.4731727, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.5192485, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.5317404}
+{"FrontCollisionY": 0, "Time": 1663563400.577861, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.622457, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563400.6300795}
+{"FrontCollisionY": 0, "Time": 1663563400.673857, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.726591, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.7689264, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563400.7999587}
+{"FrontCollisionY": 0, "Time": 1663563400.8238187, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.876378, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.9186478, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563400.9775124, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.0236444}
+{"FrontCollisionY": 0, "Time": 1663563401.0254867, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.077447, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.1193998, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563401.1305065}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 900, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 900, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563401.1306064}
+{"FrontCollisionY": 0, "Time": 1663563401.1701725, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.22647, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.2506955}
+{"FrontCollisionY": 0, "Time": 1663563401.2736423, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.3223107, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.373035, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.4251199, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.4779086, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.5202384, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.5202649}
+{"FrontCollisionY": 0, "Time": 1663563401.5761166, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.6203995, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563401.6311128}
+{"FrontCollisionY": 0, "Time": 1663563401.6712801, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.7203956}
+{"FrontCollisionY": 0, "Time": 1663563401.7241864, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.7766805, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.823131, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.8746796, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563401.9230518, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563401.930956}
+{"FrontCollisionY": 0, "Time": 1663563401.9756355, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.0250967, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.0705543, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.124531, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563402.133211}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 830, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 830, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563402.1333108}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.1508505}
+{"FrontCollisionY": 0, "Time": 1663563402.1706953, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.2245364, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.2773013, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.3225696, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.374901, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.426839, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.4775925, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.5108263}
+{"FrontCollisionY": 0, "Time": 1663563402.528274, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.572926, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.6207738, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.6708355, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563402.690631}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.7191973}
+{"FrontCollisionY": 0, "Time": 1663563402.7231863, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.7728033, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.820036, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.8755243, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563402.9204807}
+{"FrontCollisionY": 0, "Time": 1663563402.924492, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563402.9732406, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.022532, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.0743022, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.1215875, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.1311545}
+{"FrontCollisionY": 0, "Time": 1663563403.1729388, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563403.1964347}
+{"NavigationDirection": "go straight", "NavigationDestinationValue": 756, "NavigationDestinationUnit": "0.1m", "DataValid": "data valid", "DistanceValue": 756, "DistanceUnit": "0.1m", "SpeedLimit": 50, "Time": 1663563403.1965346}
+{"FrontCollisionY": 0, "Time": 1663563403.220113, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.2696264, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.3280709, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.374766, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.4109242}
+{"FrontCollisionY": 0, "Time": 1663563403.4276285, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.473145, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.5234284, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.56907, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.6239595, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.630486}
+{"FrontCollisionY": 0, "Time": 1663563403.6730819, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.719701, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"SystemError": 0, "Speed": 25.0, "Time": 1663563403.720123}
+{"FrontCollisionY": 0, "Time": 1663563403.771333, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"FrontCollisionY": 0, "Time": 1663563403.8261764, "SpeedLimit": 0, "FrontCollisionType": "normal", "FrontCollisionX": 0, "FrontCollisionVerticalDistance": 0, "FindSpeedLimit": "not found", "LDW_Left": "warning", "FrontCollisionHorizontalDistance": 0, "LDW_Right": "normal", "FrontCollisionLevel": "normal"}
+{"BrakeSignal": "off", "LeftSignal": "off", "RightSignal": "off", "Time": 1663563403.8475366}
