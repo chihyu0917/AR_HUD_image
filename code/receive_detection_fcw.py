@@ -286,12 +286,12 @@ if __name__ == '__main__':
             'A4_S': './png/N_A4_S.png', 'A4_TR': './png/N_A4_TR.png', 'A4_TL': './png/N_A4_TL.png', 'A4_KR': './png/N_A4_KR.png', 
             'A4_KL': './png/N_A4_KL.png', 'A4_TA': './png/N_A4_TA.png', 'A4_D': './png/N_A4_D.png', # A4
             # 'A5': './png/W_A5_A.png', # A5
-            'B5_001': './png/A_B5_LBIN_001.png', 'B5_002': './png/A_B5_LBIN_002.png', 'B5_003': './png/A_B5_LBIN_003.png', # B5
-            'B6_001': './png/A_B6_RBIN_001.png', 'B6_002': './png/A_B6_RBIN_002.png', 'B6_003': './png/A_B6_RBIN_003.png', # B6
-            'B1_S_031': './png/N_B1_S_031.png', 'B1_S_037': './png/N_B1_S_037.png', 'B1_S_043': './png/N_B1_S_043.png', 'B1_S_049': './png/N_B1_S_049.png', 'B1_S_055': './png/N_B1_S_055.png', # B1
-            'B1_FTL_001': './png/N_B1_FTL_001.png', 'B1_FTL_010': './png/N_B1_FTL_010.png', 'B1_FTL_019': './png/N_B1_FTL_019.png', 'B1_FTL_028': './png/N_B1_FTL_028.png',
-            'B1_FTR_001': './png/N_B1_FTR_001.png', 'B1_FTR_010': './png/N_B1_FTR_010.png', 'B1_FTR_019': './png/N_B1_FTR_019.png', 'B1_FTR_028': './png/N_B1_FTR_028.png',
-            'B1_FTA_001': './png/N_B1_FTA_001.png', 'B1_FTA_010': './png/N_B1_FTA_010.png', 'B1_FTA_019': './png/N_B1_FTA_019.png', 'B1_FTA_028': './png/N_B1_FTA_028.png',
+            # 'B5_001': './png/A_B5_LBIN_001.png', 'B5_002': './png/A_B5_LBIN_002.png', 'B5_003': './png/A_B5_LBIN_003.png', # B5
+            # 'B6_001': './png/A_B6_RBIN_001.png', 'B6_002': './png/A_B6_RBIN_002.png', 'B6_003': './png/A_B6_RBIN_003.png', # B6
+            # 'B1_S_031': './png/N_B1_S_031.png', 'B1_S_037': './png/N_B1_S_037.png', 'B1_S_043': './png/N_B1_S_043.png', 'B1_S_049': './png/N_B1_S_049.png', 'B1_S_055': './png/N_B1_S_055.png', # B1
+            # 'B1_FTL_001': './png/N_B1_FTL_001.png', 'B1_FTL_010': './png/N_B1_FTL_010.png', 'B1_FTL_019': './png/N_B1_FTL_019.png', 'B1_FTL_028': './png/N_B1_FTL_028.png',
+            # 'B1_FTR_001': './png/N_B1_FTR_001.png', 'B1_FTR_010': './png/N_B1_FTR_010.png', 'B1_FTR_019': './png/N_B1_FTR_019.png', 'B1_FTR_028': './png/N_B1_FTR_028.png',
+            # 'B1_FTA_001': './png/N_B1_FTA_001.png', 'B1_FTA_010': './png/N_B1_FTA_010.png', 'B1_FTA_019': './png/N_B1_FTA_019.png', 'B1_FTA_028': './png/N_B1_FTA_028.png',
             
             'B1_NTR_001': './png/N_B1_NTR_001.png', 'B1_NTR_004': './png/N_B1_NTR_004.png', 'B1_NTR_007': './png/N_B1_NTR_007.png', 'B1_NTR_010': './png/N_B1_NTR_010.png', 'B1_NTR_013': './png/N_B1_NTR_013.png', 'B1_NTR_016': './png/N_B1_NTR_016.png',
             'B1_NTR_019': './png/N_B1_NTR_019.png', 'B1_NTR_022': './png/N_B1_NTR_022.png', 'B1_NTR_025': './png/N_B1_NTR_025.png', 'B1_NTR_028': './png/N_B1_NTR_028.png', 'B1_NTR_031': './png/N_B1_NTR_031.png', 'B1_NTR_034': './png/N_B1_NTR_034.png',
@@ -324,10 +324,29 @@ if __name__ == '__main__':
             
             'B3_FCWA': './png/A_B3_FCWA.png', 'B3_FCW_B': './png/A_B3_FCWB_001.png', 'B3_FCWB_2': './png/A_B3_FCWB_002.png', # B3
             'B3_PDWA': './png/A_B3_PDWA.png', 'B3_PDWB_2': './png/A_B3_PDWB_002.png', 'B3_PDW_1': './png/A_B3_PDW_1.png', 'B3_PDW_2': './png/A_B3_PDW_2.png', 'B3_PDW_3': './png/A_B3_PDW_3.png', 'B3_PDW_4': './png/A_B3_PDW_4.png',
-            'B4_LLDW_001': './png/A_B4_LLDW_001.png', 'B4_LLDW_002': './png/A_B4_LLDW_002.png', 'B4_LLDW_003': './png/A_B4_LLDW_003.png', 'B4_LLDW_004': './png/A_B4_LLDW_004.png', 'B4_LLDW_005': './png/A_B4_LLDW_005.png', # B4
-            'B4_RLDW_001': './png/A_B4_RLDW_001.png', 'B4_RLDW_002': './png/A_B4_RLDW_002.png', 'B4_RLDW_003': './png/A_B4_RLDW_003.png', 'B4_RLDW_004': './png/A_B4_RLDW_004.png', 'B4_RLDW_005': './png/A_B4_RLDW_005.png',
+            # 'B4_LLDW_001': './png/A_B4_LLDW_001.png', 'B4_LLDW_002': './png/A_B4_LLDW_002.png', 'B4_LLDW_003': './png/A_B4_LLDW_003.png', 'B4_LLDW_004': './png/A_B4_LLDW_004.png', 'B4_LLDW_005': './png/A_B4_LLDW_005.png', # B4
+            # 'B4_RLDW_001': './png/A_B4_RLDW_001.png', 'B4_RLDW_002': './png/A_B4_RLDW_002.png', 'B4_RLDW_003': './png/A_B4_RLDW_003.png', 'B4_RLDW_004': './png/A_B4_RLDW_004.png', 'B4_RLDW_005': './png/A_B4_RLDW_005.png',
         }
-        
+        #---------------------
+        B5_images_path = {'B5_{:03d}'.format(i): './png/A_B5_LBIN_{:03d}.png'.format(i) for i in range(1, 37)}
+        B6_images_path = {'B6_{:03d}'.format(i): './png/A_B6_RBIN_{:03d}.png'.format(i) for i in range(1, 37)}
+        S_images_path = {'B1_S_{:03d}'.format(i): './png/N_B1_S_{:03d}.png'.format(i) for i in range(1, 151)}
+        FTL_images_path = {'B1_FTL_{:03d}'.format(i): './png/N_B1_FTL_{:03d}.png'.format(i) for i in range(1, 37)}
+        FTR_images_path = {'B1_FTR_{:03d}'.format(i): './png/N_B1_FTR_{:03d}.png'.format(i) for i in range(1, 37)}
+        FTA_images_path = {'B1_FTA_{:03d}'.format(i): './png/N_B1_FTA_{:03d}.png'.format(i) for i in range(1, 37)}
+        B4_LLDW_images_path = {'B4_LLDW_{:03d}'.format(i): './png/A_B4_LLDW_{:03d}.png'.format(i) for i in range(1, 31)}
+        B4_RLDW_images_path = {'B4_RLDW_{:03d}'.format(i): './png/A_B4_RLDW_{:03d}.png'.format(i) for i in range(1, 31)}
+        images_path.update(B5_images_path)
+        images_path.update(B6_images_path)
+        images_path.update(S_images_path)
+        images_path.update(FTL_images_path)
+        images_path.update(FTR_images_path)
+        images_path.update(FTA_images_path)
+        images_path.update(B4_LLDW_images_path)
+        images_path.update(B4_RLDW_images_path)
+        #----------------------
+
+
         images = {}
         for key, path in images_path.items():
             images[key] = jetson.utils.loadImageRGBA(path)
@@ -352,44 +371,115 @@ if __name__ == '__main__':
     A3_MS = attributes(images['A3_MS'][0], images['A3_MS'][1], images['A3_MS'][2], 0, 560, 422)
     A3_BF = attributes(images['A3_BF'][0], images['A3_BF'][1], images['A3_BF'][2], 0, 560, 398)
     
-    A4_S = attributes(images['A4_S'][0], images['A4_S'][1], images['A4_S'][2], 0, 782, 404) # A4
-    A4_TR = attributes(images['A4_TR'][0], images['A4_TR'][1], images['A4_TR'][2], 0, 770, 404)
-    A4_TL = attributes(images['A4_TL'][0], images['A4_TL'][1], images['A4_TL'][2], 0, 770, 404)
-    A4_KR = attributes(images['A4_KR'][0], images['A4_KR'][1], images['A4_KR'][2], 0, 770, 404)
-    A4_KL = attributes(images['A4_KL'][0], images['A4_KL'][1], images['A4_KL'][2], 0, 770, 404)
+    # A4_S = attributes(images['A4_S'][0], images['A4_S'][1], images['A4_S'][2], 0, 782, 404) # A4
+    # A4_TR = attributes(images['A4_TR'][0], images['A4_TR'][1], images['A4_TR'][2], 0, 770, 404)
+    # A4_TL = attributes(images['A4_TL'][0], images['A4_TL'][1], images['A4_TL'][2], 0, 770, 404)
+    # A4_KR = attributes(images['A4_KR'][0], images['A4_KR'][1], images['A4_KR'][2], 0, 770, 404)
+    # A4_KL = attributes(images['A4_KL'][0], images['A4_KL'][1], images['A4_KL'][2], 0, 770, 404)
+    # A4_TA = attributes(images['A4_TA'][0], images['A4_TA'][1], images['A4_TA'][2], 0, 770, 425)
+    # A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 785, 425) 
+    A4_S = attributes(images['A4_S'][0], images['A4_S'][1], images['A4_S'][2], 0, 777, 400) # A4
+    A4_TR = attributes(images['A4_TR'][0], images['A4_TR'][1], images['A4_TR'][2], 0, 770, 394)
+    A4_TL = attributes(images['A4_TL'][0], images['A4_TL'][1], images['A4_TL'][2], 0, 770, 394)
+    A4_KR = attributes(images['A4_KR'][0], images['A4_KR'][1], images['A4_KR'][2], 0, 775, 410)
+    A4_KL = attributes(images['A4_KL'][0], images['A4_KL'][1], images['A4_KL'][2], 0, 783, 410)
     A4_TA = attributes(images['A4_TA'][0], images['A4_TA'][1], images['A4_TA'][2], 0, 770, 425)
-    A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 785, 425) 
+    A4_D = attributes(images['A4_D'][0], images['A4_D'][1], images['A4_D'][2], 0, 775, 424)
     
     # A5 = attributes(images['A5'][0], images['A5'][1], images['A5'][2], 0, 1045, 407) # A5
 
-    B5_001 = attributes(images['B5_001'][0], images['B5_001'][1], images['B5_001'][2], 0, 70, 155) # B5
-    B5_002 = attributes(images['B5_002'][0], images['B5_002'][1], images['B5_002'][2], 0, 70, 155)
-    B5_003 = attributes(images['B5_003'][0], images['B5_003'][1], images['B5_003'][2], 0, 70, 155)
+    # B5_001 = attributes(images['B5_001'][0], images['B5_001'][1], images['B5_001'][2], 0, 70, 155) # B5
+    # B5_002 = attributes(images['B5_002'][0], images['B5_002'][1], images['B5_002'][2], 0, 70, 155)
+    # B5_003 = attributes(images['B5_003'][0], images['B5_003'][1], images['B5_003'][2], 0, 70, 155)
+    
+    # B5_001 = attributes(images['B5_001'][0], images['B5_001'][1], images['B5_001'][2], 0, 70, 155) # B5
+    # B5_002 = attributes(images['B5_002'][0], images['B5_002'][1], images['B5_002'][2], 0, 70, 155)
+    # B5_003 = attributes(images['B5_003'][0], images['B5_003'][1], images['B5_003'][2], 0, 70, 155)
+    # B5_004 = attributes(images['B5_004'][0], images['B5_004'][1], images['B5_004'][2], 0, 70, 155)
+    # B5_005 = attributes(images['B5_005'][0], images['B5_005'][1], images['B5_005'][2], 0, 70, 155)
+    # B5_006 = attributes(images['B5_006'][0], images['B5_006'][1], images['B5_006'][2], 0, 70, 155)
+    # B5_007 = attributes(images['B5_007'][0], images['B5_007'][1], images['B5_007'][2], 0, 70, 155)
+    # B5_008 = attributes(images['B5_008'][0], images['B5_008'][1], images['B5_008'][2], 0, 70, 155)
+    # B5_009 = attributes(images['B5_009'][0], images['B5_009'][1], images['B5_009'][2], 0, 70, 155)
+    # B5_010 = attributes(images['B5_010'][0], images['B5_010'][1], images['B5_010'][2], 0, 70, 155)
+    # B5_011 = attributes(images['B5_011'][0], images['B5_011'][1], images['B5_011'][2], 0, 70, 155)
+    # B5_012 = attributes(images['B5_012'][0], images['B5_012'][1], images['B5_012'][2], 0, 70, 155)
+    # B5_013 = attributes(images['B5_013'][0], images['B5_013'][1], images['B5_013'][2], 0, 70, 155)
+    # B5_014 = attributes(images['B5_014'][0], images['B5_014'][1], images['B5_014'][2], 0, 70, 155)
+    # B5_015 = attributes(images['B5_015'][0], images['B5_015'][1], images['B5_015'][2], 0, 70, 155)
+    # B5_016 = attributes(images['B5_016'][0], images['B5_016'][1], images['B5_016'][2], 0, 70, 155)
+    # B5_017 = attributes(images['B5_017'][0], images['B5_017'][1], images['B5_017'][2], 0, 70, 155)
+    # B5_018 = attributes(images['B5_018'][0], images['B5_018'][1], images['B5_018'][2], 0, 70, 155)
+    # B5_019 = attributes(images['B5_019'][0], images['B5_019'][1], images['B5_019'][2], 0, 70, 155)
+    # B5_020 = attributes(images['B5_020'][0], images['B5_020'][1], images['B5_020'][2], 0, 70, 155)
+    # B5_021 = attributes(images['B5_021'][0], images['B5_021'][1], images['B5_021'][2], 0, 70, 155)
+    # B5_022 = attributes(images['B5_022'][0], images['B5_022'][1], images['B5_022'][2], 0, 70, 155)
+    # B5_023 = attributes(images['B5_023'][0], images['B5_023'][1], images['B5_023'][2], 0, 70, 155)
+    # B5_024 = attributes(images['B5_024'][0], images['B5_024'][1], images['B5_024'][2], 0, 70, 155)
+    # B5_025 = attributes(images['B5_025'][0], images['B5_025'][1], images['B5_025'][2], 0, 70, 155)
+    # B5_026 = attributes(images['B5_026'][0], images['B5_026'][1], images['B5_026'][2], 0, 70, 155)
+    # B5_027 = attributes(images['B5_027'][0], images['B5_027'][1], images['B5_027'][2], 0, 70, 155)
+    # B5_028 = attributes(images['B5_028'][0], images['B5_028'][1], images['B5_028'][2], 0, 70, 155)
+    # B5_029 = attributes(images['B5_029'][0], images['B5_029'][1], images['B5_029'][2], 0, 70, 155)
+    # B5_030 = attributes(images['B5_030'][0], images['B5_030'][1], images['B5_030'][2], 0, 70, 155)
+    # B5_031 = attributes(images['B5_031'][0], images['B5_031'][1], images['B5_031'][2], 0, 70, 155)
+    # B5_032 = attributes(images['B5_032'][0], images['B5_032'][1], images['B5_032'][2], 0, 70, 155)
+    # B5_033 = attributes(images['B5_033'][0], images['B5_033'][1], images['B5_033'][2], 0, 70, 155)
+    # B5_034 = attributes(images['B5_034'][0], images['B5_034'][1], images['B5_034'][2], 0, 70, 155)
+    # B5_035 = attributes(images['B5_035'][0], images['B5_035'][1], images['B5_035'][2], 0, 70, 155)
+    # B5_036 = attributes(images['B5_036'][0], images['B5_036'][1], images['B5_036'][2], 0, 70, 155)    
+    
+    B5_attributes = []
+    for i in range(1, 37):
+        key = f'B5_{str(i).zfill(3)}'
+        B5_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 70, 155))
 
-    B6_001 = attributes(images['B6_001'][0], images['B6_001'][1], images['B6_001'][2], 0, 1128, 155) # B6
-    B6_002 = attributes(images['B6_002'][0], images['B6_002'][1], images['B6_002'][2], 0, 1128, 155)
-    B6_003 = attributes(images['B6_003'][0], images['B6_003'][1], images['B6_003'][2], 0, 1128, 155)
+
+    # B6_001 = attributes(images['B6_001'][0], images['B6_001'][1], images['B6_001'][2], 0, 1128, 155) # B6
+    # B6_002 = attributes(images['B6_002'][0], images['B6_002'][1], images['B6_002'][2], 0, 1128, 155)
+    # B6_003 = attributes(images['B6_003'][0], images['B6_003'][1], images['B6_003'][2], 0, 1128, 155)
+    B6_attributes = []
+    for i in range(1, 37):
+        key = f'B6_{str(i).zfill(3)}'
+        B6_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 1128, 155))
+
     
-    B1_S_031 = attributes(images['B1_S_031'][0], images['B1_S_031'][1], images['B1_S_031'][2], 0, 70, 155)
-    B1_S_037 = attributes(images['B1_S_037'][0], images['B1_S_037'][1], images['B1_S_037'][2], 0, 70, 155)
-    B1_S_043 = attributes(images['B1_S_043'][0], images['B1_S_043'][1], images['B1_S_043'][2], 0, 70, 155)
-    B1_S_049 = attributes(images['B1_S_049'][0], images['B1_S_049'][1], images['B1_S_049'][2], 0, 70, 155)
-    B1_S_055 = attributes(images['B1_S_055'][0], images['B1_S_055'][1], images['B1_S_055'][2], 0, 70, 155)
+    # B1_S_031 = attributes(images['B1_S_031'][0], images['B1_S_031'][1], images['B1_S_031'][2], 0, 70, 155)
+    # B1_S_037 = attributes(images['B1_S_037'][0], images['B1_S_037'][1], images['B1_S_037'][2], 0, 70, 155)
+    # B1_S_043 = attributes(images['B1_S_043'][0], images['B1_S_043'][1], images['B1_S_043'][2], 0, 70, 155)
+    # B1_S_049 = attributes(images['B1_S_049'][0], images['B1_S_049'][1], images['B1_S_049'][2], 0, 70, 155)
+    # B1_S_055 = attributes(images['B1_S_055'][0], images['B1_S_055'][1], images['B1_S_055'][2], 0, 70, 155)
+    B1_S_attributes = []
+    for i in range(1, 151):
+        key = f'B1_S_{str(i).zfill(3)}'
+        B1_S_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 70, 155))
     
-    B1_FTL_001 = attributes(images['B1_FTL_001'][0], images['B1_FTL_001'][1], images['B1_FTL_001'][2], 0, 70, 155)
-    B1_FTL_010 = attributes(images['B1_FTL_010'][0], images['B1_FTL_010'][1], images['B1_FTL_010'][2], 0, 70, 155)
-    B1_FTL_019 = attributes(images['B1_FTL_019'][0], images['B1_FTL_019'][1], images['B1_FTL_019'][2], 0, 70, 155)
-    B1_FTL_028 = attributes(images['B1_FTL_028'][0], images['B1_FTL_028'][1], images['B1_FTL_028'][2], 0, 70, 155)
+    # B1_FTL_001 = attributes(images['B1_FTL_001'][0], images['B1_FTL_001'][1], images['B1_FTL_001'][2], 0, 70, 155)
+    # B1_FTL_010 = attributes(images['B1_FTL_010'][0], images['B1_FTL_010'][1], images['B1_FTL_010'][2], 0, 70, 155)
+    # B1_FTL_019 = attributes(images['B1_FTL_019'][0], images['B1_FTL_019'][1], images['B1_FTL_019'][2], 0, 70, 155)
+    # B1_FTL_028 = attributes(images['B1_FTL_028'][0], images['B1_FTL_028'][1], images['B1_FTL_028'][2], 0, 70, 155)
+    B1_FTL_attributes = []
+    for i in range(1, 37):
+        key = f'B1_FTL_{str(i).zfill(3)}'
+        B1_FTL_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 70, 155))
     
-    B1_FTR_001 = attributes(images['B1_FTR_001'][0], images['B1_FTR_001'][1], images['B1_FTR_001'][2], 0, 70, 155)
-    B1_FTR_010 = attributes(images['B1_FTR_010'][0], images['B1_FTR_010'][1], images['B1_FTR_010'][2], 0, 70, 155)
-    B1_FTR_019 = attributes(images['B1_FTR_019'][0], images['B1_FTR_019'][1], images['B1_FTR_019'][2], 0, 70, 155)
-    B1_FTR_028 = attributes(images['B1_FTR_028'][0], images['B1_FTR_028'][1], images['B1_FTR_028'][2], 0, 70, 155)
+    # B1_FTR_001 = attributes(images['B1_FTR_001'][0], images['B1_FTR_001'][1], images['B1_FTR_001'][2], 0, 70, 155)
+    # B1_FTR_010 = attributes(images['B1_FTR_010'][0], images['B1_FTR_010'][1], images['B1_FTR_010'][2], 0, 70, 155)
+    # B1_FTR_019 = attributes(images['B1_FTR_019'][0], images['B1_FTR_019'][1], images['B1_FTR_019'][2], 0, 70, 155)
+    # B1_FTR_028 = attributes(images['B1_FTR_028'][0], images['B1_FTR_028'][1], images['B1_FTR_028'][2], 0, 70, 155)
+    B1_FTR_attributes = []
+    for i in range(1, 37):
+        key = f'B1_FTR_{str(i).zfill(3)}'
+        B1_FTR_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 70, 155))
     
-    B1_FTA_001 = attributes(images['B1_FTA_001'][0], images['B1_FTA_001'][1], images['B1_FTA_001'][2], 0, 70, 155)
-    B1_FTA_010 = attributes(images['B1_FTA_010'][0], images['B1_FTA_010'][1], images['B1_FTA_010'][2], 0, 70, 155)
-    B1_FTA_019 = attributes(images['B1_FTA_019'][0], images['B1_FTA_019'][1], images['B1_FTA_019'][2], 0, 70, 155)
-    B1_FTA_028 = attributes(images['B1_FTA_028'][0], images['B1_FTA_028'][1], images['B1_FTA_028'][2], 0, 70, 155)
+    # B1_FTA_001 = attributes(images['B1_FTA_001'][0], images['B1_FTA_001'][1], images['B1_FTA_001'][2], 0, 70, 155)
+    # B1_FTA_010 = attributes(images['B1_FTA_010'][0], images['B1_FTA_010'][1], images['B1_FTA_010'][2], 0, 70, 155)
+    # B1_FTA_019 = attributes(images['B1_FTA_019'][0], images['B1_FTA_019'][1], images['B1_FTA_019'][2], 0, 70, 155)
+    # B1_FTA_028 = attributes(images['B1_FTA_028'][0], images['B1_FTA_028'][1], images['B1_FTA_028'][2], 0, 70, 155)
+    B1_FTA_attributes = []
+    for i in range(1, 37):
+        key = f'B1_FTA_{str(i).zfill(3)}'
+        B1_FTA_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 70, 155))
     
     B1_NTR_001 = attributes(images['B1_NTR_001'][0], images['B1_NTR_001'][1], images['B1_NTR_001'][2], 0, 70, 155)
     B1_NTR_004 = attributes(images['B1_NTR_004'][0], images['B1_NTR_004'][1], images['B1_NTR_004'][2], 0, 70, 155)
@@ -536,16 +626,28 @@ if __name__ == '__main__':
     B3_PDW_3 = attributes(images['B3_PDW_3'][0], images['B3_PDW_3'][1], images['B3_PDW_3'][2], 0, 310, 175)
     B3_PDW_4 = attributes(images['B3_PDW_4'][0], images['B3_PDW_4'][1], images['B3_PDW_4'][2], 0, 310, 175)
     
-    B4_LLDW_001 = attributes(images['B4_LLDW_001'][0], images['B4_LLDW_001'][1], images['B4_LLDW_001'][2], 0, 190, 155)
-    B4_LLDW_002 = attributes(images['B4_LLDW_002'][0], images['B4_LLDW_002'][1], images['B4_LLDW_002'][2], 0, 190, 155)
-    B4_LLDW_003 = attributes(images['B4_LLDW_003'][0], images['B4_LLDW_003'][1], images['B4_LLDW_003'][2], 0, 190, 155)
-    B4_LLDW_004 = attributes(images['B4_LLDW_004'][0], images['B4_LLDW_004'][1], images['B4_LLDW_004'][2], 0, 190, 155)
-    B4_LLDW_005 = attributes(images['B4_LLDW_005'][0], images['B4_LLDW_005'][1], images['B4_LLDW_005'][2], 0, 190, 155)
-    B4_RLDW_001 = attributes(images['B4_RLDW_001'][0], images['B4_RLDW_001'][1], images['B4_RLDW_001'][2], 0, 190, 155)
-    B4_RLDW_002 = attributes(images['B4_RLDW_002'][0], images['B4_RLDW_002'][1], images['B4_RLDW_002'][2], 0, 190, 155)
-    B4_RLDW_003 = attributes(images['B4_RLDW_003'][0], images['B4_RLDW_003'][1], images['B4_RLDW_003'][2], 0, 190, 155)
-    B4_RLDW_004 = attributes(images['B4_RLDW_004'][0], images['B4_RLDW_004'][1], images['B4_RLDW_004'][2], 0, 190, 155)
-    B4_RLDW_005 = attributes(images['B4_RLDW_005'][0], images['B4_RLDW_005'][1], images['B4_RLDW_005'][2], 0, 190, 155)
+    # B4_LLDW_001 = attributes(images['B4_LLDW_001'][0], images['B4_LLDW_001'][1], images['B4_LLDW_001'][2], 0, 190, 155)
+    # B4_LLDW_002 = attributes(images['B4_LLDW_002'][0], images['B4_LLDW_002'][1], images['B4_LLDW_002'][2], 0, 190, 155)
+    # B4_LLDW_003 = attributes(images['B4_LLDW_003'][0], images['B4_LLDW_003'][1], images['B4_LLDW_003'][2], 0, 190, 155)
+    # B4_LLDW_004 = attributes(images['B4_LLDW_004'][0], images['B4_LLDW_004'][1], images['B4_LLDW_004'][2], 0, 190, 155)
+    # B4_LLDW_005 = attributes(images['B4_LLDW_005'][0], images['B4_LLDW_005'][1], images['B4_LLDW_005'][2], 0, 190, 155)
+    # B4_RLDW_001 = attributes(images['B4_RLDW_001'][0], images['B4_RLDW_001'][1], images['B4_RLDW_001'][2], 0, 190, 155)
+    # B4_RLDW_002 = attributes(images['B4_RLDW_002'][0], images['B4_RLDW_002'][1], images['B4_RLDW_002'][2], 0, 190, 155)
+    # B4_RLDW_003 = attributes(images['B4_RLDW_003'][0], images['B4_RLDW_003'][1], images['B4_RLDW_003'][2], 0, 190, 155)
+    # B4_RLDW_004 = attributes(images['B4_RLDW_004'][0], images['B4_RLDW_004'][1], images['B4_RLDW_004'][2], 0, 190, 155)
+    # B4_RLDW_005 = attributes(images['B4_RLDW_005'][0], images['B4_RLDW_005'][1], images['B4_RLDW_005'][2], 0, 190, 155)
+    
+    B4_LLDW_attributes = []
+    for i in range(1, 31):
+        key = f'B4_LLDW_{str(i).zfill(3)}'
+        B4_LLDW_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 190, 155))
+        
+    B4_RLDW_attributes = []
+    for i in range(1, 31):
+        key = f'B4_RLDW_{str(i).zfill(3)}'
+        B4_RLDW_attributes.append(attributes(images[key][0], images[key][1], images[key][2], 0, 190, 155))
+        
+    
 
 
     #----------------------------------------------------shared_dict initialization-------------------------------------------------------------
@@ -725,64 +827,115 @@ if __name__ == '__main__':
         #     A5.alpha = renderPattern(A5.img, A5.img_x, A5.img_y, A5.img_width, A5.img_height, A5.alpha, 255, 255, 1, 255, 1, 0, count)
             
         def B5_display():
-            frame = 200 
+            # frame = 200 
+            # tDif = dif * 1000
+            # B5_images = [B5_001, B5_002, B5_003, B5_002, B5_001]
+            # i = 0
+            # for i in range(len(B5_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B5_images[i%5].img, B5_images[i%5].img_x, B5_images[i%5].img_y, B5_images[i%5].img_width, B5_images[i%5].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            B5_images = [B5_001, B5_002, B5_003, B5_002, B5_001]
+            B5_images = B5_attributes
+            # B5_images = [B5_001, B5_002, B5_003, B5_004, B5_005, B5_006, B5_007, B5_008, B5_009, B5_010, B5_011, B5_012, B5_013, B5_014, B5_015, B5_016, B5_017, B5_018, B5_019, B5_020, B5_021, B5_022, B5_023, B5_024, B5_025, B5_026, B5_027, B5_028, B5_029, B5_030, B5_031, B5_032, B5_033, B5_034, B5_035, B5_036]
             i = 0
             for i in range(len(B5_images)):
-                if (tDif//frame)%5 == i%5:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B5_images[i%5].img, B5_images[i%5].img_x, B5_images[i%5].img_y, B5_images[i%5].img_width, B5_images[i%5].img_height)
+                if (tDif//frame)%36 == i%36:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B5_images[i%36].img, B5_images[i%36].img_x, B5_images[i%36].img_y, B5_images[i%36].img_width, B5_images[i%36].img_height)
                     break
+            
 
         def B6_display():
-            frame = 200 
+            # frame = 200 
+            # tDif = dif * 1000
+            # B6_images = [B6_001, B6_002, B6_003, B6_002, B6_001]
+            # i = 0
+            # for i in range(len(B6_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B6_images[i%5].img, B6_images[i%5].img_x, B6_images[i%5].img_y, B6_images[i%5].img_width, B6_images[i%5].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            B6_images = [B6_001, B6_002, B6_003, B6_002, B6_001]
+            B6_images = B6_attributes
             i = 0
             for i in range(len(B6_images)):
-                if (tDif//frame)%5 == i%5:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B6_images[i%5].img, B6_images[i%5].img_x, B6_images[i%5].img_y, B6_images[i%5].img_width, B6_images[i%5].img_height)
+                if (tDif//frame)%36 == i%36:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, B6_images[i%36].img, B6_images[i%36].img_x, B6_images[i%36].img_y, B6_images[i%36].img_width, B6_images[i%36].img_height)
                     break
         
         def B1_S_display(): # go straight
-            frame = 200 
+            # frame = 200 
+            # tDif = dif * 1000
+            # S_images = [B1_S_031, B1_S_037, B1_S_043, B1_S_049, B1_S_055]
+            # i = 0
+            # for i in range(len(S_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, S_images[i%5].img, S_images[i%5].img_x, S_images[i%5].img_y, S_images[i%5].img_width, S_images[i%5].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            S_images = [B1_S_031, B1_S_037, B1_S_043, B1_S_049, B1_S_055]
+            S_images = B1_S_attributes
             i = 0
             for i in range(len(S_images)):
-                if (tDif//frame)%5 == i%5:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, S_images[i%5].img, S_images[i%5].img_x, S_images[i%5].img_y, S_images[i%5].img_width, S_images[i%5].img_height)
+                if (tDif//frame)%150 == i%150:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, S_images[i%150].img, S_images[i%150].img_x, S_images[i%150].img_y, S_images[i%150].img_width, S_images[i%150].img_height)
                     break
             
             
         def B1_R_Far_display(): # turn right
-            frame = 250 
+            # frame = 250 
+            # tDif = dif * 1000
+            # FTR_images = [B1_FTR_001, B1_FTR_010, B1_FTR_019, B1_FTR_028]
+            # i = 0
+            # for i in range(len(FTR_images)):
+            #     if (tDif//frame)%4 == i%4:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTR_images[i%4].img, FTR_images[i%4].img_x, FTR_images[i%4].img_y, FTR_images[i%4].img_width, FTR_images[i%4].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            FTR_images = [B1_FTR_001, B1_FTR_010, B1_FTR_019, B1_FTR_028]
+            FTR_images = B1_FTR_attributes
             i = 0
             for i in range(len(FTR_images)):
-                if (tDif//frame)%4 == i%4:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTR_images[i%4].img, FTR_images[i%4].img_x, FTR_images[i%4].img_y, FTR_images[i%4].img_width, FTR_images[i%4].img_height)
+                if (tDif//frame)%36 == i%36:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTR_images[i%36].img, FTR_images[i%36].img_x, FTR_images[i%36].img_y, FTR_images[i%36].img_width, FTR_images[i%36].img_height)
                     break
+
                        
         def B1_L_Far_display(): # turn left
-            frame = 250 
+            # frame = 250 
+            # tDif = dif * 1000
+            # FTL_images = [B1_FTL_001, B1_FTL_010, B1_FTL_019, B1_FTL_028]
+            # i = 0
+            # for i in range(len(FTL_images)):
+            #     if (tDif//frame)%4 == i%4:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTL_images[i%4].img, FTL_images[i%4].img_x, FTL_images[i%4].img_y, FTL_images[i%4].img_width, FTL_images[i%4].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            FTL_images = [B1_FTL_001, B1_FTL_010, B1_FTL_019, B1_FTL_028]
+            FTL_images = B1_FTL_attributes
             i = 0
             for i in range(len(FTL_images)):
-                if (tDif//frame)%4 == i%4:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTL_images[i%4].img, FTL_images[i%4].img_x, FTL_images[i%4].img_y, FTL_images[i%4].img_width, FTL_images[i%4].img_height)
+                if (tDif//frame)%36 == i%36:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTL_images[i%36].img, FTL_images[i%36].img_x, FTL_images[i%36].img_y, FTL_images[i%36].img_width, FTL_images[i%36].img_height)
                     break
         
         def B1_A_Far_display(): # turn around
-            frame = 250
+            # frame = 250
+            # tDif = dif * 1000
+            # FTA_images = [B1_FTA_001, B1_FTA_010, B1_FTA_019, B1_FTA_028]
+            # i = 0
+            # for i in range(len(FTA_images)):
+            #     if (tDif//frame)%4 == i%4:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTA_images[i%4].img, FTA_images[i%4].img_x, FTA_images[i%4].img_y, FTA_images[i%4].img_width, FTA_images[i%4].img_height)
+            #         break
+            frame = 33 
             tDif = dif * 1000
-            FTA_images = [B1_FTA_001, B1_FTA_010, B1_FTA_019, B1_FTA_028]
+            FTA_images = B1_FTA_attributes
             i = 0
             for i in range(len(FTA_images)):
-                if (tDif//frame)%4 == i%4:
-                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTA_images[i%4].img, FTA_images[i%4].img_x, FTA_images[i%4].img_y, FTA_images[i%4].img_width, FTA_images[i%4].img_height)
+                if (tDif//frame)%36 == i%36:
+                    jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTA_images[i%36].img, FTA_images[i%36].img_x, FTA_images[i%36].img_y, FTA_images[i%36].img_width, FTA_images[i%36].img_height)
                     break
                 
             
@@ -890,22 +1043,39 @@ if __name__ == '__main__':
                         image.alpha = max(image.alpha - 40, 50)
         
         def B4_R_display():
-            B4_R_images = [B4_RLDW_001, B4_RLDW_002, B4_RLDW_003, B4_RLDW_004, B4_RLDW_005]
+            # B4_R_images = [B4_RLDW_001, B4_RLDW_002, B4_RLDW_003, B4_RLDW_004, B4_RLDW_005]
+            # tDif = dif * 1000
+            # frame = 200
+            # for i in range(len(B4_R_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         image = B4_R_images[i]
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, image.img, image.img_x, image.img_y, image.img_width, image.img_height)
+            #         break
             tDif = dif * 1000
-            frame = 200
+            frame = 33
+            B4_R_images = B4_RLDW_attributes
             for i in range(len(B4_R_images)):
-                if (tDif//frame)%5 == i%5:
+                if (tDif//frame)%30 == i%30:
                     image = B4_R_images[i]
                     jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, image.img, image.img_x, image.img_y, image.img_width, image.img_height)
                     break
             
+            
         
         def B4_L_display():
-            B4_L_images = [B4_LLDW_001, B4_LLDW_002, B4_LLDW_003, B4_LLDW_004, B4_LLDW_005]
+            # B4_L_images = [B4_LLDW_001, B4_LLDW_002, B4_LLDW_003, B4_LLDW_004, B4_LLDW_005]
+            # tDif = dif * 1000
+            # frame = 200
+            # for i in range(len(B4_L_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         image = B4_L_images[i]
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, image.img, image.img_x, image.img_y, image.img_width, image.img_height)
+            #         break
             tDif = dif * 1000
-            frame = 200
+            frame = 33
+            B4_L_images = B4_LLDW_attributes
             for i in range(len(B4_L_images)):
-                if (tDif//frame)%5 == i%5:
+                if (tDif//frame)%30 == i%30:
                     image = B4_L_images[i]
                     jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, image.img, image.img_x, image.img_y, image.img_width, image.img_height)
                     break
@@ -960,8 +1130,8 @@ if __name__ == '__main__':
             p = 1
         
         # for testing-----------
-        # A3_BF_display() # for testing
-        # p = 1
+        A3_BF_display() # for testing
+        p = 1
         # for testing-----------
         # A3----------------------------
 
@@ -1123,18 +1293,18 @@ if __name__ == '__main__':
         
         # for testing-------------
         # if can_this_frame['NavigationDirection'] == 'turn right' or can_this_frame['NavigationDirection'] == 'right front' or can_this_frame['NavigationDirection'] == 'right rear':
-        #     if lastA4 != 'TA':
+        #     if lastA4 != 'TL':
         #         start = 0
-        #     lastA4 = 'TA'
-        #     A4_TA_display()
+        #     lastA4 = 'TL'
+        #     A4_TL_display()
         #     if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
         #         # start = count
         #         start = dif * 1000
-        #         B1_A_Near_display(start)
+        #         B1_L_Near_display(start)
         #     elif p == 3 and unit == 'm' and a3_number < 50:
-        #         B1_A_Near_display(start)
+        #         B1_L_Near_display(start)
         #     elif p == 3:
-        #         B1_A_Far_display()
+        #         B1_L_Far_display()
         # for testing-------------
         # A4 pattern--------------------------
 
@@ -1151,9 +1321,13 @@ if __name__ == '__main__':
         if a2_number >= 100:
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+230,test_txt_y-15,80,0,255,255,255)
         elif a2_number >= 10:
-            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+248,test_txt_y-15,80,0,255,255,255)
-        elif a2_number >= 0:
+            # jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+248,test_txt_y-15,80,0,255,255,255) 
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, '0', test_txt_x+230,test_txt_y-15,80,0,255,255,50)
             jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+266,test_txt_y-15,80,0,255,255,255)
+        elif a2_number >= 0:
+            # jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+266,test_txt_y-15,80,0,255,255,255) 
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, '00', test_txt_x+230,test_txt_y-15,80,0,255,255,50)
+            jetson.utils.Overlay_word(bg_img, bg_img_width, bg_img_height, str(a2_number), test_txt_x+302,test_txt_y-15,80,0,255,255,255)
 
        
         if dUnit == 'm' and a4_number == 0:
