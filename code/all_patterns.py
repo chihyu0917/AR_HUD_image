@@ -653,6 +653,8 @@ if __name__ == '__main__':
     lastTime = time.time()
     lastB3B4, lastA4, last_unit, last_dUnit = '', '', '', ''
     last_a3_number, last_a4_number = 0, 0
+    # a2_number, a3_number, a4_number = 70, 100, 20
+    # dUnit, unit = '', ''
 
 
     while True:
@@ -814,6 +816,14 @@ if __name__ == '__main__':
                     break
         
         def B1_S_display(): # go straight
+            # frame = 200 
+            # tDif = dif * 1000
+            # S_images = [B1_S_031, B1_S_037, B1_S_043, B1_S_049, B1_S_055]
+            # i = 0
+            # for i in range(len(S_images)):
+            #     if (tDif//frame)%5 == i%5:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, S_images[i%5].img, S_images[i%5].img_x, S_images[i%5].img_y, S_images[i%5].img_width, S_images[i%5].img_height)
+            #         break
             frame = 33 
             tDif = dif * 1000
             S_images = B1_S_attributes
@@ -825,6 +835,14 @@ if __name__ == '__main__':
             
             
         def B1_R_Far_display(): # turn right
+            # frame = 250 
+            # tDif = dif * 1000
+            # FTR_images = [B1_FTR_001, B1_FTR_010, B1_FTR_019, B1_FTR_028]
+            # i = 0
+            # for i in range(len(FTR_images)):
+            #     if (tDif//frame)%4 == i%4:
+            #         jetson.utils.Overlay_pat_selfalpha(bg_img, bg_img_width, bg_img_height, FTR_images[i%4].img, FTR_images[i%4].img_x, FTR_images[i%4].img_y, FTR_images[i%4].img_width, FTR_images[i%4].img_height)
+            #         break
             frame = 33 
             tDif = dif * 1000
             FTR_images = B1_FTR_attributes
@@ -1008,180 +1026,127 @@ if __name__ == '__main__':
         p = 3 # priority
         a = 0 # collision alert
 
+        a2_number, a3_number, a4_number = 70, 100, 20
+        dUnit, unit = '', ''
         # A1--------------------------
-        a1_number = can_this_frame['SpeedLimit']
         A1_display()
-
-        # a1_number = 100 # for testing
+        # for testing-----------
+        if (dif//10) % 2 == 0:
+            a1_number = 120 # for testing
+        else:
+            a1_number = 80
         # A1--------------------------
 
         # A2--------------------------
-        a2_number = int(can_this_frame['Speed'])
-
-        if can_this_frame['VehicleDirection'] == 'front' or can_this_frame['VehicleCount'] == 0:
-            pass
-        elif can_this_frame['VehicleDirection'] == 'rear':
-            A2_B_display()
-        elif can_this_frame['VehicleDirection'] == 'left':
-            A2_L_display()
-        elif can_this_frame['VehicleDirection'] == 'right':
-            A2_R_display()
-
         # for testing-----------
-        # a2_number = 100
-        # A2_L_display() # for testing
-        # A2_R_display()
-        # A2_B_display()
+        if a2_number < 120:
+            a2_number = 70 + int(dif)%50
+        else:
+            a2_number = 70
+        if (dif//10) % 3 == 0:
+            A2_L_display() # for testing
+        elif (dif//10) % 3 == 1:
+            A2_R_display()
+        else:
+            A2_B_display()
         # for testing-----------
         # A2---------------------------
         
         # A3---------------------------
-        if can_this_frame['MotorOverHeat'] or can_this_frame['ControllerOverHeat']:
-            A3_MH_display()
-            p = 1
-        elif can_this_frame['MotorOverSpeed']:
-            A3_MS_display()
-            p = 1
-        elif can_this_frame['SystemError']:
-            A3_SF_display()
-            p = 1
-        elif can_this_frame['BatteryError']:
-            A3_BL_display()
-            p = 1
-        elif can_this_frame['BrakeError']:
-            A3_BF_display()
-            p = 1
-        
         # for testing-----------
-        # A3_BF_display() # for testing
-        # p = 1
+        if dif < 10:
+            pass
+        elif dif < 20:
+            A3_MH_display()
+        elif dif < 30:
+            A3_MS_display()
+        elif dif < 40:
+            A3_SF_display()
+        elif dif < 50:
+            A3_BL_display()
+        elif dif < 60:
+            A3_BF_display()
+        if dif >= 10 and dif < 60:
+            p = 1
         # for testing-----------
         # A3----------------------------
 
         # B5/B6-------------------------
-        if can_this_frame['ObjectDirection'] == 'undefined' or can_this_frame['ObjectCount'] == 0:
-            pass
-        elif can_this_frame['ObjectDirection'] == 'left':
-            B5_display()
-        elif can_this_frame['ObjectDirection'] == 'right':
-            B6_display()
-
         # for testing-----------
-        # B5_display()
-        # B6_display() # for testing
+        if (dif//10) % 2 == 0:
+            B5_display()
+        else:
+            B6_display() # for testing
+        # for testing-----------
         # B5/B6-------------------------
 
         # B3----------------------------------
-        if FCW_warning_level == 2 and FCW_main_obj_class != 'Person': # red
-            B3_F_L1_display()
-            p = 1
-            a = 1
-        elif FCW_warning_level == 2 and FCW_main_obj_class == 'Person': # red
-            B3_P_L1_display()
-            p = 1
-            a = 1
-        elif FCW_warning_level == 1 and FCW_main_obj_class != 'Person': # blue
-            B3_F_L2_display()
-            p = 1
-            a = 1
-        elif FCW_warning_level == 1 and FCW_main_obj_class == 'Person': # blue
-            B3_P_L2_display()
-            p = 1
-            a = 1
-
-        if PDW_left_near:
-            B3_P_display(1)
-            p = 1
-            a = 1
-        if PDW_left_far:
-            B3_P_display(2)
-            p = 1
-            a = 1
-        if PDW_right_near:
-            B3_P_display(3)
-            p = 1
-            a = 1
-        if PDW_right_far:
-            B3_P_display(4)
-            p = 1
-            a = 1
-
         # for testing------------------
-        # B3_P_L1_display() # for testing
-        # B3_P_display(4) # for testing
-        # if dif >= 20 and dif< 30:
-        #     B3_P_display(1)
-        # elif dif >= 30 and dif < 40:
-        #     B3_P_display(2)
-        # elif dif >= 40 and dif < 50:
-        #     B3_P_display(3)
-        # elif dif >= 50 and dif < 60:
-        #     B3_P_display(4)
-        # p = 1
-        # a = 1
+        if dif < 10:
+            pass
+        elif dif< 15:
+            B3_P_display(1)
+        elif dif < 20:
+            B3_P_display(2)
+        elif dif < 25:
+            B3_P_display(3)
+        elif dif < 30:
+            B3_P_display(4)
+        elif dif < 35:
+            B3_F_L1_display()
+        elif dif < 40:
+            B3_F_L2_display()
+        elif dif < 45:
+            B3_P_L1_display()
+        elif dif < 50:
+            B3_P_L2_display()
+        if dif >= 10 and dif < 50:  
+            p = 1
+            a = 1
         # for testing------------------
         # B3----------------------------------
 
         # B4----------------------------------
-        if can_this_frame['LDW_Left'] == 'warning' and (p >= 2 or a != 1): 
+        # for testing---------------
+        if dif >= 50 and dif < 60:
             B4_L_display()
             p = 2
-        elif can_this_frame['LDW_Right'] == 'warning' and (p >= 2 or a != 1): 
+        elif dif >= 60 and dif < 70:
             B4_R_display()
             p = 2
-
-        # for testing---------------
-        # if p >= 2 or a != 1:
-        #     B4_L_display() # for testing
-        #     p = 2
         # for testing---------------
         # B4----------------------------------
 
         # A4 value----------------------------
-        a3_number = int(can_this_frame['DistanceValue']*0.1)
-        unit = can_this_frame['DistanceUnit']
-        if (unit == '0.1m' or unit =='0.1km') and can_this_frame['DataValid'] == 'data valid':
-            unit = unit[3:] 
-            if a3_number >= 1000 and unit == 'm':
-                a3_number = int(a3_number * 0.001)
-                unit = 'km'
-            last_a3_number = a3_number
-            last_unit = unit
-        else: 
-            a3_number = last_a3_number
-            unit = last_unit
-
-        a4_number = int(can_this_frame['NavigationDestinationValue']*0.1)
-        dUnit = can_this_frame['NavigationDestinationUnit']
-        if (dUnit == '0.1m' or dUnit =='0.1km') and can_this_frame['DataValid'] == 'data valid':
-            dUnit = dUnit[3:]
-            if a4_number >= 1000 and dUnit == 'm':
-                a4_number = int(a4_number * 0.001)
-                dUnit = 'km'
-            last_a4_number = a4_number
-            last_dUnit = dUnit
-        else:
-            a4_number = last_a4_number
-            dUnit = last_dUnit
-
         # for testing-------------
-        # a4_number = 0
-        # dUnit = 'm'
+        if a3_number > 1:
+            a3_number = 100 - 3*(int(dif)%33)
+            a4_number = a3_number
+            unit = 'm'
+        elif a3_number >= 0:
+            a3_number = -1
+            a4_number = 0
+            dUnit = 'm'
+        else:
+            a3_number = 100
+            a4_number = a3_number
+            unit = 'm'
+
         # for testing-------------
         # A4 value----------------------------
 
         # A4 pattern--------------------------
-        if dUnit == 'm' and a4_number == 0: # destination
-            A4_D_display()
-
-        elif can_this_frame['NavigationDirection'] == 'go straight': # other navigation
+        # for testing-------------
+        if dif < 70:
+            pass
+        elif dif < 80:
             if lastA4 != 'S':
                 start = 0
             lastA4 = 'S'
             A4_S_display()
             if p == 3:
                 B1_S_display()
-        elif can_this_frame['NavigationDirection'] == 'turn left' or can_this_frame['NavigationDirection'] == 'left front' or can_this_frame['NavigationDirection'] == 'left rear':
+        elif dif < 99:
             if lastA4 != 'TL':
                 start = 0
             lastA4 = 'TL'
@@ -1193,7 +1158,7 @@ if __name__ == '__main__':
                 B1_L_Near_display(start)
             elif p == 3:
                 B1_L_Far_display()
-        elif can_this_frame['NavigationDirection'] == 'turn right' or can_this_frame['NavigationDirection'] == 'right front' or can_this_frame['NavigationDirection'] == 'right rear':
+        elif dif < 132:
             if lastA4 != 'TR':
                 start = 0
             lastA4 = 'TR'
@@ -1205,7 +1170,7 @@ if __name__ == '__main__':
                 B1_R_Near_display(start)
             elif p == 3:
                 B1_R_Far_display()
-        elif can_this_frame['NavigationDirection'] == 'U-turn':
+        elif dif < 165:
             if lastA4 != 'TA':
                 start = 0
             lastA4 = 'TA'
@@ -1217,23 +1182,9 @@ if __name__ == '__main__':
                 B1_A_Near_display(start)
             elif p == 3:
                 B1_A_Far_display()
-        
-        # for testing-------------
-        # if can_this_frame['NavigationDirection'] == 'turn right' or can_this_frame['NavigationDirection'] == 'right front' or can_this_frame['NavigationDirection'] == 'right rear':
-        #     if lastA4 != 'TL':
-        #         start = 0
-        #     lastA4 = 'TL'
-        #     A4_TL_display()
-        #     if p == 3 and unit == 'm' and a3_number < 50 and start == 0:
-        #         # start = count
-        #         start = dif * 1000
-        #         B1_L_Near_display(start)
-        #     elif p == 3 and unit == 'm' and a3_number < 50:
-        #         B1_L_Near_display(start)
-        #     elif p == 3:
-        #         B1_L_Far_display()
         # for testing-------------
         # A4 pattern--------------------------
+
 
 
         print(dif)
