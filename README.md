@@ -21,5 +21,8 @@
 - `test.sh`: change different videos and csv files
 - `receive_detection_fcw.py`: modify the animation
 - `udp_sender.py`: read infos from csv files and send socket to display patterns 
-## Videos Demonstration
 
+## Videos Demonstration
+1. `test_all_v3` black background version
+[![AR HUD](/example/cover.png)](https://www.youtube.com/watch?v=1Y9TRrY0kmA)
+2. [`test_all_v2` transparent background version](https://youtu.be/LAL2wdhG46Y)
