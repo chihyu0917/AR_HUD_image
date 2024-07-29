@@ -6,7 +6,7 @@
 
 - [Installation](#installation)
 - [How to use](#how-to-use)
-- [Videos Demonstration](#videos-demonstration)
+- [Demonstration Videos](#demonstration-videos)
 
 ## Installation
 - Platform Requirements: [jetson-utils](https://github.com/dusty-nv/jetson-utils) on NVIDIA Jetson Platform
@@ -22,7 +22,7 @@
 - `receive_detection_fcw.py`: modify the animation
 - `udp_sender.py`: read infos from csv files and send socket to display patterns 
 
-## Videos Demonstration
+## Demonstration Videos
 1. `test_all_v3` black background version
 [![AR HUD](/example/cover.png)](https://www.youtube.com/watch?v=1Y9TRrY0kmA)
 2. `test_all_v2` transparent background version
