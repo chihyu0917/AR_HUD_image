@@ -25,4 +25,5 @@
 ## Videos Demonstration
 1. `test_all_v3` black background version
 [![AR HUD](/example/cover.png)](https://www.youtube.com/watch?v=1Y9TRrY0kmA)
-2. [`test_all_v2` transparent background version](https://youtu.be/LAL2wdhG46Y)
+2. `test_all_v2` transparent background version
+[![AR HUD](/example/cover2.png)](https://youtu.be/LAL2wdhG46Y)
